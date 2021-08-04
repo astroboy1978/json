@@ -1,0 +1,7092 @@
+[
+ {
+   "id": 1,
+   "hs_company_id": 6593518259,
+   "name": "A B Paterson College - ARUNDEL - 4214"
+ },
+ {
+   "id": 2,
+   "hs_company_id": 6593352265,
+   "name": "Abbotsford Primary School - ABBOTSFORD - 3067"
+ },
+ {
+   "id": 3,
+   "hs_company_id": 6593342216,
+   "name": "Abbotsford Public School - ABBOTSFORD - 2046"
+ },
+ {
+   "id": 4,
+   "hs_company_id": 6593335069,
+   "name": "Abbotsleigh - WAHROONGA - 2076"
+ },
+ {
+   "id": 5,
+   "hs_company_id": 6593342011,
+   "name": "Abbotsleigh Junior School - WAHROONGA - 2076"
+ },
+ {
+   "id": 6,
+   "hs_company_id": 6593354277,
+   "name": "Abercorn State School - EIDSVOLD - 4627"
+ },
+ {
+   "id": 7,
+   "hs_company_id": 6593337884,
+   "name": "Aberdeen Public School - ABERDEEN - 2336"
+ },
+ {
+   "id": 8,
+   "hs_company_id": 6593333775,
+   "name": "Aberfeldie Primary School - ESSENDON - 3040"
+ },
+ {
+   "id": 9,
+   "hs_company_id": 6593513834,
+   "name": "Aberfoyle Hub R-7 School - ABERFOYLE PARK - 5159"
+ },
+ {
+   "id": 10,
+   "hs_company_id": 6593341734,
+   "name": "Aberfoyle Park High School - ABERFOYLE PARK - 5159"
+ },
+ {
+   "id": 11,
+   "hs_company_id": 6593341618,
+   "name": "Abergowrie State School - ABERGOWRIE - 4850"
+ },
+ {
+   "id": 12,
+   "hs_company_id": 6593335298,
+   "name": "Abermain Public School - ABERMAIN - 2326"
+ },
+ {
+   "id": 13,
+   "hs_company_id": 6593507134,
+   "name": "Aboriginal and Islander School - ACACIA RIDGE - 4110"
+ },
+ {
+   "id": 14,
+   "hs_company_id": 6593518969,
+   "name": "Acacia Hill School - ALICE SPRINGS - 870"
+ },
+ {
+   "id": 15,
+   "hs_company_id": 6593350192,
+   "name": "Acacia Ridge State School - ACACIA RIDGE - 4110"
+ },
+ {
+   "id": 16,
+   "hs_company_id": 6593335080,
+   "name": "Academy of Mary Immaculate - FITZROY - 3065"
+ },
+ {
+   "id": 17,
+   "hs_company_id": 6593353568,
+   "name": "Adam Road Primary School - SOUTH BUNBURY - 6230"
+ },
+ {
+   "id": 18,
+   "hs_company_id": 6593335891,
+   "name": "Adaminaby Public School - ADAMINABY - 2630"
+ },
+ {
+   "id": 19,
+   "hs_company_id": 6593335177,
+   "name": "Adamstown Public School - ADAMSTOWN - 2289"
+ },
+ {
+   "id": 20,
+   "hs_company_id": 6593335065,
+   "name": "Adass Israel School Boys College - ELSTERNWICK - 3185"
+ },
+ {
+   "id": 21,
+   "hs_company_id": 6593476249,
+   "name": "Adass Israel School Girls Campus - ELSTERNWICK - 3185"
+ },
+ {
+   "id": 22,
+   "hs_company_id": 6593321283,
+   "name": "Adass Israel School Junior Boys Campus - ELSTERNWICK - 3185"
+ },
+ {
+   "id": 23,
+   "hs_company_id": 6593316495,
+   "name": "Adass Israel School Senior Boys Campus - ELSTERNWICK - 3185"
+ },
+ {
+   "id": 24,
+   "hs_company_id": 6593506694,
+   "name": "Adelaide High School - ADELAIDE - 5000"
+ },
+ {
+   "id": 25,
+   "hs_company_id": 6593514503,
+   "name": "Adelaide River School - ADELAIDE RIVER - 846"
+ },
+ {
+   "id": 26,
+   "hs_company_id": 6593335933,
+   "name": "Adelaide Secondary School of English - WEST CROYDON - 5008"
+ },
+ {
+   "id": 27,
+   "hs_company_id": 6593507175,
+   "name": "Adelaide West Special School - TAPEROO - 5017"
+ },
+ {
+   "id": 28,
+   "hs_company_id": 6593337434,
+   "name": "Adelong Public School - ADELONG - 2729"
+ },
+ {
+   "id": 29,
+   "hs_company_id": 6593351041,
+   "name": "Aetaomah School - UKI - 2484"
+ },
+ {
+   "id": 30,
+   "hs_company_id": 6593507100,
+   "name": "Afterlee Public School - KYOGLE - 2474"
+ },
+ {
+   "id": 31,
+   "hs_company_id": 6593355684,
+   "name": "AGBU Alexander Primary School - DUFFYS FOREST - 2084"
+ },
+ {
+   "id": 32,
+   "hs_company_id": 6593476521,
+   "name": "Agnes Water State School - AGNES WATER - 4677"
+ },
+ {
+   "id": 33,
+   "hs_company_id": 6593518918,
+   "name": "Agnew School - NAMBOUR - 4560"
+ },
+ {
+   "id": 34,
+   "hs_company_id": 6593501237,
+   "name": "Agnew School - ST HELENS - 4650"
+ },
+ {
+   "id": 35,
+   "hs_company_id": 6593351060,
+   "name": "Agnew School - TINGALPA - 4151"
+ },
+ {
+   "id": 36,
+   "hs_company_id": 6593516919,
+   "name": "Agnew School - TOOWOOMBA SOUTH - 4350"
+ },
+ {
+   "id": 37,
+   "hs_company_id": 6593339452,
+   "name": "Ainslie School - BRADDON - 2612"
+ },
+ {
+   "id": 38,
+   "hs_company_id": 6593337228,
+   "name": "Airdale Primary School - RISDON PARK - 5540"
+ },
+ {
+   "id": 39,
+   "hs_company_id": 6593352109,
+   "name": "Airds High School - AIRDS - 2560"
+ },
+ {
+   "id": 40,
+   "hs_company_id": 6593317924,
+   "name": "Airly Primary School - SALE - 3851"
+ },
+ {
+   "id": 41,
+   "hs_company_id": 6593516830,
+   "name": "Airville State School - AYR - 4807"
+ },
+ {
+   "id": 42,
+   "hs_company_id": 6593507122,
+   "name": "Aitken College - GREENVALE - 3059"
+ },
+ {
+   "id": 43,
+   "hs_company_id": 6593342467,
+   "name": "Aitken Creek Primary School - CRAGIEBURN - 3064"
+ },
+ {
+   "id": 44,
+   "hs_company_id": 6593515959,
+   "name": "Aitkenvale State School - AITKENVALE - 4814"
+ },
+ {
+   "id": 45,
+   "hs_company_id": 6593342561,
+   "name": "Ajuga School - GLENFIELD - 2167"
+ },
+ {
+   "id": 46,
+   "hs_company_id": 6593518936,
+   "name": "Al Amanah College Bankstown Campus - BANKSTOWN - 2200"
+ },
+ {
+   "id": 47,
+   "hs_company_id": 6593518346,
+   "name": "Al Amanah College Liverpool Campus - LIVERPOOL - 2170"
+ },
+ {
+   "id": 48,
+   "hs_company_id": 6593501207,
+   "name": "Al Faisal College Auburn Campus - AUBURN - 2144"
+ },
+ {
+   "id": 49,
+   "hs_company_id": 6593353006,
+   "name": "Al Hidayah Islamic School - VICTORIA PARK - 6102"
+ },
+ {
+   "id": 50,
+   "hs_company_id": 6593350266,
+   "name": "Al Noori Muslim School - GREENACRE - 2190"
+ },
+ {
+   "id": 51,
+   "hs_company_id": 6593351061,
+   "name": "Al Sadiq College Greenacre Campus - GREENACRE - 2190"
+ },
+ {
+   "id": 52,
+   "hs_company_id": 6593517618,
+   "name": "Al Sadiq College Yagoona Campus - GREENACRE - 2199"
+ },
+ {
+   "id": 53,
+   "hs_company_id": 6593355025,
+   "name": "Al Siraat College - EPPING - 3076"
+ },
+ {
+   "id": 54,
+   "hs_company_id": 6593514798,
+   "name": "Al Taqwa College Truganina Campus - WERRIBEE - 3029"
+ },
+ {
+   "id": 55,
+   "hs_company_id": 6593351087,
+   "name": "Al Zahra College - ARNCLIFFE - 2205"
+ },
+ {
+   "id": 56,
+   "hs_company_id": 6593341725,
+   "name": "Alawa Primary School - CASUARINA - 810"
+ },
+ {
+   "id": 57,
+   "hs_company_id": 6593351528,
+   "name": "Albanvale Primary School - ALBANVALE - 3021"
+ },
+ {
+   "id": 58,
+   "hs_company_id": 6593322092,
+   "name": "Albany Creek State High School - ALBANY CREEK - 4035"
+ },
+ {
+   "id": 59,
+   "hs_company_id": 6593336650,
+   "name": "Albany Creek State School - ALBANY CREEK - 4035"
+ },
+ {
+   "id": 60,
+   "hs_company_id": 6593513883,
+   "name": "Albany Hills State School - ALBANY CREEK - 4035"
+ },
+ {
+   "id": 61,
+   "hs_company_id": 6593350982,
+   "name": "Albany Primary School - ALBANY - 6330"
+ },
+ {
+   "id": 62,
+   "hs_company_id": 6593515173,
+   "name": "Albany Rise Primary School - WAVERLEY GARDENS - 3170"
+ },
+ {
+   "id": 63,
+   "hs_company_id": 6593517654,
+   "name": "Albany Secondary Education Support Centre - ALBANY - 6330"
+ },
+ {
+   "id": 64,
+   "hs_company_id": 6593317148,
+   "name": "Albany Senior High School - MOUNT CLARENCE - 6330"
+ },
+ {
+   "id": 65,
+   "hs_company_id": 6593317207,
+   "name": "Albert Park Flexible Learning Centre - BRISBANE CITY - 4000"
+ },
+ {
+   "id": 66,
+   "hs_company_id": 6593516111,
+   "name": "Albert Park Primary School - ALBERT PARK - 3206"
+ },
+ {
+   "id": 67,
+   "hs_company_id": 6593352275,
+   "name": "Albert Park Public School - LISMORE - 2480"
+ },
+ {
+   "id": 68,
+   "hs_company_id": 6593338639,
+   "name": "Albert Park Secondary College - ALBERT PARK - 3206"
+ },
+ {
+   "id": 69,
+   "hs_company_id": 6593351440,
+   "name": "Albert State School - MARYBOROUGH - 4650"
+ },
+ {
+   "id": 70,
+   "hs_company_id": 6593342476,
+   "name": "Albert Street Primary School - MOE - 3825"
+ },
+ {
+   "id": 71,
+   "hs_company_id": 6593342791,
+   "name": "Alberton Primary School - ALBERTON - 3971"
+ },
+ {
+   "id": 72,
+   "hs_company_id": 6593342814,
+   "name": "Alberton Primary School - QUEENSTOWN - 5014"
+ },
+ {
+   "id": 73,
+   "hs_company_id": 6593352249,
+   "name": "Albion North Primary School - SUNSHINE - 3020"
+ },
+ {
+   "id": 74,
+   "hs_company_id": 6593350965,
+   "name": "Albion Park High School - ALBION PARK - 2527"
+ },
+ {
+   "id": 75,
+   "hs_company_id": 6593339412,
+   "name": "Albion Park Public School - ALBION PARK - 2527"
+ },
+ {
+   "id": 76,
+   "hs_company_id": 6593342890,
+   "name": "Albion Park Rail Public School - ALBION PARK - 2527"
+ },
+ {
+   "id": 77,
+   "hs_company_id": 6593335909,
+   "name": "Albion Primary School - ALBION - 3020"
+ },
+ {
+   "id": 78,
+   "hs_company_id": 6593514532,
+   "name": "Albuera Street Primary School - HOBART - 7000"
+ },
+ {
+   "id": 79,
+   "hs_company_id": 6593343009,
+   "name": "Albury High School - ALBURY - 2640"
+ },
+ {
+   "id": 80,
+   "hs_company_id": 6593343146,
+   "name": "Albury North Public School - NORTH ALBURY - 2640"
+ },
+ {
+   "id": 81,
+   "hs_company_id": 6593337943,
+   "name": "Albury Public School - ALBURY - 2640"
+ },
+ {
+   "id": 82,
+   "hs_company_id": 6593339267,
+   "name": "Albury West Public School - ALBURY - 2640"
+ },
+ {
+   "id": 83,
+   "hs_company_id": 6593356432,
+   "name": "Albury Wodonga Community College Albury Campus - WODONGA - 2640"
+ },
+ {
+   "id": 84,
+   "hs_company_id": 6593350812,
+   "name": "Alcoota School - ALICE SPRINGS - 872"
+ },
+ {
+   "id": 85,
+   "hs_company_id": 6593338741,
+   "name": "Aldavilla Public School - ALDAVILLA - 2440"
+ },
+ {
+   "id": 86,
+   "hs_company_id": 6593338020,
+   "name": "Aldercourt Primary School - BELVEDERE PARK - 3200"
+ },
+ {
+   "id": 87,
+   "hs_company_id": 6593334559,
+   "name": "Aldgate Primary School - ALDGATE - 5154"
+ },
+ {
+   "id": 88,
+   "hs_company_id": 6593322140,
+   "name": "Aldinga Primary School - ALDINGA BEACH - 5173"
+ },
+ {
+   "id": 89,
+   "hs_company_id": 6593353525,
+   "name": "Aldridge State High School - PALLAS STREET MARYBOROUGH - 4650"
+ },
+ {
+   "id": 90,
+   "hs_company_id": 6593351609,
+   "name": "Alekarenge Community Education Centre - ALICE SPRINGS - 870"
+ },
+ {
+   "id": 91,
+   "hs_company_id": 6593352972,
+   "name": "ALESCO Learning Centre - Berkeley Vale - CHITTAWAY BAY - 2261"
+ },
+ {
+   "id": 92,
+   "hs_company_id": 6593518938,
+   "name": "ALESCO Learning Centre - NEWCASTLE - NEWCASTLE - 2300"
+ },
+ {
+   "id": 93,
+   "hs_company_id": 6593515448,
+   "name": "ALESCO Learning Centre - WOLLONGONG - WOLLONGONG - 2500"
+ },
+ {
+   "id": 94,
+   "hs_company_id": 6593516155,
+   "name": "Alexandra Bay State School - MOSSMAN - 4873"
+ },
+ {
+   "id": 95,
+   "hs_company_id": 6593516707,
+   "name": "Alexandra Hills State High School - CAPALABA - 4161"
+ },
+ {
+   "id": 96,
+   "hs_company_id": 6593514105,
+   "name": "Alexandra Hills State School - ALEXANDRA HILLS - 4161"
+ },
+ {
+   "id": 97,
+   "hs_company_id": 6593341615,
+   "name": "Alexandra Primary School - ALEXANDRA - 3714"
+ },
+ {
+   "id": 98,
+   "hs_company_id": 6593335207,
+   "name": "Alexandra Secondary College - ALEXANDRA - 3714"
+ },
+ {
+   "id": 99,
+   "hs_company_id": 6593335974,
+   "name": "Alexandria Park Community School - ALEXANDRIA - 2015"
+ },
+ {
+   "id": 100,
+   "hs_company_id": 6593342369,
+   "name": "Alexandria Park Community School - ALEXANDRIA - 2015"
+ },
+ {
+   "id": 101,
+   "hs_company_id": 6593500952,
+   "name": "Alfords Point Public School - ALFORDS POINT - 2234"
+ },
+ {
+   "id": 102,
+   "hs_company_id": 6593514539,
+   "name": "Alfred Deakin High School - DEAKIN - 2600"
+ },
+ {
+   "id": 103,
+   "hs_company_id": 6593350768,
+   "name": "Alfredton Primary School - ALFREDTON - 3350"
+ },
+ {
+   "id": 104,
+   "hs_company_id": 6593350260,
+   "name": "Algester State School - ALGESTER - 4115"
+ },
+ {
+   "id": 105,
+   "hs_company_id": 6593515536,
+   "name": "Alia College - HAWTHORN EAST - 3123"
+ },
+ {
+   "id": 106,
+   "hs_company_id": 6593355050,
+   "name": "Alice Betteridge School - NORTH ROCKS - 2151"
+ },
+ {
+   "id": 107,
+   "hs_company_id": 6593516129,
+   "name": "Alice Springs School of the Air - ALICE SPRINGS - 870"
+ },
+ {
+   "id": 108,
+   "hs_company_id": 6593353607,
+   "name": "Alinjarra Primary School - ALEXANDER HEIGHTS - 6064"
+ },
+ {
+   "id": 109,
+   "hs_company_id": 6593352354,
+   "name": "Alkimos Baptist College - QUINNS ROCKS - 6030"
+ },
+ {
+   "id": 110,
+   "hs_company_id": 6593353524,
+   "name": "Alkira Secondary College - NARRE WARREN SOUTH - 3977"
+ },
+ {
+   "id": 111,
+   "hs_company_id": 6593338527,
+   "name": "All Hallows Primary School - FIVE DOCK - 2046"
+ },
+ {
+   "id": 112,
+   "hs_company_id": 6593334419,
+   "name": "All Hallows Primary School Gulgong - GULGONG - 2852"
+ },
+ {
+   "id": 113,
+   "hs_company_id": 6593476242,
+   "name": "All Hallows School - BRISBANE CITY - 4000"
+ },
+ {
+   "id": 114,
+   "hs_company_id": 6593517638,
+   "name": "All Saints Anglican School - MERRIMAC - 4226"
+ },
+ {
+   "id": 115,
+   "hs_company_id": 6593316630,
+   "name": "All Saints Boys College - LIVERPOOL WESTFIELD - 2170"
+ },
+ {
+   "id": 116,
+   "hs_company_id": 6593336497,
+   "name": "All Saints Catholic College Senior School - CASULA MALL - 2170"
+ },
+ {
+   "id": 117,
+   "hs_company_id": 6593337137,
+   "name": "All Saints Catholic School - SEAFORD - 5169"
+ },
+ {
+   "id": 118,
+   "hs_company_id": 6593514093,
+   "name": "All Saints College - BATHURST - 2795"
+ },
+ {
+   "id": 119,
+   "hs_company_id": 6593355664,
+   "name": "All Saints College - WILLETTON - 6149"
+ },
+ {
+   "id": 120,
+   "hs_company_id": 6593337224,
+   "name": "All Saints College St Joseph's Campus - LOCHINVAR - 2321"
+ },
+ {
+   "id": 121,
+   "hs_company_id": 6593500709,
+   "name": "All Saints College St Mary's Campus - MAITLAND - 2320"
+ },
+ {
+   "id": 122,
+   "hs_company_id": 6593335871,
+   "name": "All Saints College St Peter's Campus - MAITLAND - 2320"
+ },
+ {
+   "id": 123,
+   "hs_company_id": 6593351570,
+   "name": "All Saints Grammar School - BELMORE - 2195"
+ },
+ {
+   "id": 124,
+   "hs_company_id": 6593501240,
+   "name": "All Saints Grammar School Senior School - BELMORE - 2192"
+ },
+ {
+   "id": 125,
+   "hs_company_id": 6593339202,
+   "name": "All Saints Parish School - PORTLAND - 3305"
+ },
+ {
+   "id": 126,
+   "hs_company_id": 6593317919,
+   "name": "All Saints Primary School - ALBANY CREEK - 4035"
+ },
+ {
+   "id": 127,
+   "hs_company_id": 6593337703,
+   "name": "All Saints Primary School - BOONAH - 4310"
+ },
+ {
+   "id": 128,
+   "hs_company_id": 6593333646,
+   "name": "All Saints Primary School - LIVERPOOL WESTFIELD - 2170"
+ },
+ {
+   "id": 129,
+   "hs_company_id": 6593317020,
+   "name": "All Saints Primary School - TUMBARUMBA - 2653"
+ },
+ {
+   "id": 130,
+   "hs_company_id": 6593352350,
+   "name": "All Souls and St Gabriel's School - CHARTERS TOWERS - 4820"
+ },
+ {
+   "id": 131,
+   "hs_company_id": 6593351523,
+   "name": "Allambie Heights Public School - ALLAMBIE HEIGHTS - 2100"
+ },
+ {
+   "id": 132,
+   "hs_company_id": 6593476608,
+   "name": "Allansford Primary School - ALLANSFORD - 3277"
+ },
+ {
+   "id": 133,
+   "hs_company_id": 6593514518,
+   "name": "Allanson Primary School - ALLANSON - 6225"
+ },
+ {
+   "id": 134,
+   "hs_company_id": 6593354257,
+   "name": "Allenby Gardens Primary School - ALLENBY GARDENS - 5009"
+ },
+ {
+   "id": 135,
+   "hs_company_id": 6593337364,
+   "name": "Allendale East Area School - ALLENDALE EAST - 5291"
+ },
+ {
+   "id": 136,
+   "hs_company_id": 6593517592,
+   "name": "Allendale Primary School - WONTHELLA - 6530"
+ },
+ {
+   "id": 137,
+   "hs_company_id": 6593352297,
+   "name": "Allenstown State School - ALLENSTOWN - 4700"
+ },
+ {
+   "id": 138,
+   "hs_company_id": 6593335355,
+   "name": "Alligator Creek State School - ALLIGATOR CREEK - 4740"
+ },
+ {
+   "id": 139,
+   "hs_company_id": 6593517397,
+   "name": "Allora P-10 State School - ALLORA - 4362"
+ },
+ {
+   "id": 140,
+   "hs_company_id": 6593506717,
+   "name": "Alloway State School - ALLOWAY - 4670"
+ },
+ {
+   "id": 141,
+   "hs_company_id": 6593507102,
+   "name": "Alma Public School - BROKEN HILL - 2880"
+ },
+ {
+   "id": 142,
+   "hs_company_id": 6593338128,
+   "name": "Aloomba State School - ALOOMBA - 4871"
+ },
+ {
+   "id": 143,
+   "hs_company_id": 6593516179,
+   "name": "Alpha Omega Senior College - AUBURN - 2144"
+ },
+ {
+   "id": 144,
+   "hs_company_id": 6593353635,
+   "name": "Alpha State School - ALPHA - 4724"
+ },
+ {
+   "id": 145,
+   "hs_company_id": 6593515524,
+   "name": "Alphington Grammar School - ALPHINGTON - 3078"
+ },
+ {
+   "id": 146,
+   "hs_company_id": 6593337395,
+   "name": "Alphington Primary School - ALPHINGTON - 3078"
+ },
+ {
+   "id": 147,
+   "hs_company_id": 6593341501,
+   "name": "Alpurrurulum Community School - MOUNT ISA - 4825"
+ },
+ {
+   "id": 148,
+   "hs_company_id": 6593515271,
+   "name": "Alstonville High School - ALSTONVILLE - 2477"
+ },
+ {
+   "id": 149,
+   "hs_company_id": 6593476516,
+   "name": "Alstonville Public School - ALSTONVILLE - 2477"
+ },
+ {
+   "id": 150,
+   "hs_company_id": 6593515522,
+   "name": "Alta 1 Canning Vale Campus - WANGARA - 6155"
+ },
+ {
+   "id": 151,
+   "hs_company_id": 6593501259,
+   "name": "Alta 1 Joondalup Campus - Joondalup DC - 6027"
+ },
+ {
+   "id": 152,
+   "hs_company_id": 6593517632,
+   "name": "Alta 1 Malaga Campus - WANGARA - 6090"
+ },
+ {
+   "id": 153,
+   "hs_company_id": 6593507167,
+   "name": "Alternative Education Program Dickson College - DICKSON - 2602"
+ },
+ {
+   "id": 154,
+   "hs_company_id": 6593342889,
+   "name": "Altona College - ALTONA - 3018"
+ },
+ {
+   "id": 155,
+   "hs_company_id": 6593514570,
+   "name": "Altona Green Primary School - ALTONA MEADOWS - 3028"
+ },
+ {
+   "id": 156,
+   "hs_company_id": 6593351491,
+   "name": "Altona Meadows Primary School - ALTONA MEADOWS - 3028"
+ },
+ {
+   "id": 157,
+   "hs_company_id": 6593501007,
+   "name": "Altona North Primary School - ALTONA NORTH - 3025"
+ },
+ {
+   "id": 158,
+   "hs_company_id": 6593513819,
+   "name": "Altona Primary School - ALTONA - 3018"
+ },
+ {
+   "id": 159,
+   "hs_company_id": 6593514126,
+   "name": "Alvie Consolidated School - COLAC - 3249"
+ },
+ {
+   "id": 160,
+   "hs_company_id": 6593501059,
+   "name": "Alyangula Area School - ALYANGULA - 885"
+ },
+ {
+   "id": 161,
+   "hs_company_id": 6593515439,
+   "name": "Amamoor State School - AMAMOOR - 4570"
+ },
+ {
+   "id": 162,
+   "hs_company_id": 6593514565,
+   "name": "Amanbidji School - KATHERINE - 852"
+ },
+ {
+   "id": 163,
+   "hs_company_id": 6593343070,
+   "name": "Amaroo Primary School - COLLIE - 6225"
+ },
+ {
+   "id": 164,
+   "hs_company_id": 6593334031,
+   "name": "Amaroo School - AMAROO - 2914"
+ },
+ {
+   "id": 165,
+   "hs_company_id": 6593476462,
+   "name": "Amata Anangu School - ALICE SPRINGS - 872"
+ },
+ {
+   "id": 166,
+   "hs_company_id": 6593316644,
+   "name": "Ambarvale High School - ROSEMEADOW - 2560"
+ },
+ {
+   "id": 167,
+   "hs_company_id": 6593516035,
+   "name": "Ambarvale Public School - AMBARVALE - 2560"
+ },
+ {
+   "id": 168,
+   "hs_company_id": 6593506948,
+   "name": "Amberley District State School - YAMANTO - 4305"
+ },
+ {
+   "id": 169,
+   "hs_company_id": 6593516900,
+   "name": "Ambrose State School - AMBROSE - 4702"
+ },
+ {
+   "id": 170,
+   "hs_company_id": 6593341716,
+   "name": "Amiens State School - AMIENS - 4380"
+ },
+ {
+   "id": 171,
+   "hs_company_id": 6593514137,
+   "name": "Amoonguna School - ALICE SPRINGS - 870"
+ },
+ {
+   "id": 172,
+   "hs_company_id": 6593322027,
+   "name": "Amphitheatre Primary School - AMPHITHEATRE - 3468"
+ },
+ {
+   "id": 174,
+   "hs_company_id": 6593476456,
+   "name": "Amsleigh Park Primary School - OAKLEIGH EAST - 3166"
+ },
+ {
+   "id": 175,
+   "hs_company_id": 6593501036,
+   "name": "Anakie Primary School - ANAKIE - 3221"
+ },
+ {
+   "id": 176,
+   "hs_company_id": 6593342872,
+   "name": "Anakie State School - SAPPHIRE - 4702"
+ },
+ {
+   "id": 177,
+   "hs_company_id": 6593514767,
+   "name": "Ananda Marga River School - MALENY - 4552"
+ },
+ {
+   "id": 178,
+   "hs_company_id": 6593518940,
+   "name": "Andale School - KEW - 3101"
+ },
+ {
+   "id": 179,
+   "hs_company_id": 6593513811,
+   "name": "Andamooka Primary School - ANDAMOOKA - 5722"
+ },
+ {
+   "id": 180,
+   "hs_company_id": 6593342112,
+   "name": "Andergrove State School - MOUNT PLEASANT MACKAY - 4740"
+ },
+ {
+   "id": 181,
+   "hs_company_id": 6593342898,
+   "name": "Andersons Creek Primary School - WARRANDYTE - 3113"
+ },
+ {
+   "id": 182,
+   "hs_company_id": 6593506922,
+   "name": "Angaston Primary School - ANGASTON - 5353"
+ },
+ {
+   "id": 183,
+   "hs_company_id": 6593518183,
+   "name": "Angle Vale Primary School - ANGLE VALE - 5117"
+ },
+ {
+   "id": 184,
+   "hs_company_id": 6593352792,
+   "name": "Anglesea Primary School - ANGLESEA - 3230"
+ },
+ {
+   "id": 185,
+   "hs_company_id": 6593310615,
+   "name": "Anglican Church Grammar School - EAST BRISBANE - 4169"
+ },
+ {
+   "id": 186,
+   "hs_company_id": 6593351178,
+   "name": "Anglican Technical College - STANHOPE GARDENS - 2768"
+ },
+ {
+   "id": 187,
+   "hs_company_id": 6593517575,
+   "name": "Angurugu Community Education Centre - ALYANGULA - 885"
+ },
+ {
+   "id": 188,
+   "hs_company_id": 6593350823,
+   "name": "Anna Bay Public School - ANNA BAY - 2316"
+ },
+ {
+   "id": 189,
+   "hs_company_id": 6593343245,
+   "name": "Annandale Christian School - AITKENVALE - 4814"
+ },
+ {
+   "id": 190,
+   "hs_company_id": 6593335206,
+   "name": "Annandale North Public School - ANNANDALE - 2038"
+ },
+ {
+   "id": 191,
+   "hs_company_id": 6593506990,
+   "name": "Annandale Public School - ANNANDALE - 2038"
+ },
+ {
+   "id": 192,
+   "hs_company_id": 6593476681,
+   "name": "Annandale State School - ANNANDALE - 4814"
+ },
+ {
+   "id": 193,
+   "hs_company_id": 6593476666,
+   "name": "Annangrove Public School - ANNANGROVE - 2156"
+ },
+ {
+   "id": 194,
+   "hs_company_id": 6593316523,
+   "name": "Annesley Junior School - WAYVILLE - 5034"
+ },
+ {
+   "id": 195,
+   "hs_company_id": 6593500710,
+   "name": "Annunciation School - BROOKLYN - 3012"
+ },
+ {
+   "id": 196,
+   "hs_company_id": 6593507180,
+   "name": "Anson Street School - ORANGE - 2800"
+ },
+ {
+   "id": 197,
+   "hs_company_id": 6593317761,
+   "name": "Antonine College Cedar Campus - MORELAND - 3058"
+ },
+ {
+   "id": 198,
+   "hs_company_id": 6593338465,
+   "name": "Antonine College St Joseph Campus - MORELAND - 3044"
+ },
+ {
+   "id": 199,
+   "hs_company_id": 6593506646,
+   "name": "Antonio Catholic School - MORPHETT VALE - 5162"
+ },
+ {
+   "id": 200,
+   "hs_company_id": 6593476651,
+   "name": "Antonio Park Primary School - MITCHAM - 3132"
+ },
+ {
+   "id": 201,
+   "hs_company_id": 6593350254,
+   "name": "Anula Primary School - ANULA - 812"
+ },
+ {
+   "id": 202,
+   "hs_company_id": 6593334045,
+   "name": "Anzac Terrace Primary School - BASSENDEAN - 6054"
+ },
+ {
+   "id": 203,
+   "hs_company_id": 6593516124,
+   "name": "Apollo Bay P-12 College - APOLLO BAY - 3233"
+ },
+ {
+   "id": 204,
+   "hs_company_id": 6593335344,
+   "name": "Apollo Parkways Primary School - GREENSBOROUGH - 3088"
+ },
+ {
+   "id": 205,
+   "hs_company_id": 6593506904,
+   "name": "Appin Park Primary School - WANGARATTA - 3677"
+ },
+ {
+   "id": 206,
+   "hs_company_id": 6593342111,
+   "name": "Appin Public School - APPIN - 2560"
+ },
+ {
+   "id": 207,
+   "hs_company_id": 6593351493,
+   "name": "Applecross Primary School - APPLECROSS - 6153"
+ },
+ {
+   "id": 208,
+   "hs_company_id": 6593352834,
+   "name": "Applecross Senior High School - ARDROSS - 6153"
+ },
+ {
+   "id": 209,
+   "hs_company_id": 6593338766,
+   "name": "Applethorpe State School - STANTHORPE - 4378"
+ },
+ {
+   "id": 210,
+   "hs_company_id": 6593515341,
+   "name": "Apsley Primary School - APSLEY - 3319"
+ },
+ {
+   "id": 211,
+   "hs_company_id": 6593337144,
+   "name": "Aquinas Catholic College - ASHMORE CITY - 4215"
+ },
+ {
+   "id": 212,
+   "hs_company_id": 6593500770,
+   "name": "Aquinas College - BANGOR - 2234"
+ },
+ {
+   "id": 213,
+   "hs_company_id": 6593339061,
+   "name": "Aquinas College - BENTLEY CD - 6152"
+ },
+ {
+   "id": 214,
+   "hs_company_id": 6593322007,
+   "name": "Aquinas College - RINGWOOD - 3134"
+ },
+ {
+   "id": 215,
+   "hs_company_id": 6593343152,
+   "name": "Araluen Christian College - ARALUEN - 870"
+ },
+ {
+   "id": 216,
+   "hs_company_id": 6593518868,
+   "name": "Araluen Primary School - SALE - 3850"
+ },
+ {
+   "id": 217,
+   "hs_company_id": 6593339421,
+   "name": "Aramac State School - ARAMAC - 4726"
+ },
+ {
+   "id": 218,
+   "hs_company_id": 6593506905,
+   "name": "Aranda Primary School - JAMISON - 2614"
+ },
+ {
+   "id": 219,
+   "hs_company_id": 6593317017,
+   "name": "Aranmore Catholic College - LEEDERVILLE - 6007"
+ },
+ {
+   "id": 220,
+   "hs_company_id": 6593339196,
+   "name": "Aranmore Catholic Primary School - LEEDERVILLE - 6007"
+ },
+ {
+   "id": 221,
+   "hs_company_id": 6593352073,
+   "name": "Ararat College - ARARAT - 3377"
+ },
+ {
+   "id": 222,
+   "hs_company_id": 6593501008,
+   "name": "Ararat North Primary School - ARARAT NORTH - 3377"
+ },
+ {
+   "id": 223,
+   "hs_company_id": 6593335323,
+   "name": "Ararat Primary School - ARARAT - 3377"
+ },
+ {
+   "id": 224,
+   "hs_company_id": 6593337982,
+   "name": "Ararat West Primary School - ARARAT - 3377"
+ },
+ {
+   "id": 225,
+   "hs_company_id": 6593336705,
+   "name": "Aratula State School - ARATULA VIA KALBAR - 4309"
+ },
+ {
+   "id": 226,
+   "hs_company_id": 6593317262,
+   "name": "Arawang Primary School - WARAMANGA - 2611"
+ },
+ {
+   "id": 227,
+   "hs_company_id": 6593354249,
+   "name": "Arbor Grove Primary School - ELLENBROOK - 6069"
+ },
+ {
+   "id": 228,
+   "hs_company_id": 6593349953,
+   "name": "Arcadia Public School - ARCADIA - 2159"
+ },
+ {
+   "id": 229,
+   "hs_company_id": 6593333839,
+   "name": "Arcadia Vale Public School - ARCADIA VALE - 2283"
+ },
+ {
+   "id": 230,
+   "hs_company_id": 6593339248,
+   "name": "Arcadia Valley State School - INJUNE - 4454"
+ },
+ {
+   "id": 231,
+   "hs_company_id": 6593506994,
+   "name": "Ardeer Primary School - ARDEER - 3022"
+ },
+ {
+   "id": 232,
+   "hs_company_id": 6593334665,
+   "name": "Ardeer South Primary School - SUNSHINE - 3020"
+ },
+ {
+   "id": 233,
+   "hs_company_id": 6593353784,
+   "name": "Arden Anglican School - BEECROFT - 2119"
+ },
+ {
+   "id": 234,
+   "hs_company_id": 6593341825,
+   "name": "Arden Anglican School - BEECROFT - 2121"
+ },
+ {
+   "id": 235,
+   "hs_company_id": 6593513893,
+   "name": "Ardlethan Central School - ARDLETHAN - 2665"
+ },
+ {
+   "id": 236,
+   "hs_company_id": 6593350215,
+   "name": "Ardmona Primary School - ARDMONA - 3629"
+ },
+ {
+   "id": 237,
+   "hs_company_id": 6593336100,
+   "name": "Ardross Primary School - ARDROSS - 6153"
+ },
+ {
+   "id": 238,
+   "hs_company_id": 6593506897,
+   "name": "Ardrossan Area School - ARDROSSAN - 5571"
+ },
+ {
+   "id": 239,
+   "hs_company_id": 6593317210,
+   "name": "Ardtornish Primary School - ST AGNES - 5097"
+ },
+ {
+   "id": 240,
+   "hs_company_id": 6593334346,
+   "name": "Arethusa College - BURPENGARY - 4508"
+ },
+ {
+   "id": 241,
+   "hs_company_id": 6593342130,
+   "name": "Areyonga School - ALICE SPRINGS - 872"
+ },
+ {
+   "id": 242,
+   "hs_company_id": 6593513837,
+   "name": "Argenton Public School - ARGENTON - 2284"
+ },
+ {
+   "id": 243,
+   "hs_company_id": 6593335312,
+   "name": "Ariah Park Central School - ARIAH PARK - 2665"
+ },
+ {
+   "id": 244,
+   "hs_company_id": 6593518244,
+   "name": "Arkana College - KINGSGROVE - 2208"
+ },
+ {
+   "id": 245,
+   "hs_company_id": 6593342534,
+   "name": "Armadale Education Support Centre - ARMADALE - 6112"
+ },
+ {
+   "id": 246,
+   "hs_company_id": 6593335193,
+   "name": "Armadale Primary School - ARMADALE - 3143"
+ },
+ {
+   "id": 247,
+   "hs_company_id": 6593518200,
+   "name": "Armadale Primary School - ARMADALE - 6112"
+ },
+ {
+   "id": 249,
+   "hs_company_id": 6593506949,
+   "name": "Armidale City Public School - ARMIDALE - 2350"
+ },
+ {
+   "id": 250,
+   "hs_company_id": 6593334677,
+   "name": "Arncliffe Public School - ARNCLIFFE - 2205"
+ },
+ {
+   "id": 251,
+   "hs_company_id": 6593335305,
+   "name": "Arncliffe West Infants School - TURRELLA - 2205"
+ },
+ {
+   "id": 252,
+   "hs_company_id": 6593518257,
+   "name": "Arndell Anglican College - PITT TOWN - 2765"
+ },
+ {
+   "id": 253,
+   "hs_company_id": 6593351184,
+   "name": "Arndell Special School Coral Tree Family Services - NORTH RYDE - 2113"
+ },
+ {
+   "id": 254,
+   "hs_company_id": 6593518356,
+   "name": "Arranounbai School - FRENCHS FOREST - 2086"
+ },
+ {
+   "id": 255,
+   "hs_company_id": 6593342895,
+   "name": "Artarmon Public School - ARTARMON - 2064"
+ },
+ {
+   "id": 256,
+   "hs_company_id": 6593333900,
+   "name": "Arthur Phillip High School - PARRAMATTA - 2150"
+ },
+ {
+   "id": 257,
+   "hs_company_id": 6593333863,
+   "name": "Arthurs Creek Primary School - ARTHURS CREEK - 3099"
+ },
+ {
+   "id": 258,
+   "hs_company_id": 6593476425,
+   "name": "Arundel State School - PARKWOOD - 4214"
+ },
+ {
+   "id": 259,
+   "hs_company_id": 6593338453,
+   "name": "Ascham School - EDGECLIFF - 2027"
+ },
+ {
+   "id": 260,
+   "hs_company_id": 6593337912,
+   "name": "Ascot Park Primary School - PARK HOLME - 5043"
+ },
+ {
+   "id": 261,
+   "hs_company_id": 6593514523,
+   "name": "Ascot State School - ASCOT - 4007"
+ },
+ {
+   "id": 262,
+   "hs_company_id": 6593352254,
+   "name": "Ascot Vale Primary School - ASCOT VALE - 3032"
+ },
+ {
+   "id": 263,
+   "hs_company_id": 6593355062,
+   "name": "Ascot Vale Special School - ASCOT VALE - 3032"
+ },
+ {
+   "id": 264,
+   "hs_company_id": 6593514098,
+   "name": "Ascot Vale West Primary School - ASCOT VALE - 3032"
+ },
+ {
+   "id": 265,
+   "hs_company_id": 6593341482,
+   "name": "Ashburton Drive Primary School - GOSNELLS - 6110"
+ },
+ {
+   "id": 266,
+   "hs_company_id": 6593351574,
+   "name": "Ashburton Primary School - ASHBURTON - 3147"
+ },
+ {
+   "id": 267,
+   "hs_company_id": 6593322117,
+   "name": "Ashbury Public School - ASHBURY - 2193"
+ },
+ {
+   "id": 268,
+   "hs_company_id": 6593514629,
+   "name": "Ashby Primary School - GEELONG WEST - 3218"
+ },
+ {
+   "id": 269,
+   "hs_company_id": 6593321475,
+   "name": "Ashcroft High School - ASHCROFT - 2168"
+ },
+ {
+   "id": 270,
+   "hs_company_id": 6593514658,
+   "name": "Ashcroft Public School - ASHCROFT - 2168"
+ },
+ {
+   "id": 271,
+   "hs_company_id": 6593514164,
+   "name": "Ashdale Primary School - DARCH - 6065"
+ },
+ {
+   "id": 272,
+   "hs_company_id": 6593515160,
+   "name": "Ashdale Secondary College - DARCH - 6065"
+ },
+ {
+   "id": 273,
+   "hs_company_id": 6593338437,
+   "name": "Ashfield Boys High School - ASHFIELD - 2131"
+ },
+ {
+   "id": 274,
+   "hs_company_id": 6593476447,
+   "name": "Ashfield Primary School - ASHFIELD - 6054"
+ },
+ {
+   "id": 275,
+   "hs_company_id": 6593506982,
+   "name": "Ashfield Public School - ASHFIELD - 2131"
+ },
+ {
+   "id": 276,
+   "hs_company_id": 6593334051,
+   "name": "Ashford Central School - ASHFORD - 2361"
+ },
+ {
+   "id": 277,
+   "hs_company_id": 6593476661,
+   "name": "Ashgrove State School - ASHGROVE WEST - 4060"
+ },
+ {
+   "id": 278,
+   "hs_company_id": 6593514799,
+   "name": "Ashley School - DELORAINE - 7304"
+ },
+ {
+   "id": 279,
+   "hs_company_id": 6593476621,
+   "name": "Ashmont Public School - ASHMONT - 2650"
+ },
+ {
+   "id": 280,
+   "hs_company_id": 6593338037,
+   "name": "Ashmore State School - ASHMORE - 4214"
+ },
+ {
+   "id": 281,
+   "hs_company_id": 6593514602,
+   "name": "Ashtonfield Public School - ASHTONFIELD - 2323"
+ },
+ {
+   "id": 282,
+   "hs_company_id": 6593354340,
+   "name": "Ashwell State School - ROSEWOOD - 4340"
+ },
+ {
+   "id": 283,
+   "hs_company_id": 6593350402,
+   "name": "Ashwood School - ASHWOOD - 3147"
+ },
+ {
+   "id": 284,
+   "hs_company_id": 6593476466,
+   "name": "Ashwood Secondary College - ASHWOOD - 3147"
+ },
+ {
+   "id": 285,
+   "hs_company_id": 6593518964,
+   "name": "Aspect School - ALBURY - 2640"
+ },
+ {
+   "id": 286,
+   "hs_company_id": 6593516197,
+   "name": "Aspect School - NARELLAN - 2570"
+ },
+ {
+   "id": 287,
+   "hs_company_id": 6593515427,
+   "name": "Aspect South Coast School - CORRIMAL - 2518"
+ },
+ {
+   "id": 288,
+   "hs_company_id": 6593342271,
+   "name": "Aspendale Gardens Primary School - ASPENDALE GARDENS - 3195"
+ },
+ {
+   "id": 289,
+   "hs_company_id": 6593322155,
+   "name": "Aspendale Primary School - ASPENDALE - 3195"
+ },
+ {
+   "id": 290,
+   "hs_company_id": 6593343097,
+   "name": "Aspley East State School - ASPLEY - 4034"
+ },
+ {
+   "id": 291,
+   "hs_company_id": 6593514256,
+   "name": "Aspley Special School - ASPLEY - 4034"
+ },
+ {
+   "id": 292,
+   "hs_company_id": 6593336603,
+   "name": "Aspley State High School - ASPLEY - 4034"
+ },
+ {
+   "id": 293,
+   "hs_company_id": 6593352209,
+   "name": "Aspley State School - ASPLEY - 4034"
+ },
+ {
+   "id": 294,
+   "hs_company_id": 6593336447,
+   "name": "Asquith Boys High School - ASQUITH - 2077"
+ },
+ {
+   "id": 295,
+   "hs_company_id": 6593337693,
+   "name": "Asquith Girls High School - ASQUITH - 2077"
+ },
+ {
+   "id": 296,
+   "hs_company_id": 6593337233,
+   "name": "Asquith Public School - ASQUITH - 2077"
+ },
+ {
+   "id": 297,
+   "hs_company_id": 6593342721,
+   "name": "Assisi Catholic College - UPPER COOMERA - 4209"
+ },
+ {
+   "id": 298,
+   "hs_company_id": 6593337782,
+   "name": "Assumption College - KILMORE - 3764"
+ },
+ {
+   "id": 299,
+   "hs_company_id": 6593335111,
+   "name": "Assumption College - WARWICK - 4370"
+ },
+ {
+   "id": 300,
+   "hs_company_id": 6593333656,
+   "name": "Assumption Primary School - MANDURAH EAST - 6210"
+ },
+ {
+   "id": 301,
+   "hs_company_id": 6593501247,
+   "name": "Athelstane Public School - ARNCLIFFE - 2205"
+ },
+ {
+   "id": 302,
+   "hs_company_id": 6593501030,
+   "name": "Athelstone School - ATHELSTONE - 5076"
+ },
+ {
+   "id": 303,
+   "hs_company_id": 6593342871,
+   "name": "Atherton State High School - ATHERTON - 4883"
+ },
+ {
+   "id": 304,
+   "hs_company_id": 6593354254,
+   "name": "Atherton State School - ATHERTON - 4883"
+ },
+ {
+   "id": 305,
+   "hs_company_id": 6593513825,
+   "name": "Athol Road Primary School - SPRINGVALE SOUTH - 3172"
+ },
+ {
+   "id": 306,
+   "hs_company_id": 6593516878,
+   "name": "Attadale Primary School - ATTADALE - 6156"
+ },
+ {
+   "id": 307,
+   "hs_company_id": 6593342350,
+   "name": "Attunga Public School - ATTUNGA - 2345"
+ },
+ {
+   "id": 308,
+   "hs_company_id": 6593516106,
+   "name": "Atwell College - ATWELL - 6164"
+ },
+ {
+   "id": 309,
+   "hs_company_id": 6593500767,
+   "name": "Atwell Primary School - ATWELL - 6164"
+ },
+ {
+   "id": 310,
+   "hs_company_id": 6593516809,
+   "name": "Aubin Grove Primary School - AUBIN GROVE - 6164"
+ },
+ {
+   "id": 311,
+   "hs_company_id": 6593316513,
+   "name": "Auburn Girls High School - AUBURN - 2144"
+ },
+ {
+   "id": 312,
+   "hs_company_id": 6593507162,
+   "name": "Auburn North Public School - AUBURN - 2144"
+ },
+ {
+   "id": 313,
+   "hs_company_id": 6593343104,
+   "name": "Auburn Primary School - AUBURN - 5451"
+ },
+ {
+   "id": 314,
+   "hs_company_id": 6593516677,
+   "name": "Auburn Primary School - HAWTHORN EAST - 3123"
+ },
+ {
+   "id": 315,
+   "hs_company_id": 6593339312,
+   "name": "Auburn Public School - AUBURN - 2144"
+ },
+ {
+   "id": 316,
+   "hs_company_id": 6593476404,
+   "name": "Auburn South Primary School - HAWTHORN EAST - 3123"
+ },
+ {
+   "id": 317,
+   "hs_company_id": 6593514675,
+   "name": "Auburn West Public School - AUBURN - 2144"
+ },
+ {
+   "id": 318,
+   "hs_company_id": 6593352850,
+   "name": "Augathella State School - AUGATHELLA - 4477"
+ },
+ {
+   "id": 319,
+   "hs_company_id": 6593506861,
+   "name": "Augusta Park Primary School - PORT AUGUSTA - 5700"
+ },
+ {
+   "id": 320,
+   "hs_company_id": 6593514030,
+   "name": "Augusta Primary School - AUGUSTA - 6290"
+ },
+ {
+   "id": 321,
+   "hs_company_id": 6593341766,
+   "name": "Augusta State School - SPRINGFIELD - 4300"
+ },
+ {
+   "id": 322,
+   "hs_company_id": 6593321514,
+   "name": "Aurora College - LANE COVE NORTH - 2066"
+ },
+ {
+   "id": 323,
+   "hs_company_id": 6593516192,
+   "name": "Aurora School - BLACKBURN SOUTH - 3130"
+ },
+ {
+   "id": 324,
+   "hs_company_id": 6593352332,
+   "name": "Austin Cove Baptist College - PINJARRA - 6208"
+ },
+ {
+   "id": 325,
+   "hs_company_id": 6593355042,
+   "name": "Austin Hospital School - HEIDELBERG - 3084"
+ },
+ {
+   "id": 326,
+   "hs_company_id": 6593352862,
+   "name": "Austinmer Public School - AUSTINMER - 2515"
+ },
+ {
+   "id": 327,
+   "hs_company_id": 6593516682,
+   "name": "Austins Ferry Primary School - AUSTINS FERRY - 7011"
+ },
+ {
+   "id": 328,
+   "hs_company_id": 6593501109,
+   "name": "Austral Public School - AUSTRAL - 2171"
+ },
+ {
+   "id": 329,
+   "hs_company_id": 6593317933,
+   "name": "Australia Street Infants School - NEWTOWN - 2042"
+ },
+ {
+   "id": 330,
+   "hs_company_id": 6593343265,
+   "name": "Australian Christian College - CABOOLTURE - 4510"
+ },
+ {
+   "id": 331,
+   "hs_company_id": 6593507170,
+   "name": "Australian Christian College - RIVERSTONE - 2765"
+ },
+ {
+   "id": 332,
+   "hs_company_id": 6593514771,
+   "name": "Australian Christian College School of Distance Education - CABOOLTURE - 4500"
+ },
+ {
+   "id": 333,
+   "hs_company_id": 6593351545,
+   "name": "Australian Christian College School of Distance Education - RIVERSTONE - 2765"
+ },
+ {
+   "id": 334,
+   "hs_company_id": 6593516150,
+   "name": "Australian Christian College Singleton - SINGLETON - 2330"
+ },
+ {
+   "id": 335,
+   "hs_company_id": 6593507160,
+   "name": "Australian Christian College Southlands - ALBANY DC - 6330"
+ },
+ {
+   "id": 336,
+   "hs_company_id": 6593518360,
+   "name": "Australian International Academy - STRATHFIELD - 2136"
+ },
+ {
+   "id": 337,
+   "hs_company_id": 6593352258,
+   "name": "Australian International Academy of Education Junior School - COBURG - 3058"
+ },
+ {
+   "id": 338,
+   "hs_company_id": 6593518180,
+   "name": "Australian International Academy of Education Secondary School - NORTH COBURG - 3058"
+ },
+ {
+   "id": 339,
+   "hs_company_id": 6593352992,
+   "name": "Australian International Islamic College - DURACK - 4077"
+ },
+ {
+   "id": 340,
+   "hs_company_id": 6593355678,
+   "name": "Australian Islamic College Dianella Campus - CLOVERDALE - 6059"
+ },
+ {
+   "id": 341,
+   "hs_company_id": 6593353785,
+   "name": "Australian Islamic College Kewdale Campus - CLOVERDALE - 6105"
+ },
+ {
+   "id": 342,
+   "hs_company_id": 6593514146,
+   "name": "Australian Islamic College of Sydney - MOUNT DRUITT - 2770"
+ },
+ {
+   "id": 343,
+   "hs_company_id": 6593514165,
+   "name": "Australian Islamic College Thornlie Campus - CLOVERDALE - 6108"
+ },
+ {
+   "id": 344,
+   "hs_company_id": 6593515285,
+   "name": "Australian Science and Mathematics School - BEDFORD PARK - 5042"
+ },
+ {
+   "id": 345,
+   "hs_company_id": 6593343142,
+   "name": "Australian Trades College - ARMADALE - 6112"
+ },
+ {
+   "id": 346,
+   "hs_company_id": 6593501252,
+   "name": "Australian Trades College - SCARBOROUGH - 4020"
+ },
+ {
+   "id": 347,
+   "hs_company_id": 6593338114,
+   "name": "Australind Primary School - AUSTRALIND - 6233"
+ },
+ {
+   "id": 348,
+   "hs_company_id": 6593507107,
+   "name": "Australind Senior High School - AUSTRALIND - 6233"
+ },
+ {
+   "id": 349,
+   "hs_company_id": 6593518378,
+   "name": "Autistic Childrens School - SUNNYBANK - 4109"
+ },
+ {
+   "id": 350,
+   "hs_company_id": 6593334562,
+   "name": "Avalon Public School - AVALON - 2107"
+ },
+ {
+   "id": 351,
+   "hs_company_id": 6593333610,
+   "name": "Ave Maria College - ABERFELDIE - 3040"
+ },
+ {
+   "id": 352,
+   "hs_company_id": 6593342478,
+   "name": "Aveley Primary School - AVELEY - 6069"
+ },
+ {
+   "id": 353,
+   "hs_company_id": 6593317897,
+   "name": "Avenel Primary School - AVENEL - 3664"
+ },
+ {
+   "id": 354,
+   "hs_company_id": 6593507178,
+   "name": "Avenues Education Centre - MOORABBIN - 3189"
+ },
+ {
+   "id": 355,
+   "hs_company_id": 6593336096,
+   "name": "Aviation High School - CLAYFIELD - 4011"
+ },
+ {
+   "id": 356,
+   "hs_company_id": 6593335812,
+   "name": "Avila College - MT WAVERLEY - 3149"
+ },
+ {
+   "id": 357,
+   "hs_company_id": 6593342757,
+   "name": "Avoca Beach Public School - AVOCA BEACH - 2251"
+ },
+ {
+   "id": 358,
+   "hs_company_id": 6593334600,
+   "name": "Avoca Primary School - AVOCA - 3467"
+ },
+ {
+   "id": 359,
+   "hs_company_id": 6593350250,
+   "name": "Avoca Primary School - AVOCA - 7213"
+ },
+ {
+   "id": 360,
+   "hs_company_id": 6593337966,
+   "name": "Avoca Public School - WILDES MEADOW - 2577"
+ },
+ {
+   "id": 361,
+   "hs_company_id": 6593350208,
+   "name": "Avoca State School - BUNDABERG WEST - 4670"
+ },
+ {
+   "id": 362,
+   "hs_company_id": 6593516951,
+   "name": "Avondale Education Support Centre - NORTHAM - 6401"
+ },
+ {
+   "id": 363,
+   "hs_company_id": 6593343034,
+   "name": "Avondale Primary School - AVONDALE HEIGHTS - 3034"
+ },
+ {
+   "id": 364,
+   "hs_company_id": 6593515377,
+   "name": "Avondale Primary School - NORTHAM - 6401"
+ },
+ {
+   "id": 365,
+   "hs_company_id": 6593518947,
+   "name": "Avondale School - COORANBONG - 2265"
+ },
+ {
+   "id": 366,
+   "hs_company_id": 6593515189,
+   "name": "Avondale State School - AVONDALE - 4670"
+ },
+ {
+   "id": 367,
+   "hs_company_id": 6593334628,
+   "name": "Awaba Public School - AWABA - 2283"
+ },
+ {
+   "id": 368,
+   "hs_company_id": 6593341504,
+   "name": "Axedale Primary School - AXEDALE - 3551"
+ },
+ {
+   "id": 369,
+   "hs_company_id": 6593337781,
+   "name": "Ayr East State School - AYR - 4807"
+ },
+ {
+   "id": 370,
+   "hs_company_id": 6593336702,
+   "name": "Ayr State High School - AYR - 4807"
+ },
+ {
+   "id": 371,
+   "hs_company_id": 6593353509,
+   "name": "Ayr State School - AYR - 4807"
+ },
+ {
+   "id": 372,
+   "hs_company_id": 6593513905,
+   "name": "Babakin Primary School - CORRIGIN - 6428"
+ },
+ {
+   "id": 373,
+   "hs_company_id": 6593514421,
+   "name": "Babinda State School - BABINDA - 4861"
+ },
+ {
+   "id": 374,
+   "hs_company_id": 6593353527,
+   "name": "Bacchus Marsh College - BACCHUS MARSH - 3340"
+ },
+ {
+   "id": 375,
+   "hs_company_id": 6593515390,
+   "name": "Bacchus Marsh Grammar School - BACCHUS MARSH - 3340"
+ },
+ {
+   "id": 376,
+   "hs_company_id": 6593506907,
+   "name": "Bacchus Marsh Primary School - BACCHUS MARSH - 3340"
+ },
+ {
+   "id": 377,
+   "hs_company_id": 6593335334,
+   "name": "Back Plains State School - CLIFTON - 4361"
+ },
+ {
+   "id": 378,
+   "hs_company_id": 6593342899,
+   "name": "Baden Powell P-9 College - HOPPERS CROSSING - 3029"
+ },
+ {
+   "id": 379,
+   "hs_company_id": 6593338140,
+   "name": "Baden Powell P-9 College Tarneit Campus - TARNEIT - 3029"
+ },
+ {
+   "id": 380,
+   "hs_company_id": 6593352812,
+   "name": "Badger Creek Primary School - BADGER CREEK - 3777"
+ },
+ {
+   "id": 381,
+   "hs_company_id": 6593339243,
+   "name": "Badgingarra Primary School - BADGINGARRA - 6521"
+ },
+ {
+   "id": 382,
+   "hs_company_id": 6593342504,
+   "name": "Bagdad Primary School - BAGDAD - 7030"
+ },
+ {
+   "id": 383,
+   "hs_company_id": 6593336599,
+   "name": "Baimbridge College - HAMILTON - 3300"
+ },
+ {
+   "id": 384,
+   "hs_company_id": 6593351683,
+   "name": "Bairnsdale Christian Community School - BAIRNSDALE - 3875"
+ },
+ {
+   "id": 385,
+   "hs_company_id": 6593515167,
+   "name": "Bairnsdale Primary School - BAIRNSDALE - 3875"
+ },
+ {
+   "id": 386,
+   "hs_company_id": 6593351431,
+   "name": "Bairnsdale Secondary College Junior Campus - BAIRNSDALE - 3875"
+ },
+ {
+   "id": 387,
+   "hs_company_id": 6593476689,
+   "name": "Bairnsdale Secondary College Senior Campus - BAIRNSDALE - 3875"
+ },
+ {
+   "id": 388,
+   "hs_company_id": 6593321368,
+   "name": "Bairnsdale West Primary School - BAIRNSDALE - 3875"
+ },
+ {
+   "id": 389,
+   "hs_company_id": 6593342734,
+   "name": "Bajool State School - BAJOOL - 4699"
+ },
+ {
+   "id": 390,
+   "hs_company_id": 6593335385,
+   "name": "Bakers Hill Primary School - BAKERS HILL - 6562"
+ },
+ {
+   "id": 391,
+   "hs_company_id": 6593516865,
+   "name": "Bakewell Primary School - PALMERSTON - 832"
+ },
+ {
+   "id": 392,
+   "hs_company_id": 6593342384,
+   "name": "Balaclava State School - MANUNDA - 4870"
+ },
+ {
+   "id": 393,
+   "hs_company_id": 6593317225,
+   "name": "Balaklava High School - BALAKLAVA - 5461"
+ },
+ {
+   "id": 394,
+   "hs_company_id": 6593341833,
+   "name": "Balaklava Primary School - BALAKLAVA - 5461"
+ },
+ {
+   "id": 395,
+   "hs_company_id": 6593350972,
+   "name": "Balarang Public School - BALARANG - 2529"
+ },
+ {
+   "id": 396,
+   "hs_company_id": 6593350147,
+   "name": "Balcatta Primary School - BALCATTA - 6021"
+ },
+ {
+   "id": 397,
+   "hs_company_id": 6593343069,
+   "name": "Balcatta Senior High School - BALCATTA - 6021"
+ },
+ {
+   "id": 398,
+   "hs_company_id": 6593518893,
+   "name": "Balcombe Grammar School - MT MARTHA - 3977"
+ },
+ {
+   "id": 399,
+   "hs_company_id": 6593506857,
+   "name": "Bald Blair Public School - GUYRA - 2365"
+ },
+ {
+   "id": 400,
+   "hs_company_id": 6593476448,
+   "name": "Bald Face Public School - BLAKEHURST - 2221"
+ },
+ {
+   "id": 401,
+   "hs_company_id": 6593343085,
+   "name": "Bald Hills State School - BALD HILLS - 4036"
+ },
+ {
+   "id": 402,
+   "hs_company_id": 6593317228,
+   "name": "Baldivis Primary School - BALDIVIS - 6171"
+ },
+ {
+   "id": 403,
+   "hs_company_id": 6593351503,
+   "name": "Baldivis Secondary College - BALDIVIS - 6171"
+ },
+ {
+   "id": 404,
+   "hs_company_id": 6593317268,
+   "name": "Baler Primary School - SOUTH HEDLAND - 6722"
+ },
+ {
+   "id": 405,
+   "hs_company_id": 6593336716,
+   "name": "Balga Primary School - BALGA - 6061"
+ },
+ {
+   "id": 406,
+   "hs_company_id": 6593514042,
+   "name": "Balga Senior High School - BALGA - 6061"
+ },
+ {
+   "id": 407,
+   "hs_company_id": 6593350950,
+   "name": "Balgowlah Heights Public School - BALGOWLAH - 2093"
+ },
+ {
+   "id": 408,
+   "hs_company_id": 6593322082,
+   "name": "Balgowlah North Public School - NORTH BALGOWLAH - 2093"
+ },
+ {
+   "id": 409,
+   "hs_company_id": 6593342326,
+   "name": "Balgownie Public School - BALGOWNIE - 2519"
+ },
+ {
+   "id": 410,
+   "hs_company_id": 6593350946,
+   "name": "Balingup Primary School - BALINGUP - 6253"
+ },
+ {
+   "id": 411,
+   "hs_company_id": 6593317269,
+   "name": "Ballajura Community College - BALLAJURA - 6066"
+ },
+ {
+   "id": 412,
+   "hs_company_id": 6593350068,
+   "name": "Ballajura Primary School - BALLAJURA - 6066"
+ },
+ {
+   "id": 413,
+   "hs_company_id": 6593501027,
+   "name": "Ballam Park Primary School - KARINGAL CENTRE PO - 3199"
+ },
+ {
+   "id": 414,
+   "hs_company_id": 6593317198,
+   "name": "Ballan Primary School - BALLAN - 3342"
+ },
+ {
+   "id": 415,
+   "hs_company_id": 6593351507,
+   "name": "Ballandean State School - BALLANDEAN - 4382"
+ },
+ {
+   "id": 416,
+   "hs_company_id": 6593518359,
+   "name": "Ballarat & Clarendon College Junior School - BALLARAT - 3350"
+ },
+ {
+   "id": 417,
+   "hs_company_id": 6593352991,
+   "name": "Ballarat & Clarendon College Middle and Senior School Campus - BALLARAT - 3350"
+ },
+ {
+   "id": 418,
+   "hs_company_id": 6593354413,
+   "name": "Ballarat Christian College - SEBASTOPOL - 3356"
+ },
+ {
+   "id": 419,
+   "hs_company_id": 6593517643,
+   "name": "Ballarat Grammar School - WENDOUREE - 3355"
+ },
+ {
+   "id": 420,
+   "hs_company_id": 6593501241,
+   "name": "Ballarat High School - BALLARAT - 3350"
+ },
+ {
+   "id": 421,
+   "hs_company_id": 6593341827,
+   "name": "Ballarat North Primary School - BALLARAT NORTH - 3350"
+ },
+ {
+   "id": 422,
+   "hs_company_id": 6593353807,
+   "name": "Ballarat Special Development School - LAKE GARDENS - 3355"
+ },
+ {
+   "id": 423,
+   "hs_company_id": 6593351015,
+   "name": "Ballarat Steiner School - BUNINYONG - 3350"
+ },
+ {
+   "id": 424,
+   "hs_company_id": 6593341749,
+   "name": "Balliang East Primary School - BALLIANG EAST - 3340"
+ },
+ {
+   "id": 425,
+   "hs_company_id": 6593333801,
+   "name": "Ballimore Public School - BALLIMORE - 2830"
+ },
+ {
+   "id": 426,
+   "hs_company_id": 6593513800,
+   "name": "Ballina High School - BALLINA - 2478"
+ },
+ {
+   "id": 427,
+   "hs_company_id": 6593333840,
+   "name": "Ballina Public School - BALLINA - 2478"
+ },
+ {
+   "id": 428,
+   "hs_company_id": 6593353654,
+   "name": "Balmain Public School - BALMAIN - 2041"
+ },
+ {
+   "id": 429,
+   "hs_company_id": 6593476693,
+   "name": "Balmoral P-12 Community College - BALMORAL - 3407"
+ },
+ {
+   "id": 430,
+   "hs_company_id": 6593353558,
+   "name": "Balmoral State High School - MORNINGSIDE - 4171"
+ },
+ {
+   "id": 431,
+   "hs_company_id": 6593517496,
+   "name": "Balnarring Primary School - BALNARRING - 3926"
+ },
+ {
+   "id": 432,
+   "hs_company_id": 6593518118,
+   "name": "Balranald Central School - BALRANALD - 2715"
+ },
+ {
+   "id": 433,
+   "hs_company_id": 6593514149,
+   "name": "Baltara School - THOMASTOWN - 3074"
+ },
+ {
+   "id": 434,
+   "hs_company_id": 6593518182,
+   "name": "Balwyn High School - BALWYN NORTH - 3104"
+ },
+ {
+   "id": 435,
+   "hs_company_id": 6593354303,
+   "name": "Balwyn North Primary School - NORTH BALWYN - 3104"
+ },
+ {
+   "id": 436,
+   "hs_company_id": 6593342474,
+   "name": "Balwyn Primary School - BALWYN - 3103"
+ },
+ {
+   "id": 437,
+   "hs_company_id": 6593476511,
+   "name": "Bambara Primary School - PADBURY - 6025"
+ },
+ {
+   "id": 438,
+   "hs_company_id": 6593476409,
+   "name": "Banana State School - BANANA - 4702"
+ },
+ {
+   "id": 439,
+   "hs_company_id": 6593337973,
+   "name": "Bandiana Primary School - BANDIANA MILPO - 3694"
+ },
+ {
+   "id": 440,
+   "hs_company_id": 6593342354,
+   "name": "Bangalow Public School - BANGALOW - 2479"
+ },
+ {
+   "id": 441,
+   "hs_company_id": 6593334685,
+   "name": "Bangor Public School - BANGOR - 2234"
+ },
+ {
+   "id": 442,
+   "hs_company_id": 6593513794,
+   "name": "Baniyala Garrangali School - NHULUNBUY - 880"
+ },
+ {
+   "id": 443,
+   "hs_company_id": 6593353555,
+   "name": "Banks Public School - ST CLAIR - 2759"
+ },
+ {
+   "id": 444,
+   "hs_company_id": 6593353747,
+   "name": "Banksia Beach State School - BRIBIE ISLAND - 4507"
+ },
+ {
+   "id": 445,
+   "hs_company_id": 6593321353,
+   "name": "Banksia Grove Catholic Primary School - WANNEROO - 6031"
+ },
+ {
+   "id": 446,
+   "hs_company_id": 6593335330,
+   "name": "Banksia Park International High School - BANKSIA PARK - 5091"
+ },
+ {
+   "id": 447,
+   "hs_company_id": 6593338008,
+   "name": "Banksia Park Primary School - BANKSIA PARK - 5091"
+ },
+ {
+   "id": 448,
+   "hs_company_id": 6593335195,
+   "name": "Banksia Park Primary School - LEEMING - 6149"
+ },
+ {
+   "id": 449,
+   "hs_company_id": 6593516848,
+   "name": "Banksia Road Public School - GREENACRE - 2190"
+ },
+ {
+   "id": 450,
+   "hs_company_id": 6593334052,
+   "name": "Banksmeadow Public School - BOTANY - 2019"
+ },
+ {
+   "id": 451,
+   "hs_company_id": 6593342003,
+   "name": "Bankstown Girls High School - BANKSTOWN - 2200"
+ },
+ {
+   "id": 452,
+   "hs_company_id": 6593501269,
+   "name": "Bankstown Hospital School - BANKSTOWN - 2200"
+ },
+ {
+   "id": 453,
+   "hs_company_id": 6593352863,
+   "name": "Bankstown North Public School - BANKSTOWN - 2200"
+ },
+ {
+   "id": 454,
+   "hs_company_id": 6593342503,
+   "name": "Bankstown Public School - BANKSTOWN - 2200"
+ },
+ {
+   "id": 455,
+   "hs_company_id": 6593342880,
+   "name": "Bankstown Senior College - BANKSTOWN - 2200"
+ },
+ {
+   "id": 456,
+   "hs_company_id": 6593342539,
+   "name": "Bankstown South Infants School - BANKSTOWN - 2200"
+ },
+ {
+   "id": 457,
+   "hs_company_id": 6593341739,
+   "name": "Bankstown West Public School - BANKSTOWN - 2200"
+ },
+ {
+   "id": 458,
+   "hs_company_id": 6593335986,
+   "name": "Bannister Creek Primary School - LYNWOOD - 6147"
+ },
+ {
+   "id": 459,
+   "hs_company_id": 6593335978,
+   "name": "Bannockburn Primary School - BANNOCKBURN - 3331"
+ },
+ {
+   "id": 460,
+   "hs_company_id": 6593352255,
+   "name": "Banora Point High School - BANORA POINT - 2486"
+ },
+ {
+   "id": 461,
+   "hs_company_id": 6593322064,
+   "name": "Banora Point Public School - BANORA POINT - 2486"
+ },
+ {
+   "id": 462,
+   "hs_company_id": 6593350815,
+   "name": "Banyule Primary School - ROSANNA - 3084"
+ },
+ {
+   "id": 463,
+   "hs_company_id": 6593352107,
+   "name": "Baradine Central School - BARADINE - 2396"
+ },
+ {
+   "id": 464,
+   "hs_company_id": 6593333927,
+   "name": "Baralaba State School - BARALABA - 4702"
+ },
+ {
+   "id": 465,
+   "hs_company_id": 6593342888,
+   "name": "Baranduda Primary School - BARANDUDA - 3691"
+ },
+ {
+   "id": 466,
+   "hs_company_id": 6593515179,
+   "name": "Barcaldine State School - BARCALDINE - 4725"
+ },
+ {
+   "id": 467,
+   "hs_company_id": 6593518899,
+   "name": "Bardon State School - BARDON - 4065"
+ },
+ {
+   "id": 468,
+   "hs_company_id": 6593515286,
+   "name": "Bardwell Park Infants School - BARDWELL PARK - 2207"
+ },
+ {
+   "id": 469,
+   "hs_company_id": 6593339297,
+   "name": "Barellan Central School - BARELLAN - 2665"
+ },
+ {
+   "id": 470,
+   "hs_company_id": 6593341493,
+   "name": "Bargara State School - MON REPOS - 4670"
+ },
+ {
+   "id": 471,
+   "hs_company_id": 6593335210,
+   "name": "Bargo Public School - BARGO - 2574"
+ },
+ {
+   "id": 472,
+   "hs_company_id": 6593353598,
+   "name": "Barham High School - BARHAM - 2732"
+ },
+ {
+   "id": 473,
+   "hs_company_id": 6593514040,
+   "name": "Barham Public School - BARHAM - 2732"
+ },
+ {
+   "id": 474,
+   "hs_company_id": 6593515449,
+   "name": "Baringa School - MOE - 3825"
+ },
+ {
+   "id": 475,
+   "hs_company_id": 6593352285,
+   "name": "Barker College - HORNSBY - 2077"
+ },
+ {
+   "id": 476,
+   "hs_company_id": 6593316500,
+   "name": "Barker College Junior School - HORNSBY - 2077"
+ },
+ {
+   "id": 477,
+   "hs_company_id": 6593337772,
+   "name": "Barkers Vale Public School - WADEVILLE - 2474"
+ },
+ {
+   "id": 478,
+   "hs_company_id": 6593350050,
+   "name": "Barkly College High School Campus - TENNANT CREEK - 860"
+ },
+ {
+   "id": 479,
+   "hs_company_id": 6593350060,
+   "name": "Barkly College Primary School Campus - TENNANT CREEK - 860"
+ },
+ {
+   "id": 480,
+   "hs_company_id": 6593335211,
+   "name": "Barkly Highway State School - MOUNT ISA DC - 4825"
+ },
+ {
+   "id": 481,
+   "hs_company_id": 6593321374,
+   "name": "Barmedman Public School - BARMEDMAN - 2668"
+ },
+ {
+   "id": 482,
+   "hs_company_id": 6593343025,
+   "name": "Barmera Primary School - BARMERA - 5345"
+ },
+ {
+   "id": 483,
+   "hs_company_id": 6593354282,
+   "name": "Barnawartha Primary School - BARNAWARTHA - 3688"
+ },
+ {
+   "id": 484,
+   "hs_company_id": 6593354270,
+   "name": "Barnier Public School - QUAKERS HILL - 2763"
+ },
+ {
+   "id": 485,
+   "hs_company_id": 6593351537,
+   "name": "Barnsley Public School - BARNSLEY - 2278"
+ },
+ {
+   "id": 486,
+   "hs_company_id": 6593335949,
+   "name": "Barooga Primary School - BAROOGA - 3644"
+ },
+ {
+   "id": 487,
+   "hs_company_id": 6593337998,
+   "name": "Barraba Central School - BARRABA - 2347"
+ },
+ {
+   "id": 488,
+   "hs_company_id": 6593350784,
+   "name": "Barrack Heights Public School - BARRACK HEIGHTS - 2528"
+ },
+ {
+   "id": 489,
+   "hs_company_id": 6593342887,
+   "name": "Barrenjoey High School - AVALON BEACH - 2107"
+ },
+ {
+   "id": 490,
+   "hs_company_id": 6593354365,
+   "name": "Barrenjoey Montessori School - AVALON BEACH - 2107"
+ },
+ {
+   "id": 491,
+   "hs_company_id": 6593515170,
+   "name": "Barrington Public School - BARRINGTON - 2422"
+ },
+ {
+   "id": 492,
+   "hs_company_id": 6593354400,
+   "name": "Barrington Support School - DEVONPORT - 7310"
+ },
+ {
+   "id": 493,
+   "hs_company_id": 6593337905,
+   "name": "Bartle Frere State School - MIRIWINNI - 4871"
+ },
+ {
+   "id": 494,
+   "hs_company_id": 6593321502,
+   "name": "Barunga School - KATHERINE - 852"
+ },
+ {
+   "id": 495,
+   "hs_company_id": 6593476523,
+   "name": "Barwon Heads Primary School - BARWON HEADS - 3227"
+ },
+ {
+   "id": 496,
+   "hs_company_id": 6593355058,
+   "name": "Barwon Learning Centre - MOREE EAST - 2400"
+ },
+ {
+   "id": 497,
+   "hs_company_id": 6593354388,
+   "name": "Barwon Valley School - BELMONT - 3216"
+ },
+ {
+   "id": 498,
+   "hs_company_id": 6593515927,
+   "name": "Baryulgil Public School - BARYULGIL - 2460"
+ },
+ {
+   "id": 499,
+   "hs_company_id": 6593513912,
+   "name": "Basket Range Primary School - BASKET RANGE - 5138"
+ },
+ {
+   "id": 500,
+   "hs_company_id": 6593343277,
+   "name": "Bass Coast Specialist School - WONTHAGGI - 3995"
+ },
+ {
+   "id": 501,
+   "hs_company_id": 6593476460,
+   "name": "Bass High School - BASS HILL - 2197"
+ },
+ {
+   "id": 502,
+   "hs_company_id": 6593500968,
+   "name": "Bass Hill Public School - BASS HILL - 2197"
+ },
+ {
+   "id": 503,
+   "hs_company_id": 6593336652,
+   "name": "Bass Valley Primary School - CORINELLA - 3984"
+ },
+ {
+   "id": 504,
+   "hs_company_id": 6593342380,
+   "name": "Bassendeen Primary School - BASSENDEAN - 6054"
+ },
+ {
+   "id": 505,
+   "hs_company_id": 6593354368,
+   "name": "Batchelor Area School - BATCHELOR - 845"
+ },
+ {
+   "id": 506,
+   "hs_company_id": 6593337421,
+   "name": "Bateau Bay Public School - BATEAU BAY - 2261"
+ },
+ {
+   "id": 507,
+   "hs_company_id": 6593351009,
+   "name": "Bateman Primary School - BATEMAN - 6150"
+ },
+ {
+   "id": 508,
+   "hs_company_id": 6593515330,
+   "name": "Batemans Bay High School - BATEHAVEN - 2536"
+ },
+ {
+   "id": 509,
+   "hs_company_id": 6593339236,
+   "name": "Batemans Bay Public School - SURFSIDE - 2536"
+ },
+ {
+   "id": 510,
+   "hs_company_id": 6593350313,
+   "name": "Bates Drive Special School - KAREELA - 2232"
+ },
+ {
+   "id": 511,
+   "hs_company_id": 6593353544,
+   "name": "Bathurst Public School - BATHURST - 2795"
+ },
+ {
+   "id": 512,
+   "hs_company_id": 6593476532,
+   "name": "Bathurst South Public School - BATHURST - 2795"
+ },
+ {
+   "id": 513,
+   "hs_company_id": 6593342472,
+   "name": "Bathurst West Public School - BATHURST - 2795"
+ },
+ {
+   "id": 514,
+   "hs_company_id": 6593336600,
+   "name": "Batlow Technology School - BATLOW - 2730"
+ },
+ {
+   "id": 515,
+   "hs_company_id": 6593335199,
+   "name": "Bauhinia State School - MOURA - 4718"
+ },
+ {
+   "id": 516,
+   "hs_company_id": 6593513995,
+   "name": "Baulkham Hills High School - BAULKHAM HILLS - 2153"
+ },
+ {
+   "id": 517,
+   "hs_company_id": 6593337784,
+   "name": "Baulkham Hills North Public School - BAULKHAM HILLS - 2153"
+ },
+ {
+   "id": 518,
+   "hs_company_id": 6593514634,
+   "name": "Bauple State School - MARYBOROUGH - 4650"
+ },
+ {
+   "id": 519,
+   "hs_company_id": 6593500994,
+   "name": "Baxter Primary School - BAXTER - 3911"
+ },
+ {
+   "id": 520,
+   "hs_company_id": 6593506993,
+   "name": "Bay View State School - THORNLANDS - 4164"
+ },
+ {
+   "id": 521,
+   "hs_company_id": 6593317959,
+   "name": "Bayles Regional Primary School - BAYLES - 3981"
+ },
+ {
+   "id": 522,
+   "hs_company_id": 6593350271,
+   "name": "Baynton West Primary School - BAYNTON - 6714"
+ },
+ {
+   "id": 523,
+   "hs_company_id": 6593342552,
+   "name": "Bayside Christian College - FRANKSTON - 3911"
+ },
+ {
+   "id": 524,
+   "hs_company_id": 6593349994,
+   "name": "Bayside P-12 College Altona North Campus - ALTONA NORTH - 3025"
+ },
+ {
+   "id": 525,
+   "hs_company_id": 6593335203,
+   "name": "Bayside P-12 College Paisley Campus - ALTONA NORTH - 3015"
+ },
+ {
+   "id": 526,
+   "hs_company_id": 6593516172,
+   "name": "Bayside P-12 College Williamstown Campus - ALTONA NORTH - 3016"
+ },
+ {
+   "id": 527,
+   "hs_company_id": 6593355054,
+   "name": "Bayside Special Developmental School - MOORABBIN - 3189"
+ },
+ {
+   "id": 528,
+   "hs_company_id": 6593500842,
+   "name": "Bayswater North Primary School - BAYSWATER NORTH - 3153"
+ },
+ {
+   "id": 529,
+   "hs_company_id": 6593516899,
+   "name": "Bayswater Primary School - BAYSWATER - 3153"
+ },
+ {
+   "id": 530,
+   "hs_company_id": 6593500950,
+   "name": "Bayswater Primary School - BAYSWATER - 6053"
+ },
+ {
+   "id": 531,
+   "hs_company_id": 6593336682,
+   "name": "Bayswater Secondary College - BAYSWATER - 3153"
+ },
+ {
+   "id": 532,
+   "hs_company_id": 6593342357,
+   "name": "Bayswater South Primary School - BAYSWATER - 3153"
+ },
+ {
+   "id": 533,
+   "hs_company_id": 6593500833,
+   "name": "Bayswater West Primary School - BAYSWATER - 3153"
+ },
+ {
+   "id": 534,
+   "hs_company_id": 6593350937,
+   "name": "Bayulu Remote Community School - FITZROY CROSSING - 6765"
+ },
+ {
+   "id": 535,
+   "hs_company_id": 6593516937,
+   "name": "Bayview Christian College - PORTLAND - 3305"
+ },
+ {
+   "id": 536,
+   "hs_company_id": 6593354285,
+   "name": "Beachlands Primary School - GERALDTON PO - 6530"
+ },
+ {
+   "id": 537,
+   "hs_company_id": 6593514677,
+   "name": "Beachmere State School - BEACHMERE - 4510"
+ },
+ {
+   "id": 538,
+   "hs_company_id": 6593353553,
+   "name": "Beachport Primary School - BEACHPORT - 5280"
+ },
+ {
+   "id": 539,
+   "hs_company_id": 6593476520,
+   "name": "Beacon Hill Public School - BEACON HILL - 2100"
+ },
+ {
+   "id": 540,
+   "hs_company_id": 6593516049,
+   "name": "Beacon Primary School - BEACON - 6472"
+ },
+ {
+   "id": 541,
+   "hs_company_id": 6593515361,
+   "name": "Beaconhills College Valley Campus - PAKENHAM - 3810"
+ },
+ {
+   "id": 542,
+   "hs_company_id": 6593515426,
+   "name": "Beaconhills College Village Campus - BERWICK - 3806"
+ },
+ {
+   "id": 543,
+   "hs_company_id": 6593350269,
+   "name": "Beaconsfield Primary School - BEACONSFIELD - 3807"
+ },
+ {
+   "id": 544,
+   "hs_company_id": 6593518230,
+   "name": "Beaconsfield Primary School - BEACONSFIELD - 6162"
+ },
+ {
+   "id": 545,
+   "hs_company_id": 6593351548,
+   "name": "Beaconsfield Primary School - BEACONSFIELD - 7270"
+ },
+ {
+   "id": 546,
+   "hs_company_id": 6593341564,
+   "name": "Beaconsfield State School - MOUNT PLEASANT - 4740"
+ },
+ {
+   "id": 547,
+   "hs_company_id": 6593501220,
+   "name": "Beaconsfield Upper Primary School - BEACONSFIELD UPPER - 3808"
+ },
+ {
+   "id": 548,
+   "hs_company_id": 6593343250,
+   "name": "Beafield Education Centre - PARA HILLS WEST - 5096"
+ },
+ {
+   "id": 549,
+   "hs_company_id": 6593343247,
+   "name": "Beafield Education Centre Brahma Lodge Campus - BRAHMA LODGE - 5109"
+ },
+ {
+   "id": 550,
+   "hs_company_id": 6593351699,
+   "name": "Beafield Education Centre Silkes Road Campus - PARADISE - 5075"
+ },
+ {
+   "id": 551,
+   "hs_company_id": 6593334551,
+   "name": "Bealiba Primary School - BEALIBA - 3475"
+ },
+ {
+   "id": 552,
+   "hs_company_id": 6593342259,
+   "name": "Beaudesert State High School - BEAUDESERT - 4285"
+ },
+ {
+   "id": 553,
+   "hs_company_id": 6593342318,
+   "name": "Beaudesert State School - BEAUDESERT - 4285"
+ },
+ {
+   "id": 554,
+   "hs_company_id": 6593516700,
+   "name": "Beaufort Primary School - BEAUFORT - 3373"
+ },
+ {
+   "id": 555,
+   "hs_company_id": 6593342806,
+   "name": "Beaufort Secondary College - BEAUFORT - 3373"
+ },
+ {
+   "id": 556,
+   "hs_company_id": 6593335360,
+   "name": "Beaumaris North Primary School - BEAUMARIS - 3193"
+ },
+ {
+   "id": 557,
+   "hs_company_id": 6593338018,
+   "name": "Beaumaris Primary School - BEAUMARIS - 3193"
+ },
+ {
+   "id": 558,
+   "hs_company_id": 6593317930,
+   "name": "Beaumaris Primary School - OCEAN REEF - 6027"
+ },
+ {
+   "id": 559,
+   "hs_company_id": 6593515355,
+   "name": "Beaumont Hills Public School - BEAUMONT HILLS - 2155"
+ },
+ {
+   "id": 560,
+   "hs_company_id": 6593514545,
+   "name": "Beaumont Road Public School - KILLARA - 2071"
+ },
+ {
+   "id": 561,
+   "hs_company_id": 6593342547,
+   "name": "Beauty Point Public School - MOSMAN - 2088"
+ },
+ {
+   "id": 562,
+   "hs_company_id": 6593317219,
+   "name": "Beckenham Primary School - BECKENHAM - 6107"
+ },
+ {
+   "id": 563,
+   "hs_company_id": 6593514124,
+   "name": "Beckom Public School - BECKOM - 2665"
+ },
+ {
+   "id": 564,
+   "hs_company_id": 6593321337,
+   "name": "Bede Polding College - WINDSOR SOUTH - 2756"
+ },
+ {
+   "id": 565,
+   "hs_company_id": 6593476522,
+   "name": "Bedgerebong Public School - BEDGEREBONG - 2871"
+ },
+ {
+   "id": 566,
+   "hs_company_id": 6593339289,
+   "name": "Bedourie State School - BEDOURIE - 4829"
+ },
+ {
+   "id": 567,
+   "hs_company_id": 6593337863,
+   "name": "Beeac Primary School - BEEAC - 3251"
+ },
+ {
+   "id": 568,
+   "hs_company_id": 6593515436,
+   "name": "Beechboro Christian School - MORLEY - 6063"
+ },
+ {
+   "id": 569,
+   "hs_company_id": 6593515438,
+   "name": "Beechboro Primary School - BEECHBORO - 6063"
+ },
+ {
+   "id": 570,
+   "hs_company_id": 6593514666,
+   "name": "Beechmont State School - BEECHMONT - 4211"
+ },
+ {
+   "id": 571,
+   "hs_company_id": 6593350022,
+   "name": "Beechwood Public School - BEECHWOOD - 2446"
+ },
+ {
+   "id": 572,
+   "hs_company_id": 6593343158,
+   "name": "Beechworth Montessori Primary School - BEECHWORTH - 3747"
+ },
+ {
+   "id": 573,
+   "hs_company_id": 6593335219,
+   "name": "Beechworth Primary School - BEECHWORTH - 3747"
+ },
+ {
+   "id": 574,
+   "hs_company_id": 6593352835,
+   "name": "Beechworth Secondary College - BEECHWORTH - 3747"
+ },
+ {
+   "id": 575,
+   "hs_company_id": 6593336693,
+   "name": "Beecroft Public School - BEECROFT - 2119"
+ },
+ {
+   "id": 576,
+   "hs_company_id": 6593518371,
+   "name": "Beehive Montessori Primary School - MOSMAN PARK - 6012"
+ },
+ {
+   "id": 577,
+   "hs_company_id": 6593343255,
+   "name": "Beelbangera Public School - BEELBANGERA - 2680"
+ },
+ {
+   "id": 578,
+   "hs_company_id": 6593500854,
+   "name": "Beeliar Primary School - BEELIAR - 6164"
+ },
+ {
+   "id": 579,
+   "hs_company_id": 6593351080,
+   "name": "Beenleigh Special School - MOUNT WARREN PARK - 4207"
+ },
+ {
+   "id": 580,
+   "hs_company_id": 6593341727,
+   "name": "Beenleigh State High School - BEENLEIGH - 4207"
+ },
+ {
+   "id": 581,
+   "hs_company_id": 6593517422,
+   "name": "Beenleigh State School - BEENLEIGH - 4207"
+ },
+ {
+   "id": 582,
+   "hs_company_id": 6593517411,
+   "name": "Beerburrum State School - BEERBURRUM - 4517"
+ },
+ {
+   "id": 583,
+   "hs_company_id": 6593518249,
+   "name": "Beerwah State High School - BEERWAH - 4519"
+ },
+ {
+   "id": 584,
+   "hs_company_id": 6593341838,
+   "name": "Beerwah State School - BEERWAH - 4519"
+ },
+ {
+   "id": 585,
+   "hs_company_id": 6593518170,
+   "name": "Bees Creek Primary School - PALMERSTON - 822"
+ },
+ {
+   "id": 586,
+   "hs_company_id": 6593517607,
+   "name": "Bega High School - BEGA - 2550"
+ },
+ {
+   "id": 587,
+   "hs_company_id": 6593513991,
+   "name": "Bega Valley Public School - BEGA - 2550"
+ },
+ {
+   "id": 588,
+   "hs_company_id": 6593517420,
+   "name": "Begonia State School - BEGONIA - 4487"
+ },
+ {
+   "id": 589,
+   "hs_company_id": 6593333931,
+   "name": "Belair Primary School - BELAIR - 5052"
+ },
+ {
+   "id": 590,
+   "hs_company_id": 6593516905,
+   "name": "Belair Public School - ADAMSTOWN HEIGHTS - 2289"
+ },
+ {
+   "id": 591,
+   "hs_company_id": 6593514662,
+   "name": "Belconnen High School - HAWKER - 2614"
+ },
+ {
+   "id": 592,
+   "hs_company_id": 6636239654,
+   "name": "Beldon Education Support Centre - BELDON - 6027"
+ },
+ {
+   "id": 593,
+   "hs_company_id": 6593353560,
+   "name": "Belgian Gardens State School - BELGIAN GARDENS, BELDON - 48106027"
+ },
+ {
+   "id": 594,
+   "hs_company_id": 6593352339,
+   "name": "Belgrave Heights Christian School - BELGRAVE HEIGHTS - 3160"
+ },
+ {
+   "id": 595,
+   "hs_company_id": 6593335967,
+   "name": "Belgrave South Primary School - BELGRAVE - 3160"
+ },
+ {
+   "id": 596,
+   "hs_company_id": 6593335400,
+   "name": "Bell Park North Primary School - NORTH GEELONG - 3215"
+ },
+ {
+   "id": 597,
+   "hs_company_id": 6593352218,
+   "name": "Bell Primary School - PRESTON - 3072"
+ },
+ {
+   "id": 598,
+   "hs_company_id": 6593322151,
+   "name": "Bell State School - BELL - 4408"
+ },
+ {
+   "id": 599,
+   "hs_company_id": 6593322058,
+   "name": "Bellaire Primary School - HIGHTON - 3216"
+ },
+ {
+   "id": 600,
+   "hs_company_id": 6593337890,
+   "name": "Bellambi Public School - BELLAMBI - 2518"
+ },
+ {
+   "id": 601,
+   "hs_company_id": 6593342120,
+   "name": "Bellarine Secondary College Drysdale Campus - DRYSDALE - 3222"
+ },
+ {
+   "id": 602,
+   "hs_company_id": 6593333861,
+   "name": "Bellarine Secondary College Ocean Grove Campus - OCEAN GROVE - 3226"
+ },
+ {
+   "id": 603,
+   "hs_company_id": 6593353606,
+   "name": "Bellata Public School - BELLATA - 2397"
+ },
+ {
+   "id": 604,
+   "hs_company_id": 6593506878,
+   "name": "Bellbird Public School - BELLBIRD - 2325"
+ },
+ {
+   "id": 605,
+   "hs_company_id": 6593350959,
+   "name": "Bellbrae Primary School - TORQUAY - 3228"
+ },
+ {
+   "id": 606,
+   "hs_company_id": 6593476695,
+   "name": "Bellbridge Primary School - HOPPERS CROSSING - 3029"
+ },
+ {
+   "id": 607,
+   "hs_company_id": 6593336669,
+   "name": "Bellbrook Public School - BELLBROOK - 2440"
+ },
+ {
+   "id": 608,
+   "hs_company_id": 6593334605,
+   "name": "Belle Vue Park Primary School - GLENROY - 3046"
+ },
+ {
+   "id": 609,
+   "hs_company_id": 6593476716,
+   "name": "Belle Vue Primary School - BALWYN NORTH - 3104"
+ },
+ {
+   "id": 610,
+   "hs_company_id": 6593317966,
+   "name": "Bellenden Ker State School - BABINDA - 4871"
+ },
+ {
+   "id": 611,
+   "hs_company_id": 6593342905,
+   "name": "Bellerive Primary School - BELLERIVE - 7018"
+ },
+ {
+   "id": 612,
+   "hs_company_id": 6593516666,
+   "name": "Bellevue Heights Primary School - BELLEVUE HEIGHTS - 5050"
+ },
+ {
+   "id": 613,
+   "hs_company_id": 6593350721,
+   "name": "Bellevue Hill Public School - BELLEVUE HILL - 2023"
+ },
+ {
+   "id": 614,
+   "hs_company_id": 6593514510,
+   "name": "Bellevue Park State School - SOUTHPORT - 4215"
+ },
+ {
+   "id": 615,
+   "hs_company_id": 6593350299,
+   "name": "Bellfield College - ROSSMORE - 2171"
+ },
+ {
+   "id": 616,
+   "hs_company_id": 6593339316,
+   "name": "Bellingen High School - BELLINGEN - 2454"
+ },
+ {
+   "id": 617,
+   "hs_company_id": 6593321384,
+   "name": "Bellingen Public School - BELLINGEN - 2454"
+ },
+ {
+   "id": 618,
+   "hs_company_id": 6593518151,
+   "name": "Belltrees Public School - BELLTREES - 2337"
+ },
+ {
+   "id": 619,
+   "hs_company_id": 6593342883,
+   "name": "Belmay Primary School - CLOVERDALE - 6105"
+ },
+ {
+   "id": 620,
+   "hs_company_id": 6593352971,
+   "name": "Belmont Christian College - BELMONT - 2280"
+ },
+ {
+   "id": 621,
+   "hs_company_id": 6593500763,
+   "name": "Belmont City College - BELMONT - 6104"
+ },
+ {
+   "id": 622,
+   "hs_company_id": 6593516877,
+   "name": "Belmont High School - BELMONT - 3216"
+ },
+ {
+   "id": 623,
+   "hs_company_id": 6593349964,
+   "name": "Belmont High School - GATESHEAD - 2280"
+ },
+ {
+   "id": 624,
+   "hs_company_id": 6593337919,
+   "name": "Belmont North Public School - BELMONT NORTH - 2280"
+ },
+ {
+   "id": 625,
+   "hs_company_id": 6593351529,
+   "name": "Belmont Primary School - BELMONT - 3216"
+ },
+ {
+   "id": 626,
+   "hs_company_id": 6593350066,
+   "name": "Belmont Primary School - BELMONT - 6104"
+ },
+ {
+   "id": 627,
+   "hs_company_id": 6593337263,
+   "name": "Belmont Public School - BELMONT - 2280"
+ },
+ {
+   "id": 628,
+   "hs_company_id": 6593342771,
+   "name": "Belmont State School - CARINDALE - 4152"
+ },
+ {
+   "id": 629,
+   "hs_company_id": 6593476236,
+   "name": "Belmore Boys High School - BELMORE - 2192"
+ },
+ {
+   "id": 630,
+   "hs_company_id": 6593338641,
+   "name": "Belmore North Public School - BELMORE - 2192"
+ },
+ {
+   "id": 631,
+   "hs_company_id": 6593351096,
+   "name": "Belmore School - BALWYN - 3103"
+ },
+ {
+   "id": 632,
+   "hs_company_id": 6593339444,
+   "name": "Belmore South Public School - BELMORE - 2192"
+ },
+ {
+   "id": 633,
+   "hs_company_id": 6593342563,
+   "name": "Belridge Education Support Centre - BELDON - 6027"
+ },
+ {
+   "id": 634,
+   "hs_company_id": 6593352081,
+   "name": "Belridge Senior High School - BELDON - 6027"
+ },
+ {
+   "id": 635,
+   "hs_company_id": 6593513815,
+   "name": "Belrose Public School - BELROSE - 2085"
+ },
+ {
+   "id": 636,
+   "hs_company_id": 6593352832,
+   "name": "Belvedere Park Primary School - SEAFORD - 3198"
+ },
+ {
+   "id": 637,
+   "hs_company_id": 6593355694,
+   "name": "Belvoir Wodonga Special Developmental School - WODONGA - 3690"
+ },
+ {
+   "id": 638,
+   "hs_company_id": 6593515343,
+   "name": "Belyuen School - DARWIN - 822"
+ },
+ {
+   "id": 639,
+   "hs_company_id": 6593352887,
+   "name": "Bemboka Public School - BEMBOKA - 2550"
+ },
+ {
+   "id": 640,
+   "hs_company_id": 6593517647,
+   "name": "Ben Lomond Public School - BEN LOMOND - 2365"
+ },
+ {
+   "id": 641,
+   "hs_company_id": 6593352818,
+   "name": "Ben Venue Public School - ARMIDALE - 2350"
+ },
+ {
+   "id": 642,
+   "hs_company_id": 6593507130,
+   "name": "Benalla Christian School - BENALLA - 3672"
+ },
+ {
+   "id": 643,
+   "hs_company_id": 6593517394,
+   "name": "Benalla P-12 College Avon Street Campus - BENALLA - 3672"
+ },
+ {
+   "id": 644,
+   "hs_company_id": 6593500953,
+   "name": "Benalla P-12 College Barkley Street Campus - BENALLA - 3672"
+ },
+ {
+   "id": 645,
+   "hs_company_id": 6593352881,
+   "name": "Benalla P-12 College Clarke Street Campus - BENALLA - 3672"
+ },
+ {
+   "id": 646,
+   "hs_company_id": 6593506739,
+   "name": "Benalla P-12 College Faithfull Street Campus - BENALLA - 3672"
+ },
+ {
+   "id": 647,
+   "hs_company_id": 6593514125,
+   "name": "Benalla P-12 College Waller Street Campus - BENALLA - 3672"
+ },
+ {
+   "id": 648,
+   "hs_company_id": 6593321392,
+   "name": "Benaraby State School - GLADSTONE DC - 4680"
+ },
+ {
+   "id": 649,
+   "hs_company_id": 6593317948,
+   "name": "Benarkin State School - BENARKIN - 4306"
+ },
+ {
+   "id": 650,
+   "hs_company_id": 6593350235,
+   "name": "Bencubbin Primary School - BENCUBBIN - 6477"
+ },
+ {
+   "id": 651,
+   "hs_company_id": 6593350966,
+   "name": "Bendemeer Public School - BENDEMEER - 2355"
+ },
+ {
+   "id": 652,
+   "hs_company_id": 6593355023,
+   "name": "Bendigo Primary School - IRONBARK - 3550"
+ },
+ {
+   "id": 653,
+   "hs_company_id": 6593336723,
+   "name": "Bendigo Senior Secondary College - BENDIGO - 3550"
+ },
+ {
+   "id": 654,
+   "hs_company_id": 6593513850,
+   "name": "Bendigo South East College - STRATHDALE - 3550"
+ },
+ {
+   "id": 655,
+   "hs_company_id": 6593514769,
+   "name": "Bendigo Special School - KANGAROO FLAT - 3555"
+ },
+ {
+   "id": 656,
+   "hs_company_id": 6593514783,
+   "name": "Bendigo Technical Education College - BENDIGO - 3550"
+ },
+ {
+   "id": 657,
+   "hs_company_id": 6593334619,
+   "name": "Bennett Road Public School - COLYTON - 2760"
+ },
+ {
+   "id": 658,
+   "hs_company_id": 6593342118,
+   "name": "Benowa State High School - GOLD COAST MC - 4217"
+ },
+ {
+   "id": 659,
+   "hs_company_id": 6593351498,
+   "name": "Benowa State School - BENOWA - 4217"
+ },
+ {
+   "id": 660,
+   "hs_company_id": 6593317277,
+   "name": "Bentleigh College - BENTLEIGH EAST - 3165"
+ },
+ {
+   "id": 661,
+   "hs_company_id": 6593342900,
+   "name": "Bentleigh West Primary School - BENTLEIGH - 3204"
+ },
+ {
+   "id": 662,
+   "hs_company_id": 6593353512,
+   "name": "Bentley Park College - EDMONTON - 4869"
+ },
+ {
+   "id": 663,
+   "hs_company_id": 6593514615,
+   "name": "Bentley Primary School - BENTLEY - 6102"
+ },
+ {
+   "id": 664,
+   "hs_company_id": 6593514591,
+   "name": "Benton Junior College - MORNINGTON - 3931"
+ },
+ {
+   "id": 665,
+   "hs_company_id": 6593338715,
+   "name": "Berala Public School - BERALA - 2141"
+ },
+ {
+   "id": 666,
+   "hs_company_id": 6593514245,
+   "name": "Berendale School - MOORABBIN - 3189"
+ },
+ {
+   "id": 667,
+   "hs_company_id": 6593517672,
+   "name": "Berengarra School - KERRIMUIR - 3129"
+ },
+ {
+   "id": 668,
+   "hs_company_id": 6593514085,
+   "name": "Beresfield Public School - BERESFIELD - 2322"
+ },
+ {
+   "id": 669,
+   "hs_company_id": 6593349783,
+   "name": "Beresford Road Public School - GREYSTANES - 2145"
+ },
+ {
+   "id": 670,
+   "hs_company_id": 6593352075,
+   "name": "Berinba Public School - YASS - 2582"
+ },
+ {
+   "id": 671,
+   "hs_company_id": 6593342322,
+   "name": "Berkeley Public School - BERKELEY - 2506"
+ },
+ {
+   "id": 672,
+   "hs_company_id": 6593321383,
+   "name": "Berkeley Vale Public School - BERKELEY VALE - 2261"
+ },
+ {
+   "id": 673,
+   "hs_company_id": 6593350168,
+   "name": "Berkeley West Public School - BERKELEY - 2506"
+ },
+ {
+   "id": 674,
+   "hs_company_id": 6593352219,
+   "name": "Bermagui Public School - BERMAGUI SOUTH - 2546"
+ },
+ {
+   "id": 675,
+   "hs_company_id": 6593351566,
+   "name": "Berowra Christian Community School - BEROWRA - 2081"
+ },
+ {
+   "id": 676,
+   "hs_company_id": 6593506958,
+   "name": "Berowra Public School - BEROWRA - 2081"
+ },
+ {
+   "id": 677,
+   "hs_company_id": 6593317891,
+   "name": "Berri Primary School - BERRI - 5343"
+ },
+ {
+   "id": 678,
+   "hs_company_id": 6593514590,
+   "name": "Berridale Public School - BERRIDALE - 2628"
+ },
+ {
+   "id": 679,
+   "hs_company_id": 6593342844,
+   "name": "Berrigan Public School - BERRIGAN - 2712"
+ },
+ {
+   "id": 680,
+   "hs_company_id": 6593342237,
+   "name": "Berrima Public School - BERRIMA - 2577"
+ },
+ {
+   "id": 681,
+   "hs_company_id": 6593500955,
+   "name": "Berrinba East State School - KINGSTON - 4114"
+ },
+ {
+   "id": 682,
+   "hs_company_id": 6593351532,
+   "name": "Berry Public School - BERRY - 2535"
+ },
+ {
+   "id": 683,
+   "hs_company_id": 6593353573,
+   "name": "Berry Springs Primary School - BERRY SPRINGS - 838"
+ },
+ {
+   "id": 684,
+   "hs_company_id": 6593355697,
+   "name": "Berry Street Victoria School - RICHMOND - 3168"
+ },
+ {
+   "id": 685,
+   "hs_company_id": 6593317220,
+   "name": "Berserker Street State School - NORTH ROCKHAMPTON - 4701"
+ },
+ {
+   "id": 686,
+   "hs_company_id": 6593342774,
+   "name": "Bert Oldfield Public School - SEVEN HILLS - 2147"
+ },
+ {
+   "id": 687,
+   "hs_company_id": 6593353542,
+   "name": "Bertram Primary School - BERTRAM - 6167"
+ },
+ {
+   "id": 688,
+   "hs_company_id": 6593501184,
+   "name": "Berwick Chase Primary School - BERWICK - 3806"
+ },
+ {
+   "id": 689,
+   "hs_company_id": 6593476637,
+   "name": "Berwick Fields Primary School - BERWICK - 3806"
+ },
+ {
+   "id": 690,
+   "hs_company_id": 6593335725,
+   "name": "Berwick Grammar School - BERWICK - 3809"
+ },
+ {
+   "id": 691,
+   "hs_company_id": 6593514543,
+   "name": "Berwick Lodge Primary School - BERWICK - 3806"
+ },
+ {
+   "id": 692,
+   "hs_company_id": 6593339253,
+   "name": "Berwick Primary School - BERWICK - 3806"
+ },
+ {
+   "id": 693,
+   "hs_company_id": 6593341738,
+   "name": "Berwick Secondary College - BERWICK - 3806"
+ },
+ {
+   "id": 694,
+   "hs_company_id": 6593506918,
+   "name": "Bethal Primary School - MEADOW HEIGHTS - 3048"
+ },
+ {
+   "id": 695,
+   "hs_company_id": 6593513822,
+   "name": "Bethanga Primary School - BETHANGA - 3691"
+ },
+ {
+   "id": 696,
+   "hs_company_id": 6593353806,
+   "name": "Bethania Lutheran Primary School - BETHANIA - 4205"
+ },
+ {
+   "id": 697,
+   "hs_company_id": 6593321331,
+   "name": "Bethany Catholic School - GLENMORE PARK - 2745"
+ },
+ {
+   "id": 698,
+   "hs_company_id": 6593506635,
+   "name": "Bethany Catholic School - WERRIBEE NORTH - 3030"
+ },
+ {
+   "id": 699,
+   "hs_company_id": 6593517627,
+   "name": "Bethany Christian School - SALISBURY DOWNS - 5108"
+ },
+ {
+   "id": 700,
+   "hs_company_id": 6593476243,
+   "name": "Bethany College - HURSTVILLE - 2220"
+ },
+ {
+   "id": 701,
+   "hs_company_id": 6593518943,
+   "name": "Bethany Lutheran Primary School - RACEVIEW - 4305"
+ },
+ {
+   "id": 702,
+   "hs_company_id": 6593516918,
+   "name": "Bethel Christian Academy - MOUNT DRUITT - 2770"
+ },
+ {
+   "id": 703,
+   "hs_company_id": 6593518961,
+   "name": "Bethel Christian School - ALBANY DC - 6330"
+ },
+ {
+   "id": 704,
+   "hs_company_id": 6593335074,
+   "name": "Bethlehem College - ASHFIELD - 2131"
+ },
+ {
+   "id": 705,
+   "hs_company_id": 6593336606,
+   "name": "Beulah Primary School - BEULAH - 3395"
+ },
+ {
+   "id": 706,
+   "hs_company_id": 6593354308,
+   "name": "Beverford District Primary School - BEVERFORD - 3590"
+ },
+ {
+   "id": 707,
+   "hs_company_id": 6593336597,
+   "name": "Beveridge Primary School - BEVERIDGE - 3753"
+ },
+ {
+   "id": 708,
+   "hs_company_id": 6593350834,
+   "name": "Beverley District High School - BEVERLEY - 6304"
+ },
+ {
+   "id": 709,
+   "hs_company_id": 6593506986,
+   "name": "Beverley Hills Primary School - DONCASTER EAST - 3109"
+ },
+ {
+   "id": 710,
+   "hs_company_id": 6593518357,
+   "name": "Beverley Park Special School - CAMPBELLTOWN NORTH - 2560"
+ },
+ {
+   "id": 711,
+   "hs_company_id": 6593317759,
+   "name": "Beverly Hills Girls High School - BEVERLY HILLS - 2209"
+ },
+ {
+   "id": 712,
+   "hs_company_id": 6593349938,
+   "name": "Beverly Hills North Public School - BEVERLY HILLS - 2209"
+ },
+ {
+   "id": 713,
+   "hs_company_id": 6593335987,
+   "name": "Beverly Hills Public School - BEVERLY HILLS - 2209"
+ },
+ {
+   "id": 714,
+   "hs_company_id": 6593516857,
+   "name": "Bexhill Public School - BEXHILL - 2480"
+ },
+ {
+   "id": 715,
+   "hs_company_id": 6593334056,
+   "name": "Bexley North Public School - BEXLEY NORTH - 2207"
+ },
+ {
+   "id": 716,
+   "hs_company_id": 6593322154,
+   "name": "Bexley Public School - BEXLEY - 2207"
+ },
+ {
+   "id": 717,
+   "hs_company_id": 6593514821,
+   "name": "Bhaktivedanta Swami Gurukula School - EUNGELLA - 2484"
+ },
+ {
+   "id": 718,
+   "hs_company_id": 6593350289,
+   "name": "Biala Special School - BALLINA - 2478"
+ },
+ {
+   "id": 719,
+   "hs_company_id": 6593507145,
+   "name": "Bialik College Limited - HAWTHORN - 3122"
+ },
+ {
+   "id": 720,
+   "hs_company_id": 6593514089,
+   "name": "Bible Baptist Christian Academy - MOUNT HELENA - 6082"
+ },
+ {
+   "id": 721,
+   "hs_company_id": 6593351568,
+   "name": "Biboohra State School - MAREEBA - 4880"
+ },
+ {
+   "id": 722,
+   "hs_company_id": 6593342484,
+   "name": "Bibra Lake Primary School - BIBRA LAKE - 6163"
+ },
+ {
+   "id": 723,
+   "hs_company_id": 6593352282,
+   "name": "Bicheno Primary School - BICHENO - 7215"
+ },
+ {
+   "id": 724,
+   "hs_company_id": 6593516664,
+   "name": "Bicton Primary School - BICTON - 6157"
+ },
+ {
+   "id": 725,
+   "hs_company_id": 6593518171,
+   "name": "Biddabah Public School - WARNERS BAY - 2282"
+ },
+ {
+   "id": 726,
+   "hs_company_id": 6593350232,
+   "name": "Biddeston State School - OAKEY - 4401"
+ },
+ {
+   "id": 727,
+   "hs_company_id": 6593351048,
+   "name": "Bidwill Public School - BIDWILL - 2770"
+ },
+ {
+   "id": 728,
+   "hs_company_id": 6593337423,
+   "name": "Big Hill Primary School - BIG HILL - 3555"
+ },
+ {
+   "id": 729,
+   "hs_company_id": 6593339416,
+   "name": "Bigga Public School - BIGGA - 2583"
+ },
+ {
+   "id": 730,
+   "hs_company_id": 6593341828,
+   "name": "Biggenden State School - BIGGENDEN - 4621"
+ },
+ {
+   "id": 731,
+   "hs_company_id": 6593514016,
+   "name": "Biggera Waters State School - BIGGERA WATERS - 4216"
+ },
+ {
+   "id": 732,
+   "hs_company_id": 6593354296,
+   "name": "Bilambil Public School - BILAMBIL - 2486"
+ },
+ {
+   "id": 733,
+   "hs_company_id": 6593342812,
+   "name": "Bilgola Plateau Public School - BILGOLA - 2107"
+ },
+ {
+   "id": 734,
+   "hs_company_id": 6593338544,
+   "name": "Billabong High School - CULCAIRN - 2660"
+ },
+ {
+   "id": 735,
+   "hs_company_id": 6593517490,
+   "name": "Billanook College - MOOROOLBARK - 3138"
+ },
+ {
+   "id": 736,
+   "hs_company_id": 6593500815,
+   "name": "Billanook Primary School - MONTROSE - 3765"
+ },
+ {
+   "id": 737,
+   "hs_company_id": 6593334532,
+   "name": "Biloela State High School - BILOELA - 4715"
+ },
+ {
+   "id": 738,
+   "hs_company_id": 6593339428,
+   "name": "Biloela State School - BILOELA - 4715"
+ },
+ {
+   "id": 739,
+   "hs_company_id": 6593517475,
+   "name": "Bilpin Public School - BILPIN - 2758"
+ },
+ {
+   "id": 740,
+   "hs_company_id": 6593518167,
+   "name": "Bimbadeen Heights Primary School - MOOROOLBARK - 3138"
+ },
+ {
+   "id": 741,
+   "hs_company_id": 6593337867,
+   "name": "Binalong Public School - BINALONG - 2584"
+ },
+ {
+   "id": 742,
+   "hs_company_id": 6593350920,
+   "name": "Binda Public School - BINDA - 2583"
+ },
+ {
+   "id": 743,
+   "hs_company_id": 6593322242,
+   "name": "Bindoon Primary School - BINDOON - 6502"
+ },
+ {
+   "id": 744,
+   "hs_company_id": 6593335390,
+   "name": "Bingara Central School - BINGARA - 2404"
+ },
+ {
+   "id": 745,
+   "hs_company_id": 6593506856,
+   "name": "Binjour Plateau State School - GAYNDAH - 4625"
+ },
+ {
+   "id": 746,
+   "hs_company_id": 6593333924,
+   "name": "Binnaway Central School - BINNAWAY - 2395"
+ },
+ {
+   "id": 747,
+   "hs_company_id": 6593343000,
+   "name": "Binnu Primary School - BINNU - 6532"
+ },
+ {
+   "id": 748,
+   "hs_company_id": 6593514616,
+   "name": "Binya Public School - BINYA - 2665"
+ },
+ {
+   "id": 749,
+   "hs_company_id": 6593334016,
+   "name": "Biraban Public School - TORONTO - 2283"
+ },
+ {
+   "id": 750,
+   "hs_company_id": 6593342999,
+   "name": "Birchgrove Public School - BALMAIN - 2041"
+ },
+ {
+   "id": 751,
+   "hs_company_id": 6593513870,
+   "name": "Birchip P-12 School - BIRCHIP - 3483"
+ },
+ {
+   "id": 752,
+   "hs_company_id": 6593352106,
+   "name": "Birdsville State School - BIRDSVILLE - 4482"
+ },
+ {
+   "id": 753,
+   "hs_company_id": 6593342470,
+   "name": "Birdwood High School - BIRDWOOD - 5234"
+ },
+ {
+   "id": 754,
+   "hs_company_id": 6593342487,
+   "name": "Birdwood Primary School - BIRDWOOD - 5234"
+ },
+ {
+   "id": 755,
+   "hs_company_id": 6593516724,
+   "name": "Birkdale South State School - BIRKDALE - 4159"
+ },
+ {
+   "id": 756,
+   "hs_company_id": 6593506863,
+   "name": "Birkdale State School - BIRKDALE - 4159"
+ },
+ {
+   "id": 757,
+   "hs_company_id": 6593342131,
+   "name": "Birlirr Ngawiyiwu Primary School - HALLS CREEK - 6770"
+ },
+ {
+   "id": 758,
+   "hs_company_id": 6593516680,
+   "name": "Birmingham Primary School - MOUNT EVELYN - 3140"
+ },
+ {
+   "id": 759,
+   "hs_company_id": 6593349774,
+   "name": "Birralee Primary School - DONCASTER - 3108"
+ },
+ {
+   "id": 760,
+   "hs_company_id": 6593343127,
+   "name": "Birregurra Primary School - BIRREGURRA - 3242"
+ },
+ {
+   "id": 761,
+   "hs_company_id": 6593515528,
+   "name": "Birrigai Outdoor School - PADDYS RIVER - 2620"
+ },
+ {
+   "id": 762,
+   "hs_company_id": 6593500676,
+   "name": "Birrong Boys High School - BIRRONG - 2143"
+ },
+ {
+   "id": 763,
+   "hs_company_id": 6593339146,
+   "name": "Birrong Girls High School - BIRRONG - 2143"
+ },
+ {
+   "id": 764,
+   "hs_company_id": 6593349909,
+   "name": "Birrong Public School - BIRRONG - 2143"
+ },
+ {
+   "id": 765,
+   "hs_company_id": 6593353738,
+   "name": "Bishop Druitt College - COFFS HARBOUR DC - 2450"
+ },
+ {
+   "id": 766,
+   "hs_company_id": 6593514815,
+   "name": "Bishop Tyrrell Anglican College - WALLSEND - 2287"
+ },
+ {
+   "id": 767,
+   "hs_company_id": 6593342331,
+   "name": "Bittern Primary School - BITTERN - 3918"
+ },
+ {
+   "id": 768,
+   "hs_company_id": 6593515367,
+   "name": "Black Forest Primary School - BLACK FOREST - 5035"
+ },
+ {
+   "id": 769,
+   "hs_company_id": 6593338718,
+   "name": "Black Hill Primary School - BALLARAT - 3350"
+ },
+ {
+   "id": 770,
+   "hs_company_id": 6593514166,
+   "name": "Black Hill Public School - BLACK HILL - 2322"
+ },
+ {
+   "id": 771,
+   "hs_company_id": 6593353736,
+   "name": "Black Mountain Public School - BLACK MOUNTAIN - 2365"
+ },
+ {
+   "id": 772,
+   "hs_company_id": 6593355676,
+   "name": "Black Mountain School - O'CONNOR - 2602"
+ },
+ {
+   "id": 773,
+   "hs_company_id": 6593342807,
+   "name": "Black Rock Primary School - BLACK ROCK - 3193"
+ },
+ {
+   "id": 774,
+   "hs_company_id": 6593317177,
+   "name": "Black Springs Public School - BLACK SPRINGS - 2787"
+ },
+ {
+   "id": 775,
+   "hs_company_id": 6593517570,
+   "name": "Blackall Range Independent School - KUREELPA - 4560"
+ },
+ {
+   "id": 776,
+   "hs_company_id": 6593517412,
+   "name": "Blackall State School - BLACKALL - 4472"
+ },
+ {
+   "id": 777,
+   "hs_company_id": 6593337209,
+   "name": "Blackalls Park Public School - BLACKALLS PARK - 2283"
+ },
+ {
+   "id": 778,
+   "hs_company_id": 6593341790,
+   "name": "Blackburn English Language School - BURWOOD EAST - 3151"
+ },
+ {
+   "id": 779,
+   "hs_company_id": 6593353009,
+   "name": "Blackburn High School - BLACKBURN - 3130"
+ },
+ {
+   "id": 780,
+   "hs_company_id": 6593354362,
+   "name": "Blackburn Lake Primary School - BLACKBURN - 3130"
+ },
+ {
+   "id": 781,
+   "hs_company_id": 6593335371,
+   "name": "Blackburn Primary School - BLACKBURN - 3130"
+ },
+ {
+   "id": 782,
+   "hs_company_id": 6593506706,
+   "name": "Blackbutt State School - BLACKBUTT - 4306"
+ },
+ {
+   "id": 783,
+   "hs_company_id": 6593342311,
+   "name": "Blackett Public School - BLACKETT - 2770"
+ },
+ {
+   "id": 784,
+   "hs_company_id": 6593334349,
+   "name": "Blackfriars Priory School - PROSPECT - 5082"
+ },
+ {
+   "id": 785,
+   "hs_company_id": 6593517629,
+   "name": "Blackheath and Thornburgh College - CHARTERS TOWERS - 4820"
+ },
+ {
+   "id": 786,
+   "hs_company_id": 6593338643,
+   "name": "Blackheath Public School - BLACKHEATH - 2785"
+ },
+ {
+   "id": 787,
+   "hs_company_id": 6593342240,
+   "name": "Blackmans Bay Primary School - BLACKMANS BAY - 7052"
+ },
+ {
+   "id": 788,
+   "hs_company_id": 6593514102,
+   "name": "Blacksmiths Public School - BLACKSMITHS - 2281"
+ },
+ {
+   "id": 789,
+   "hs_company_id": 6593476234,
+   "name": "Blacktown Boys High School - BLACKTOWN - 2148"
+ },
+ {
+   "id": 790,
+   "hs_company_id": 6593335075,
+   "name": "Blacktown Girls High School - BLACKTOWN - 2148"
+ },
+ {
+   "id": 791,
+   "hs_company_id": 6593341714,
+   "name": "Blacktown North Public School - BLACKTOWN - 2148"
+ },
+ {
+   "id": 792,
+   "hs_company_id": 6593338119,
+   "name": "Blacktown South Public School - BLACKTOWN - 2148"
+ },
+ {
+   "id": 793,
+   "hs_company_id": 6593337416,
+   "name": "Blacktown West Public School - BLACKTOWN - 2148"
+ },
+ {
+   "id": 794,
+   "hs_company_id": 6593355677,
+   "name": "Blacktown Youth College - PLUMPTON - 2770"
+ },
+ {
+   "id": 795,
+   "hs_company_id": 6593352879,
+   "name": "Blackville Public School - BLACKVILLE - 2343"
+ },
+ {
+   "id": 796,
+   "hs_company_id": 6593349905,
+   "name": "Blackwater North State School - BLACKWATER - 4717"
+ },
+ {
+   "id": 797,
+   "hs_company_id": 6593518157,
+   "name": "Blackwater State High School - BLACKWATER - 4717"
+ },
+ {
+   "id": 798,
+   "hs_company_id": 6593352261,
+   "name": "Blackwater State School - BLACKWATER - 4717"
+ },
+ {
+   "id": 799,
+   "hs_company_id": 6593515268,
+   "name": "Blackwell Public School - ST CLAIR - 2759"
+ },
+ {
+   "id": 800,
+   "hs_company_id": 6593516721,
+   "name": "Blackwood High School - BLACKWOOD - 5050"
+ },
+ {
+   "id": 801,
+   "hs_company_id": 6593515277,
+   "name": "Blackwood Primary School - EDEN HILLS - 5050"
+ },
+ {
+   "id": 802,
+   "hs_company_id": 6593341567,
+   "name": "Blair Athol North B-7 School - BLAIR ATHOL - 5084"
+ },
+ {
+   "id": 803,
+   "hs_company_id": 6593321372,
+   "name": "Blair State School - SADLIERS CROSSING - 4305"
+ },
+ {
+   "id": 804,
+   "hs_company_id": 6593338667,
+   "name": "Blairmount Public School - BLAIRMOUNT - 2559"
+ },
+ {
+   "id": 805,
+   "hs_company_id": 6593334556,
+   "name": "Blakebrook Public School - BLAKEBROOK - 2480"
+ },
+ {
+   "id": 806,
+   "hs_company_id": 6593351021,
+   "name": "Blakehurst High School - SOUTH HURSTVILLE - 2221"
+ },
+ {
+   "id": 807,
+   "hs_company_id": 6593515178,
+   "name": "Blakehurst Public School - CARSS PARK - 2221"
+ },
+ {
+   "id": 808,
+   "hs_company_id": 6593338761,
+   "name": "Blakeview Primary School - BLAKEVIEW - 5114"
+ },
+ {
+   "id": 809,
+   "hs_company_id": 6593476531,
+   "name": "Blanchetown Primary School - BLANCHETOWN - 5357"
+ },
+ {
+   "id": 810,
+   "hs_company_id": 6593337269,
+   "name": "Blandford Public School - BLANDFORD - 2338"
+ },
+ {
+   "id": 811,
+   "hs_company_id": 6593350041,
+   "name": "Blaxcell Street Public School - GRANVILLE - 2142"
+ },
+ {
+   "id": 812,
+   "hs_company_id": 6593335328,
+   "name": "Blaxland East Public School - BLAXLAND - 2774"
+ },
+ {
+   "id": 813,
+   "hs_company_id": 6593342209,
+   "name": "Blaxland High School - BLAXLAND - 2774"
+ },
+ {
+   "id": 814,
+   "hs_company_id": 6593506956,
+   "name": "Blaxland Public School - BLAXLAND - 2774"
+ },
+ {
+   "id": 815,
+   "hs_company_id": 6593518904,
+   "name": "Blayney High School - BLAYNEY - 2799"
+ },
+ {
+   "id": 816,
+   "hs_company_id": 6593350795,
+   "name": "Blayney Public School - BLAYNEY - 2799"
+ },
+ {
+   "id": 817,
+   "hs_company_id": 6593343017,
+   "name": "Blenheim State School - LAIDLEY - 4341"
+ },
+ {
+   "id": 818,
+   "hs_company_id": 6593338506,
+   "name": "Blessed Sacrement Primary School - MOSMAN - 2088"
+ },
+ {
+   "id": 819,
+   "hs_company_id": 6593317170,
+   "name": "Bletchington Public School - ORANGE - 2800"
+ },
+ {
+   "id": 820,
+   "hs_company_id": 6593349951,
+   "name": "Bletchley Park Primary School - SOUTHERN RIVER - 6110"
+ },
+ {
+   "id": 821,
+   "hs_company_id": 6593516095,
+   "name": "Bli Bli State School - BLI BLI - 4560"
+ },
+ {
+   "id": 822,
+   "hs_company_id": 6593476506,
+   "name": "Bligh Park Public School - BLIGH PARK - 2756"
+ },
+ {
+   "id": 823,
+   "hs_company_id": 6593350228,
+   "name": "Blighty Public School - BLIGHTY - 2713"
+ },
+ {
+   "id": 824,
+   "hs_company_id": 6593337959,
+   "name": "Bloomfield River State School - COOKTOWN - 4871"
+ },
+ {
+   "id": 825,
+   "hs_company_id": 6593350998,
+   "name": "Bloomsbury State School - BLOOMSBURY - 4799"
+ },
+ {
+   "id": 826,
+   "hs_company_id": 6593517675,
+   "name": "Blue Gum Montessori School - BIBRA LAKE - 6163"
+ },
+ {
+   "id": 827,
+   "hs_company_id": 6593351579,
+   "name": "Blue Gum School - BRADDON - 2602"
+ },
+ {
+   "id": 828,
+   "hs_company_id": 6593322153,
+   "name": "Blue Haven Public School - BLUE HAVEN - 2262"
+ },
+ {
+   "id": 829,
+   "hs_company_id": 6593343259,
+   "name": "Blue Hills College - GOONELLABAH - 2480"
+ },
+ {
+   "id": 830,
+   "hs_company_id": 6593517594,
+   "name": "Blue Mountains Christian School - BLACKHEATH - 2785"
+ },
+ {
+   "id": 831,
+   "hs_company_id": 6593354397,
+   "name": "Blue Mountains Grammar School - WENTWORTH FALLS - 2782"
+ },
+ {
+   "id": 832,
+   "hs_company_id": 6593353033,
+   "name": "Blue Mountains Grammar School Preparatory School - VALLEY HEIGHTS - 2777"
+ },
+ {
+   "id": 833,
+   "hs_company_id": 6593354384,
+   "name": "Blue Mountains Steiner School - HAZELBROOK - 2779"
+ },
+ {
+   "id": 834,
+   "hs_company_id": 6593339455,
+   "name": "Bluewater State School - BLUEWATER - 4818"
+ },
+ {
+   "id": 835,
+   "hs_company_id": 6593352999,
+   "name": "Bluff Point Primary School - BLUFF POINT - 6530"
+ },
+ {
+   "id": 836,
+   "hs_company_id": 6593514521,
+   "name": "Bluff State School - BLUFF - 4702"
+ },
+ {
+   "id": 837,
+   "hs_company_id": 6593336659,
+   "name": "Blyth Primary School - BLYTH - 5462"
+ },
+ {
+   "id": 838,
+   "hs_company_id": 6593350256,
+   "name": "Boambee Public School - BOAMBEE - 2450"
+ },
+ {
+   "id": 839,
+   "hs_company_id": 6593342093,
+   "name": "Boat Harbour Primary School - BOAT HARBOUR - 7321"
+ },
+ {
+   "id": 840,
+   "hs_company_id": 6593501214,
+   "name": "Bobin Public School - BOBIN - 2429"
+ },
+ {
+   "id": 841,
+   "hs_company_id": 6593352796,
+   "name": "Bobs Farm Public School - BOBS FARM - 2316"
+ },
+ {
+   "id": 842,
+   "hs_company_id": 6593516117,
+   "name": "Bodalla Public School - BODALLA - 2545"
+ },
+ {
+   "id": 843,
+   "hs_company_id": 6593322148,
+   "name": "Boddington District High School - BODDINGTON - 6390"
+ },
+ {
+   "id": 844,
+   "hs_company_id": 6593341707,
+   "name": "Bogan Gate Public School - BOGAN GATE - 2876"
+ },
+ {
+   "id": 845,
+   "hs_company_id": 6593513838,
+   "name": "Bogangar Public School - BOGANGAR - 2488"
+ },
+ {
+   "id": 846,
+   "hs_company_id": 6593342210,
+   "name": "Boggabilla Central School - BOGGABILLA - 2409"
+ },
+ {
+   "id": 847,
+   "hs_company_id": 6593517413,
+   "name": "Boggabri Public School - BOGGABRI - 2382"
+ },
+ {
+   "id": 848,
+   "hs_company_id": 6593336662,
+   "name": "Bohlevale State School - DEERAGUN - 4818"
+ },
+ {
+   "id": 849,
+   "hs_company_id": 6593501201,
+   "name": "Boisdale Consolidated School - BOISDALE - 3860"
+ },
+ {
+   "id": 850,
+   "hs_company_id": 6593517662,
+   "name": "Bold Park Community School - CHURCHLANDS - 6014"
+ },
+ {
+   "id": 851,
+   "hs_company_id": 6593350056,
+   "name": "Bolgart Primary School - BOLGART - 6568"
+ },
+ {
+   "id": 852,
+   "hs_company_id": 6593342217,
+   "name": "Bolinda Primary School - BOLINDA - 3432"
+ },
+ {
+   "id": 853,
+   "hs_company_id": 6593351078,
+   "name": "Bollon State School - BOLLON - 4488"
+ },
+ {
+   "id": 854,
+   "hs_company_id": 6593514051,
+   "name": "Bolwarra Primary School - BOLWARRA - 3305"
+ },
+ {
+   "id": 855,
+   "hs_company_id": 6593501221,
+   "name": "Bolwarra Public School - BOLWARRA - 2320"
+ },
+ {
+   "id": 856,
+   "hs_company_id": 6593354274,
+   "name": "Bomaderry High School - BOMADERRY - 2541"
+ },
+ {
+   "id": 857,
+   "hs_company_id": 6593351558,
+   "name": "Bomaderry Public School - BOMADERRY - 2541"
+ },
+ {
+   "id": 858,
+   "hs_company_id": 6593335187,
+   "name": "Bombala High School - BOMBALA - 2632"
+ },
+ {
+   "id": 859,
+   "hs_company_id": 6593506979,
+   "name": "Bombala Public School - BOMBALA - 2632"
+ },
+ {
+   "id": 860,
+   "hs_company_id": 6593354341,
+   "name": "Bona Vista Primary School - BONA VISTA - 3820"
+ },
+ {
+   "id": 861,
+   "hs_company_id": 6593333871,
+   "name": "Bonalbo Central School - BONALBO - 2469"
+ },
+ {
+   "id": 862,
+   "hs_company_id": 6593350307,
+   "name": "Bonbeach Primary School - CARRUM - 3196"
+ },
+ {
+   "id": 863,
+   "hs_company_id": 6593516676,
+   "name": "Bondi Beach Public School - BONDI BEACH - 2026"
+ },
+ {
+   "id": 864,
+   "hs_company_id": 6593342829,
+   "name": "Bondi Public School - BONDI - 2026"
+ },
+ {
+   "id": 865,
+   "hs_company_id": 6593342897,
+   "name": "Boneo Primary School - BONEO - 3939"
+ },
+ {
+   "id": 866,
+   "hs_company_id": 6593341741,
+   "name": "Bongongo Public School - ADJUNGBILLY - 2727"
+ },
+ {
+   "id": 867,
+   "hs_company_id": 6593506917,
+   "name": "Bonnells Bay Public School - BONNELLS BAY - 2264"
+ },
+ {
+   "id": 868,
+   "hs_company_id": 6593501194,
+   "name": "Bonnet Bay Public School - BONNET BAY - 2226"
+ },
+ {
+   "id": 869,
+   "hs_company_id": 6593476533,
+   "name": "Bonnyrigg Heights Public School - BONNYRIGG HEIGHTS - 2177"
+ },
+ {
+   "id": 870,
+   "hs_company_id": 6593515395,
+   "name": "Bonnyrigg High School - BONNYRIGG - 2177"
+ },
+ {
+   "id": 871,
+   "hs_company_id": 6593351434,
+   "name": "Bonnyrigg Public School - BONNYRIGG - 2177"
+ },
+ {
+   "id": 872,
+   "hs_company_id": 6593333901,
+   "name": "Bonshaw Public School - BONSHAW - 2361"
+ },
+ {
+   "id": 873,
+   "hs_company_id": 6593350981,
+   "name": "Bonville Public School - BONVILLE - 2441"
+ },
+ {
+   "id": 874,
+   "hs_company_id": 6593506703,
+   "name": "Bonya School - ALICE SPRINGS - 872"
+ },
+ {
+   "id": 875,
+   "hs_company_id": 6593353749,
+   "name": "Bonython Primary School - BONYTHON - 2905"
+ },
+ {
+   "id": 876,
+   "hs_company_id": 6593513845,
+   "name": "Booborowie Primary School - BOOBOROWIE - 5417"
+ },
+ {
+   "id": 877,
+   "hs_company_id": 6593337877,
+   "name": "Boolaroo Public School - BOOLAROO - 2284"
+ },
+ {
+   "id": 878,
+   "hs_company_id": 6593333798,
+   "name": "Boolarra Primary School - BOOLARRA - 3870"
+ },
+ {
+   "id": 879,
+   "hs_company_id": 6593513853,
+   "name": "Booleroo Centre District School - BOOLEROO CENTRE - 5482"
+ },
+ {
+   "id": 880,
+   "hs_company_id": 6593500938,
+   "name": "Booligal Public School - BOOLIGAL - 2711"
+ },
+ {
+   "id": 881,
+   "hs_company_id": 6593350167,
+   "name": "Boomi Public School - BOOMI - 2405"
+ },
+ {
+   "id": 882,
+   "hs_company_id": 6593516098,
+   "name": "Boonah State High School - BOONAH - 4310"
+ },
+ {
+   "id": 883,
+   "hs_company_id": 6593518243,
+   "name": "Boonah State School - BOONAH - 4310"
+ },
+ {
+   "id": 884,
+   "hs_company_id": 6593334577,
+   "name": "Boondall State School - BOONDALL - 4034"
+ },
+ {
+   "id": 885,
+   "hs_company_id": 6593336704,
+   "name": "Booragoon Primary School - BOORAGOON - 6154"
+ },
+ {
+   "id": 886,
+   "hs_company_id": 6593517444,
+   "name": "Booragul Public School - BOORAGUL - 2284"
+ },
+ {
+   "id": 887,
+   "hs_company_id": 6593501009,
+   "name": "Booral Public School - BOORAL - 2425"
+ },
+ {
+   "id": 888,
+   "hs_company_id": 6593514041,
+   "name": "Boorowa Central School - BOOROWA - 2586"
+ },
+ {
+   "id": 889,
+   "hs_company_id": 6593317962,
+   "name": "Boort District P-12 School - BOORT - 3537"
+ },
+ {
+   "id": 890,
+   "hs_company_id": 6593343130,
+   "name": "Booyal Central State School - GIN GIN - 4671"
+ },
+ {
+   "id": 891,
+   "hs_company_id": 6593335939,
+   "name": "Borden Primary School - BORDEN - 6338"
+ },
+ {
+   "id": 892,
+   "hs_company_id": 6593351019,
+   "name": "Border Christian College - THURGOONA - 2640"
+ },
+ {
+   "id": 893,
+   "hs_company_id": 6593476634,
+   "name": "Bordertown High School - BORDERTOWN - 5268"
+ },
+ {
+   "id": 894,
+   "hs_company_id": 6593353547,
+   "name": "Bordertown Primary School - BORDERTOWN - 5268"
+ },
+ {
+   "id": 895,
+   "hs_company_id": 6593334455,
+   "name": "Boree Creek Public School - BOREE CREEK - 2652"
+ },
+ {
+   "id": 896,
+   "hs_company_id": 6593352880,
+   "name": "Borenore Public School - BORENORE - 2800"
+ },
+ {
+   "id": 897,
+   "hs_company_id": 6593333793,
+   "name": "Borinya Wangaratta Community Partnership - WANGARATTA - 3677"
+ },
+ {
+   "id": 898,
+   "hs_company_id": 6593334597,
+   "name": "Boronia Heights Primary School - BORONIA - 3155"
+ },
+ {
+   "id": 899,
+   "hs_company_id": 6593350708,
+   "name": "Boronia Heights State School - BORONIA HEIGHTS - 4124"
+ },
+ {
+   "id": 900,
+   "hs_company_id": 6593352870,
+   "name": "Boronia P-12 College Mt View Campus - BORONIA - 3155"
+ },
+ {
+   "id": 901,
+   "hs_company_id": 6593476627,
+   "name": "Boronia Park Public School - HUNTERS HILL - 2110"
+ },
+ {
+   "id": 902,
+   "hs_company_id": 6593513809,
+   "name": "Boronia West Primary School - BORONIA - 3155"
+ },
+ {
+   "id": 903,
+   "hs_company_id": 6593334435,
+   "name": "Boroondara Park Primary School - BALWYN NORTH - 3104"
+ },
+ {
+   "id": 904,
+   "hs_company_id": 6593342818,
+   "name": "Bororen State School - BOROREN - 4678"
+ },
+ {
+   "id": 905,
+   "hs_company_id": 6593353621,
+   "name": "Borroloola School - BORROLOOLA - 854"
+ },
+ {
+   "id": 906,
+   "hs_company_id": 6593516689,
+   "name": "Bossley Park High School - BOSSLEY PARK - 2176"
+ },
+ {
+   "id": 907,
+   "hs_company_id": 6593343110,
+   "name": "Bossley Park Public School - BOSSLEY PARK - 2176"
+ },
+ {
+   "id": 908,
+   "hs_company_id": 6593352852,
+   "name": "Botany Public School - BOTANY - 2019"
+ },
+ {
+   "id": 909,
+   "hs_company_id": 6593321512,
+   "name": "Bothwell District High School - BOTHWELL - 7030"
+ },
+ {
+   "id": 910,
+   "hs_company_id": 6593334571,
+   "name": "Boulder Primary School - BOULDER - 6432"
+ },
+ {
+   "id": 911,
+   "hs_company_id": 6593342855,
+   "name": "Bouldercombe State School - BOULDERCOMBE - 4702"
+ },
+ {
+   "id": 912,
+   "hs_company_id": 6593333942,
+   "name": "Boulia State School - BOULIA - 4829"
+ },
+ {
+   "id": 913,
+   "hs_company_id": 6593500928,
+   "name": "Bounty Boulevarde State School - NORTH LAKES - 4509"
+ },
+ {
+   "id": 914,
+   "hs_company_id": 6593334659,
+   "name": "Bourchier Street Primary School - SHEPPARTON - 3630"
+ },
+ {
+   "id": 915,
+   "hs_company_id": 6593514142,
+   "name": "Bourke High School - BOURKE - 2840"
+ },
+ {
+   "id": 916,
+   "hs_company_id": 6593342825,
+   "name": "Bourke Public School - BOURKE - 2840"
+ },
+ {
+   "id": 917,
+   "hs_company_id": 6593341512,
+   "name": "Bourke Street Public School - SURRY HILLS - 2010"
+ },
+ {
+   "id": 918,
+   "hs_company_id": 6593337359,
+   "name": "Bourke Walgett School of Distance Education - BOURKE - 2840"
+ },
+ {
+   "id": 919,
+   "hs_company_id": 6593317957,
+   "name": "Bowden Brompton Community School - BROMPTON - 5007"
+ },
+ {
+   "id": 920,
+   "hs_company_id": 6593350186,
+   "name": "Bowden Brompton Community School Southern Campus - CHRISTIE DOWNS - 5165"
+ },
+ {
+   "id": 921,
+   "hs_company_id": 6593341796,
+   "name": "Bowen Public School - ORANGE - 2800"
+ },
+ {
+   "id": 922,
+   "hs_company_id": 6593514788,
+   "name": "Bowen Road Primary School - MOONAH - 7009"
+ },
+ {
+   "id": 923,
+   "hs_company_id": 6593343039,
+   "name": "Bowen State High School - BOWEN - 4805"
+ },
+ {
+   "id": 924,
+   "hs_company_id": 6593476386,
+   "name": "Bowen State School - BOWEN - 4805"
+ },
+ {
+   "id": 925,
+   "hs_company_id": 6593515265,
+   "name": "Bowenville State School - BOWENVILLE - 4404"
+ },
+ {
+   "id": 926,
+   "hs_company_id": 6593335373,
+   "name": "Bowning Public School - BOWNING - 2582"
+ },
+ {
+   "id": 927,
+   "hs_company_id": 6593500769,
+   "name": "Bowral High School - BOWRAL - 2576"
+ },
+ {
+   "id": 928,
+   "hs_company_id": 6593333929,
+   "name": "Bowral Public School - BOWRAL - 2576"
+ },
+ {
+   "id": 929,
+   "hs_company_id": 6593337254,
+   "name": "Bowraville Central School - BOWRAVILLE - 2449"
+ },
+ {
+   "id": 930,
+   "hs_company_id": 6593515162,
+   "name": "Box Hill High School - BOX HILL - 3128"
+ },
+ {
+   "id": 931,
+   "hs_company_id": 6593513903,
+   "name": "Box Hill North Primary School - BOX HILL NORTH - 3129"
+ },
+ {
+   "id": 932,
+   "hs_company_id": 6593317230,
+   "name": "Box Hill Senior Secondary College - MONT ALBERT NORTH - 3128"
+ },
+ {
+   "id": 933,
+   "hs_company_id": 6593341323,
+   "name": "Boy's Town School - ENGADINE - 2233"
+ },
+ {
+   "id": 934,
+   "hs_company_id": 6593336110,
+   "name": "Boyanup Primary School - BOYANUP - 6237"
+ },
+ {
+   "id": 935,
+   "hs_company_id": 6593476406,
+   "name": "Boyare Primary School - MIRRABOOKA - 6061"
+ },
+ {
+   "id": 936,
+   "hs_company_id": 6593515387,
+   "name": "Boyne Island State School - BOYNE ISLAND - 4680"
+ },
+ {
+   "id": 937,
+   "hs_company_id": 6593341751,
+   "name": "Boynewood State School - MUNDUBBERA - 4626"
+ },
+ {
+   "id": 938,
+   "hs_company_id": 6593518849,
+   "name": "Boyup Brook District High School - BOYUP BROOK - 6244"
+ },
+ {
+   "id": 939,
+   "hs_company_id": 6593317188,
+   "name": "Bracken Ridge State High School - SANDGATE - 4017"
+ },
+ {
+   "id": 940,
+   "hs_company_id": 6593333915,
+   "name": "Bracken Ridge State School - BRACKEN RIDGE - 4017"
+ },
+ {
+   "id": 941,
+   "hs_company_id": 6593506820,
+   "name": "Bracknell Primary School - BRACKNELL - 7302"
+ },
+ {
+   "id": 942,
+   "hs_company_id": 6593350229,
+   "name": "Bradbury Public School - BRADBURY - 2560"
+ },
+ {
+   "id": 943,
+   "hs_company_id": 6593349901,
+   "name": "Braddock Public School - CRANEBROOK - 2749"
+ },
+ {
+   "id": 944,
+   "hs_company_id": 6593351437,
+   "name": "Bradfield Senior College - CROWS NEST - 2065"
+ },
+ {
+   "id": 945,
+   "hs_company_id": 6593341815,
+   "name": "Bradfordville Public School - GOULBURN - 2580"
+ },
+ {
+   "id": 946,
+   "hs_company_id": 6593501055,
+   "name": "Bradshaw Primary School - ALICE SPRINGS - 870"
+ },
+ {
+   "id": 947,
+   "hs_company_id": 6593351692,
+   "name": "Braemar College - WOODEND - 3442"
+ },
+ {
+   "id": 948,
+   "hs_company_id": 6593506880,
+   "name": "Braeside Primary School - KATANNING - 6317"
+ },
+ {
+   "id": 949,
+   "hs_company_id": 6593339408,
+   "name": "Braeview Primary School - HAPPY VALLEY - 5159"
+ },
+ {
+   "id": 950,
+   "hs_company_id": 6593336714,
+   "name": "Brahma Lodge Primary School - BRAHMA LODGE - 5109"
+ },
+ {
+   "id": 951,
+   "hs_company_id": 6593341575,
+   "name": "Braidwood Central School - BRAIDWOOD - 2622"
+ },
+ {
+   "id": 952,
+   "hs_company_id": 6593343031,
+   "name": "Braitling Primary School - ALICE SPRINGS - 870"
+ },
+ {
+   "id": 953,
+   "hs_company_id": 6593351499,
+   "name": "Bramfield Park Primary School - MADDINGTON - 6109"
+ },
+ {
+   "id": 954,
+   "hs_company_id": 6593343086,
+   "name": "Brandon Park Primary School - WHEELERS HILL - 3150"
+ },
+ {
+   "id": 955,
+   "hs_company_id": 6593350154,
+   "name": "Brandon State School - BRANDON - 4808"
+ },
+ {
+   "id": 956,
+   "hs_company_id": 6593335186,
+   "name": "Branxholme Wallacedale Primary School - BRANXHOLME - 3302"
+ },
+ {
+   "id": 957,
+   "hs_company_id": 6593341489,
+   "name": "Branxton Public School - BRANXTON - 2335"
+ },
+ {
+   "id": 958,
+   "hs_company_id": 6593350169,
+   "name": "Branyan Road State School - BUNDABERG WEST - 4670"
+ },
+ {
+   "id": 959,
+   "hs_company_id": 6593350065,
+   "name": "Brassall State School - BRASSALL - 4305"
+ },
+ {
+   "id": 960,
+   "hs_company_id": 6593334537,
+   "name": "Brauer College - WARRNAMBOOL - 3280"
+ },
+ {
+   "id": 961,
+   "hs_company_id": 6593515321,
+   "name": "Bray Park State High School - BRAY PARK - 4500"
+ },
+ {
+   "id": 962,
+   "hs_company_id": 6593506968,
+   "name": "Bray Park State School - LAWNTON - 4500"
+ },
+ {
+   "id": 963,
+   "hs_company_id": 6593506851,
+   "name": "Braybrook College - BRAYBROOK - 3019"
+ },
+ {
+   "id": 964,
+   "hs_company_id": 6593336101,
+   "name": "Breadalbane Public School - BREADALBANE - 2581"
+ },
+ {
+   "id": 965,
+   "hs_company_id": 6593337417,
+   "name": "Bredbo Public School - BREDBO - 2626"
+ },
+ {
+   "id": 966,
+   "hs_company_id": 6593507119,
+   "name": "Bremer Bay Primary School - BREMER BAY - 6338"
+ },
+ {
+   "id": 967,
+   "hs_company_id": 6593351546,
+   "name": "Bremer State High School - BOOVAL - 4305"
+ },
+ {
+   "id": 968,
+   "hs_company_id": 6593352803,
+   "name": "Brentwood Park Primary School - BERWICK - 3806"
+ },
+ {
+   "id": 969,
+   "hs_company_id": 6593317278,
+   "name": "Brentwood Primary School - BRENTWOOD - 6153"
+ },
+ {
+   "id": 970,
+   "hs_company_id": 6593516663,
+   "name": "Brentwood Secondary College - GLEN WAVERLEY - 3150"
+ },
+ {
+   "id": 971,
+   "hs_company_id": 6593476663,
+   "name": "Brewarrina Central School - BREWARRINA - 2839"
+ },
+ {
+   "id": 972,
+   "hs_company_id": 6593516063,
+   "name": "Briagolong Primary School - BRIAGOLONG - 3860"
+ },
+ {
+   "id": 973,
+   "hs_company_id": 6593501081,
+   "name": "Briar Hill Primary School - GREENSBOROUGH - 3088"
+ },
+ {
+   "id": 974,
+   "hs_company_id": 6593338136,
+   "name": "Briar Road Public School - CAMPBELLTOWN - 2560"
+ },
+ {
+   "id": 975,
+   "hs_company_id": 6593338529,
+   "name": "Bribbaree Public School - BRIBBAREE - 2594"
+ },
+ {
+   "id": 976,
+   "hs_company_id": 6593317953,
+   "name": "Bribie Island State High School - BRIBIE ISLAND - 4507"
+ },
+ {
+   "id": 977,
+   "hs_company_id": 6593518142,
+   "name": "Bribie Island State School - BONGAREE - 4507"
+ },
+ {
+   "id": 978,
+   "hs_company_id": 6593518942,
+   "name": "Bridge Road School - CAMPERDOWN - 2050"
+ },
+ {
+   "id": 979,
+   "hs_company_id": 6593342324,
+   "name": "Bridgetown High School - BRIDGETOWN - 6255"
+ },
+ {
+   "id": 980,
+   "hs_company_id": 6593500796,
+   "name": "Bridgetown Primary School - BRIDGETOWN - 6255"
+ },
+ {
+   "id": 981,
+   "hs_company_id": 6593336604,
+   "name": "Bridgewater Primary School - BRIDGEWATER - 5155"
+ },
+ {
+   "id": 982,
+   "hs_company_id": 6593352085,
+   "name": "Bridgewater Primary School - BRIDGEWATER ON LODDON - 3516"
+ },
+ {
+   "id": 983,
+   "hs_company_id": 6593334021,
+   "name": "Bridport Primary School - BRIDPORT - 7262"
+ },
+ {
+   "id": 984,
+   "hs_company_id": 6593337351,
+   "name": "Brigalow State School - BRIGALOW - 4412"
+ },
+ {
+   "id": 985,
+   "hs_company_id": 6593341565,
+   "name": "Bright P-12 College - BRIGHT - 3741"
+ },
+ {
+   "id": 986,
+   "hs_company_id": 6593354305,
+   "name": "Brighton Beach Primary School - BRIGHTON - 3186"
+ },
+ {
+   "id": 987,
+   "hs_company_id": 6593335867,
+   "name": "Brighton Catholic Primary School - QUINNS ROCKS - 6036"
+ },
+ {
+   "id": 988,
+   "hs_company_id": 6593335724,
+   "name": "Brighton Grammar School Rosstrevor - BRIGHTON - 3186"
+ },
+ {
+   "id": 989,
+   "hs_company_id": 6593500673,
+   "name": "Brighton Grammar School Senior School - BRIGHTON - 3186"
+ },
+ {
+   "id": 990,
+   "hs_company_id": 6593342600,
+   "name": "Brighton Grammar School Wilson House - BRIGHTON - 3186"
+ },
+ {
+   "id": 991,
+   "hs_company_id": 6593515530,
+   "name": "Brighton Montessori School - BRIGHTON EAST - 3187"
+ },
+ {
+   "id": 992,
+   "hs_company_id": 6593513989,
+   "name": "Brighton Primary School - BRIGHTON - 3186"
+ },
+ {
+   "id": 993,
+   "hs_company_id": 6593335922,
+   "name": "Brighton Primary School - BRIGHTON - 5048"
+ },
+ {
+   "id": 994,
+   "hs_company_id": 6593342984,
+   "name": "Brighton Primary School - BRIGHTON - 7030"
+ },
+ {
+   "id": 995,
+   "hs_company_id": 6593350735,
+   "name": "Brighton Secondary College - BRIGHTON EAST - 3187"
+ },
+ {
+   "id": 996,
+   "hs_company_id": 6593351509,
+   "name": "Brighton Secondary School - NORTH BRIGHTON - 5048"
+ },
+ {
+   "id": 997,
+   "hs_company_id": 6593337992,
+   "name": "Brighton State School - BRIGHTON - 4017"
+ },
+ {
+   "id": 998,
+   "hs_company_id": 6593334451,
+   "name": "Brighton-Le-Sands Public School - BRIGHTON-LE-SANDS - 2216"
+ },
+ {
+   "id": 999,
+   "hs_company_id": 6593476652,
+   "name": "Brightwater State School - MOUNTAIN CREEK - 4557"
+ },
+ {
+   "id": 1000,
+   "hs_company_id": 6593352337,
+   "name": "Brightwaters Christian College - BONNELLS BAY - 2264"
+ },
+ {
+   "id": 1001,
+   "hs_company_id": 6593321878,
+   "name": "Brigidine College - INDOOROOPILLY CENTRE - 4068"
+ },
+ {
+   "id": 1002,
+   "hs_company_id": 6593333619,
+   "name": "Brigidine College - ST IVES - 2075"
+ },
+ {
+   "id": 1003,
+   "hs_company_id": 6593316520,
+   "name": "Brigidine College Randwick - ST PAULS - 2031"
+ },
+ {
+   "id": 1004,
+   "hs_company_id": 6593353019,
+   "name": "Brindabella Christian College - LYNEHAM - 2602"
+ },
+ {
+   "id": 1005,
+   "hs_company_id": 6593335884,
+   "name": "Bringelly Public School - BRINGELLY - 2171"
+ },
+ {
+   "id": 1006,
+   "hs_company_id": 6593321388,
+   "name": "Brinkworth Primary School - BRINKWORTH - 5464"
+ },
+ {
+   "id": 1007,
+   "hs_company_id": 6593517590,
+   "name": "Brisbane Adventist College - MOUNT GRAVATT - 4122"
+ },
+ {
+   "id": 1008,
+   "hs_company_id": 6593501260,
+   "name": "Brisbane Adventist College - WISHART - 4122"
+ },
+ {
+   "id": 1009,
+   "hs_company_id": 6593342286,
+   "name": "Brisbane Bayside State College - WYNNUM - 4178"
+ },
+ {
+   "id": 1010,
+   "hs_company_id": 6593337103,
+   "name": "Brisbane Boys College - TOOWONG - 4066"
+ },
+ {
+   "id": 1011,
+   "hs_company_id": 6593514417,
+   "name": "Brisbane Central State School - SPRING HILL - 4000"
+ },
+ {
+   "id": 1012,
+   "hs_company_id": 6593317760,
+   "name": "Brisbane Girls Grammar School - SPRING HILL - 4000"
+ },
+ {
+   "id": 1013,
+   "hs_company_id": 6593333596,
+   "name": "Brisbane Grammar School - SPRING HILL - 4000"
+ },
+ {
+   "id": 1014,
+   "hs_company_id": 6593351020,
+   "name": "Brisbane Independent Primary School - PULLENVALE - 4069"
+ },
+ {
+   "id": 1015,
+   "hs_company_id": 6593350261,
+   "name": "Brisbane Montessori School - KENMORE - 4069"
+ },
+ {
+   "id": 1016,
+   "hs_company_id": 6593350923,
+   "name": "Brisbane School of Distance Education - BRISBANE - 4000"
+ },
+ {
+   "id": 1017,
+   "hs_company_id": 6593337352,
+   "name": "Brisbane State High School - SOUTH BRISBANE - 4101"
+ },
+ {
+   "id": 1018,
+   "hs_company_id": 6593349939,
+   "name": "Brisbane Water Secondary College Umina Campus - UMINA BEACH - 2257"
+ },
+ {
+   "id": 1019,
+   "hs_company_id": 6593341782,
+   "name": "Brisbane Water Secondary College Woy Woy Campus - WOY WOY - 2256"
+ },
+ {
+   "id": 1020,
+   "hs_company_id": 6593334648,
+   "name": "Brisbane Youth Education and Training Centre - SUMNER PARK BC - 4076"
+ },
+ {
+   "id": 1021,
+   "hs_company_id": 6593334437,
+   "name": "Brisbania Public School - SARATOGA - 2251"
+ },
+ {
+   "id": 1022,
+   "hs_company_id": 6593342134,
+   "name": "Broadbeach State School - BROADBEACH - 4218"
+ },
+ {
+   "id": 1023,
+   "hs_company_id": 6593336651,
+   "name": "Broadford Primary School - BROADFORD - 3658"
+ },
+ {
+   "id": 1024,
+   "hs_company_id": 6593337236,
+   "name": "Broadford Secondary College - BROADFORD - 3658"
+ },
+ {
+   "id": 1025,
+   "hs_company_id": 6593353597,
+   "name": "Broadmeadows Primary School - DALLAS - 3047"
+ },
+ {
+   "id": 1026,
+   "hs_company_id": 6593343238,
+   "name": "Broadmeadows Special Developmental School - BROADMEADOWS - 3047"
+ },
+ {
+   "id": 1027,
+   "hs_company_id": 6593476489,
+   "name": "Broadmeadows Valley Primary School - BROADMEADOWS - 3047"
+ },
+ {
+   "id": 1028,
+   "hs_company_id": 6593317290,
+   "name": "Broadwater Public School - BROADWATER - 2472"
+ },
+ {
+   "id": 1029,
+   "hs_company_id": 6593341830,
+   "name": "Broadwater State School - STANTHORPE - 4380"
+ },
+ {
+   "id": 1030,
+   "hs_company_id": 6593334644,
+   "name": "Brocklesby Public School - BROCKLESBY - 2642"
+ },
+ {
+   "id": 1031,
+   "hs_company_id": 6593351703,
+   "name": "Broderick Gillawarna School - REVESBY - 2212"
+ },
+ {
+   "id": 1032,
+   "hs_company_id": 6593500989,
+   "name": "Broke Public School - BROKE - 2330"
+ },
+ {
+   "id": 1033,
+   "hs_company_id": 6593514600,
+   "name": "Broken Creek Primary School - BROKEN CREEK - 3673"
+ },
+ {
+   "id": 1034,
+   "hs_company_id": 6593334431,
+   "name": "Broken Hill High School - BROKEN HILL - 2880"
+ },
+ {
+   "id": 1035,
+   "hs_company_id": 6593350750,
+   "name": "Broken Hill North Public School - BROKEN HILL - 2880"
+ },
+ {
+   "id": 1036,
+   "hs_company_id": 6593515346,
+   "name": "Broken Hill Public School - BROKEN HILL - 2880"
+ },
+ {
+   "id": 1037,
+   "hs_company_id": 6593353010,
+   "name": "Broken Hill School of the Air - BROKEN HILL - 2880"
+ },
+ {
+   "id": 1038,
+   "hs_company_id": 6593351575,
+   "name": "Brompton Primary School - RENOWN PARK - 5008"
+ },
+ {
+   "id": 1039,
+   "hs_company_id": 6593515410,
+   "name": "Bronte Public School - BRONTE - 2024"
+ },
+ {
+   "id": 1040,
+   "hs_company_id": 6593353758,
+   "name": "Brookdale Adventist School - BROOKDALE - 6112"
+ },
+ {
+   "id": 1041,
+   "hs_company_id": 6593500784,
+   "name": "Brooke Avenue Public School - KILLARNEY VALE - 2261"
+ },
+ {
+   "id": 1042,
+   "hs_company_id": 6593350821,
+   "name": "Brookfield State School - BROOKFIELD - 4069"
+ },
+ {
+   "id": 1043,
+   "hs_company_id": 6593500993,
+   "name": "Brooklyn Public School - BROOKLYN - 2083"
+ },
+ {
+   "id": 1044,
+   "hs_company_id": 6593334583,
+   "name": "Brookman Primary School - LANGFORD - 6147"
+ },
+ {
+   "id": 1045,
+   "hs_company_id": 6593507105,
+   "name": "Brooks High School - MOWBRAY - 7248"
+ },
+ {
+   "id": 1046,
+   "hs_company_id": 6593342996,
+   "name": "Brookside P-9 College - CAROLINE SPRINGS - 3023"
+ },
+ {
+   "id": 1047,
+   "hs_company_id": 6593352215,
+   "name": "Brookstead State School - BROOKSTEAD - 4364"
+ },
+ {
+   "id": 1048,
+   "hs_company_id": 6593353554,
+   "name": "Brookton District High School - BROOKTON - 6365"
+ },
+ {
+   "id": 1049,
+   "hs_company_id": 6593317937,
+   "name": "Brookvale Public School - BROOKVALE - 2100"
+ },
+ {
+   "id": 1050,
+   "hs_company_id": 6593322046,
+   "name": "Broome Primary School - BROOME - 6725"
+ },
+ {
+   "id": 1051,
+   "hs_company_id": 6593350005,
+   "name": "Broome Senior High School - BROOME - 6725"
+ },
+ {
+   "id": 1052,
+   "hs_company_id": 6593337995,
+   "name": "Broomehill Primary School - BROOMEHILL - 6318"
+ },
+ {
+   "id": 1053,
+   "hs_company_id": 6593338736,
+   "name": "Brooweena State School - BROOWEENA - 4620"
+ },
+ {
+   "id": 1054,
+   "hs_company_id": 6593516913,
+   "name": "Broughton Anglican College - CAMPBELLTOWN - 2560"
+ },
+ {
+   "id": 1055,
+   "hs_company_id": 6593339434,
+   "name": "Broulee Public School - BROULEE - 2537"
+ },
+ {
+   "id": 1056,
+   "hs_company_id": 6593352119,
+   "name": "Browns Plains State High School - BROWNS PLAINS - 4118"
+ },
+ {
+   "id": 1057,
+   "hs_company_id": 6593335910,
+   "name": "Browns Plains State School - BROWNS PLAINS - 4118"
+ },
+ {
+   "id": 1058,
+   "hs_company_id": 6593515323,
+   "name": "Bruce Rock District High School - BRUCE ROCK - 6418"
+ },
+ {
+   "id": 1059,
+   "hs_company_id": 6593334606,
+   "name": "Brungle Public School - BRUNGLE - 2722"
+ },
+ {
+   "id": 1060,
+   "hs_company_id": 6593513823,
+   "name": "Brunswick East Primary School - BRUNSWICK EAST - 3057"
+ },
+ {
+   "id": 1061,
+   "hs_company_id": 6593334036,
+   "name": "Brunswick Heads Public School - BRUNSWICK HEADS - 2483"
+ },
+ {
+   "id": 1062,
+   "hs_company_id": 6593336717,
+   "name": "Brunswick Junction Primary School - BRUNSWICK JUNCTN - 6224"
+ },
+ {
+   "id": 1063,
+   "hs_company_id": 6593352277,
+   "name": "Brunswick North Primary School - WEST BRUNSWICK - 3055"
+ },
+ {
+   "id": 1064,
+   "hs_company_id": 6593350990,
+   "name": "Brunswick North West Primary School - BRUNSWICK WEST - 3055"
+ },
+ {
+   "id": 1065,
+   "hs_company_id": 6593342862,
+   "name": "Brunswick Secondary College - BRUNSWICK - 3056"
+ },
+ {
+   "id": 1066,
+   "hs_company_id": 6593333928,
+   "name": "Brunswick South Primary School - BRUNSWICK EAST - 3057"
+ },
+ {
+   "id": 1067,
+   "hs_company_id": 6593516712,
+   "name": "Brunswick South West Primary School - BRUNSWICK WEST - 3055"
+ },
+ {
+   "id": 1068,
+   "hs_company_id": 6593334681,
+   "name": "Bruny Island District School - BRUNY ISLAND - 7150"
+ },
+ {
+   "id": 1069,
+   "hs_company_id": 6593322112,
+   "name": "Bruthen Primary School - BRUTHEN - 3885"
+ },
+ {
+   "id": 1070,
+   "hs_company_id": 6593335391,
+   "name": "Buangor Primary School - BUANGOR - 3375"
+ },
+ {
+   "id": 1071,
+   "hs_company_id": 6593352840,
+   "name": "Bucasia State School - BUCASIA - 4750"
+ },
+ {
+   "id": 1072,
+   "hs_company_id": 6593351487,
+   "name": "Buchan Primary School - BUCHAN - 3885"
+ },
+ {
+   "id": 1073,
+   "hs_company_id": 6593517415,
+   "name": "Buckley Park College - ESSENDON - 3040"
+ },
+ {
+   "id": 1074,
+   "hs_company_id": 6593507158,
+   "name": "Budawang School - ULLADULLA - 2539"
+ },
+ {
+   "id": 1075,
+   "hs_company_id": 6593338746,
+   "name": "Buddina State School - BUDDINA - 4575"
+ },
+ {
+   "id": 1076,
+   "hs_company_id": 6593352794,
+   "name": "Buderim Mountain State School - BUDERIM - 4556"
+ },
+ {
+   "id": 1077,
+   "hs_company_id": 6593335970,
+   "name": "Budgewoi Public School - BUDGEWOI - 2262"
+ },
+ {
+   "id": 1078,
+   "hs_company_id": 6593337433,
+   "name": "Builyan State School - BUILYAN - 4680"
+ },
+ {
+   "id": 1079,
+   "hs_company_id": 6593349786,
+   "name": "Bulahdelah Central School - BULAHDELAH - 2423"
+ },
+ {
+   "id": 1080,
+   "hs_company_id": 6593334433,
+   "name": "Bulimba State School - BULIMBA - 4171"
+ },
+ {
+   "id": 1081,
+   "hs_company_id": 6593341494,
+   "name": "Bull Creek Primary School - BULL CREEK - 6149"
+ },
+ {
+   "id": 1082,
+   "hs_company_id": 6593342232,
+   "name": "Bulla Camp School - KATHERINE - 852"
+ },
+ {
+   "id": 1083,
+   "hs_company_id": 6593342838,
+   "name": "Bullarah Public School - MOREE - 2400"
+ },
+ {
+   "id": 1084,
+   "hs_company_id": 6593333910,
+   "name": "Bullarto Primary School - BULLARTO - 3461"
+ },
+ {
+   "id": 1085,
+   "hs_company_id": 6593518367,
+   "name": "Bulleen Heights School - BULLEEN - 3105"
+ },
+ {
+   "id": 1086,
+   "hs_company_id": 6593515534,
+   "name": "Bulleen Heights School - BULLEEN - 3107"
+ },
+ {
+   "id": 1087,
+   "hs_company_id": 6593338703,
+   "name": "Bulli High School - BULLI - 2516"
+ },
+ {
+   "id": 1088,
+   "hs_company_id": 6593517451,
+   "name": "Bulli Public School - BULLI - 2516"
+ },
+ {
+   "id": 1089,
+   "hs_company_id": 6593516945,
+   "name": "Bullimbal Special School - TAMWORTH - 2340"
+ },
+ {
+   "id": 1090,
+   "hs_company_id": 6593516099,
+   "name": "Bullsbrook District High School - BULLSBROOK - 6084"
+ },
+ {
+   "id": 1091,
+   "hs_company_id": 6593337415,
+   "name": "Bullyard State School - BULLYARD - 4671"
+ },
+ {
+   "id": 1092,
+   "hs_company_id": 6593338530,
+   "name": "Bulman School - KATHERINE - 850"
+ },
+ {
+   "id": 1093,
+   "hs_company_id": 6593518898,
+   "name": "Buln Buln Primary School - BULN BULN - 3821"
+ },
+ {
+   "id": 1094,
+   "hs_company_id": 6593353051,
+   "name": "Bunbury Cathedral Grammar School - BUNBURY - 6230"
+ },
+ {
+   "id": 1095,
+   "hs_company_id": 6593333648,
+   "name": "Bunbury Catholic College - BUNBURY - 6230"
+ },
+ {
+   "id": 1096,
+   "hs_company_id": 6593518336,
+   "name": "Bunbury John Calvin School - BUNBURY - 6229"
+ },
+ {
+   "id": 1097,
+   "hs_company_id": 6593476455,
+   "name": "Bunbury Primary School - BUNBURY - 6230"
+ },
+ {
+   "id": 1098,
+   "hs_company_id": 6593335155,
+   "name": "Bunbury Senior High School - BUNBURY - 6230"
+ },
+ {
+   "id": 1099,
+   "hs_company_id": 6593476421,
+   "name": "Bundaberg Central State School - BUNDABERG - 4670"
+ },
+ {
+   "id": 1100,
+   "hs_company_id": 6593343234,
+   "name": "Bundaberg Christian College - BUNDABERG - 4670"
+ },
+ {
+   "id": 1101,
+   "hs_company_id": 6593333943,
+   "name": "Bundaberg East State School - BUNDABERG - 4670"
+ },
+ {
+   "id": 1102,
+   "hs_company_id": 6593518158,
+   "name": "Bundaberg North State High School - BUNDABERG NORTH - 4670"
+ },
+ {
+   "id": 1103,
+   "hs_company_id": 6593516726,
+   "name": "Bundaberg North State School - BUNDABERG - 4670"
+ },
+ {
+   "id": 1104,
+   "hs_company_id": 6593514001,
+   "name": "Bundaberg South State School - BUNDABERG - 4670"
+ },
+ {
+   "id": 1105,
+   "hs_company_id": 6593356426,
+   "name": "Bundaberg Special School - BUNDABERG WEST - 4670"
+ },
+ {
+   "id": 1106,
+   "hs_company_id": 6593476387,
+   "name": "Bundaberg State High School - BUNDABERG - 4670"
+ },
+ {
+   "id": 1107,
+   "hs_company_id": 6593350788,
+   "name": "Bundaberg West State School - BUNDABERG SOUTH - 4670"
+ },
+ {
+   "id": 1108,
+   "hs_company_id": 6593500771,
+   "name": "Bundalaguah Primary School - BUNDALAGUAH - 3851"
+ },
+ {
+   "id": 1109,
+   "hs_company_id": 6593342466,
+   "name": "Bundamba State School - BUNDAMBA - 4304"
+ },
+ {
+   "id": 1110,
+   "hs_company_id": 6593352236,
+   "name": "Bundamba State Secondary College - BOOVAL - 4304"
+ },
+ {
+   "id": 1111,
+   "hs_company_id": 6593354260,
+   "name": "Bundanoon Public School - BUNDANOON - 2578"
+ },
+ {
+   "id": 1112,
+   "hs_company_id": 6593343004,
+   "name": "Bundarra Central School - BUNDARRA - 2359"
+ },
+ {
+   "id": 1113,
+   "hs_company_id": 6593335976,
+   "name": "Bundarra Primary School - PORTLAND - 3305"
+ },
+ {
+   "id": 1114,
+   "hs_company_id": 6593476512,
+   "name": "Bundeena Public School - BUNDEENA - 2230"
+ },
+ {
+   "id": 1115,
+   "hs_company_id": 6593322111,
+   "name": "Bundoora Primary School - WATSONIA - 3083"
+ },
+ {
+   "id": 1116,
+   "hs_company_id": 6593500828,
+   "name": "Bundoora Secondary College - BUNDOORA - 3083"
+ },
+ {
+   "id": 1117,
+   "hs_company_id": 6593341742,
+   "name": "Bungaree Primary School - BUNGAREE - 3352"
+ },
+ {
+   "id": 1118,
+   "hs_company_id": 6593339234,
+   "name": "Bungaree Primary School - ROCKINGHAM - 6168"
+ },
+ {
+   "id": 1119,
+   "hs_company_id": 6593317156,
+   "name": "Bungendore Public School - BUNGENDORE - 2621"
+ },
+ {
+   "id": 1120,
+   "hs_company_id": 6593342797,
+   "name": "Bungunya State School - BUNGUNYA - 4494"
+ },
+ {
+   "id": 1121,
+   "hs_company_id": 6593350924,
+   "name": "Bungwahl Public School - BUNGWAHL - 2423"
+ },
+ {
+   "id": 1122,
+   "hs_company_id": 6593516674,
+   "name": "Buninyong Primary School - BUNINYONG - 3357"
+ },
+ {
+   "id": 1123,
+   "hs_company_id": 6593476713,
+   "name": "Buninyong Primary School Scotsburn Campus - SCOTSBURN - 3352"
+ },
+ {
+   "id": 1124,
+   "hs_company_id": 6593343102,
+   "name": "Bunker's Hill State School - WESTBROOK - 4350"
+ },
+ {
+   "id": 1125,
+   "hs_company_id": 6593342391,
+   "name": "Bunnaloo Public School - BUNNALOO - 2731"
+ },
+ {
+   "id": 1126,
+   "hs_company_id": 6593351603,
+   "name": "Bunyip Primary School - BUNYIP - 3815"
+ },
+ {
+   "id": 1127,
+   "hs_company_id": 6593518131,
+   "name": "Buranda State School - WOOLLOONGABBA - 4102"
+ },
+ {
+   "id": 1128,
+   "hs_company_id": 6593516914,
+   "name": "Burbridge School - KOONDOOLA - 6064"
+ },
+ {
+   "id": 1129,
+   "hs_company_id": 6593354329,
+   "name": "BURC College - GILLES PLAINS - 5086"
+ },
+ {
+   "id": 1130,
+   "hs_company_id": 6593336657,
+   "name": "Burdekin Catholic High School - AYR - 4807"
+ },
+ {
+   "id": 1131,
+   "hs_company_id": 6593352309,
+   "name": "Burdekin Christian College - AYR - 4807"
+ },
+ {
+   "id": 1132,
+   "hs_company_id": 6593343275,
+   "name": "Burdekin School - AYR - 4807"
+ },
+ {
+   "id": 1133,
+   "hs_company_id": 6593518382,
+   "name": "Burgmann Anglican School Forde Campus - FORDE - 2914"
+ },
+ {
+   "id": 1134,
+   "hs_company_id": 6593350246,
+   "name": "Burgmann Anglican School Valley Campus - GUNGAHLIN - 2912"
+ },
+ {
+   "id": 1135,
+   "hs_company_id": 6593350144,
+   "name": "Burke Ward Public School - BROKEN HILL - 2880"
+ },
+ {
+   "id": 1136,
+   "hs_company_id": 6593476660,
+   "name": "Burketown State School - BURKETOWN - 4830"
+ },
+ {
+   "id": 1137,
+   "hs_company_id": 6593506916,
+   "name": "Burleigh Heads State School - BURLEIGH HEADS - 4220"
+ },
+ {
+   "id": 1138,
+   "hs_company_id": 6593476440,
+   "name": "Burnett Heads State School - BUNDABERG - 4670"
+ },
+ {
+   "id": 1139,
+   "hs_company_id": 6593476488,
+   "name": "Burnett State College - GAYNDAH - 4625"
+ },
+ {
+   "id": 1140,
+   "hs_company_id": 6593356435,
+   "name": "Burnett Youth Learning Centre - BUNDABERG SOUTH - 4670"
+ },
+ {
+   "id": 1141,
+   "hs_company_id": 6593336733,
+   "name": "Burnie High School - COOEE - 7320"
+ },
+ {
+   "id": 1142,
+   "hs_company_id": 6593343071,
+   "name": "Burnie Primary School - PARK GROVE - 7320"
+ },
+ {
+   "id": 1143,
+   "hs_company_id": 6593514538,
+   "name": "Burnside Primary School - BURNSIDE - 5066"
+ },
+ {
+   "id": 1144,
+   "hs_company_id": 6593339299,
+   "name": "Burnside Public School - NORTH PARRAMATTA - 2151"
+ },
+ {
+   "id": 1145,
+   "hs_company_id": 6593342128,
+   "name": "Burnside State High School - SUNSHINE COAST MC - 4560"
+ },
+ {
+   "id": 1146,
+   "hs_company_id": 6593354343,
+   "name": "Burnside State School - SUNSHINE COAST MC - 4560"
+ },
+ {
+   "id": 1147,
+   "hs_company_id": 6593341783,
+   "name": "Buronga Public School - BURONGA - 2739"
+ },
+ {
+   "id": 1148,
+   "hs_company_id": 6593506879,
+   "name": "Burpengary Meadows State School - BURPENGARY WEST - 4505"
+ },
+ {
+   "id": 1149,
+   "hs_company_id": 6593335888,
+   "name": "Burpengary State School - BURPENGARY - 4505"
+ },
+ {
+   "id": 1150,
+   "hs_company_id": 6593507099,
+   "name": "Burra Burri State School - JANDOWAE - 4410"
+ },
+ {
+   "id": 1151,
+   "hs_company_id": 6593500960,
+   "name": "Burra Community Area School - BURRA - 5417"
+ },
+ {
+   "id": 1152,
+   "hs_company_id": 6593350303,
+   "name": "Burrabadine Cornerstone Community School - DUBBO - 2830"
+ },
+ {
+   "id": 1153,
+   "hs_company_id": 6593317904,
+   "name": "Burraneer Bay Public School - WOOLOOWARE - 2230"
+ },
+ {
+   "id": 1154,
+   "hs_company_id": 6593352318,
+   "name": "Burrawang Public School - BURRAWANG - 2577"
+ },
+ {
+   "id": 1155,
+   "hs_company_id": 6593513836,
+   "name": "Burren Junction Public School - BURREN JUNCTION - 2386"
+ },
+ {
+   "id": 1156,
+   "hs_company_id": 6593350789,
+   "name": "Burrendah Primary School - WILLETTON - 6155"
+ },
+ {
+   "id": 1157,
+   "hs_company_id": 6593507135,
+   "name": "Burringbar Public School - BURRINGBAR - 2483"
+ },
+ {
+   "id": 1158,
+   "hs_company_id": 6593322023,
+   "name": "Burringurrah Remote Community School - MEEKATHARRA - 6642"
+ },
+ {
+   "id": 1159,
+   "hs_company_id": 6593476707,
+   "name": "Burrowes State School - MARSDEN - 4132"
+ },
+ {
+   "id": 1160,
+   "hs_company_id": 6593341598,
+   "name": "Burrumbuttock Public School - BURRUMBUTTOCK - 2642"
+ },
+ {
+   "id": 1161,
+   "hs_company_id": 6593506884,
+   "name": "Burton Primary School - BURTON - 5110"
+ },
+ {
+   "id": 1162,
+   "hs_company_id": 6593333813,
+   "name": "Burwood East Primary School - GLEN WAVERLEY - 3151"
+ },
+ {
+   "id": 1163,
+   "hs_company_id": 6593518967,
+   "name": "Burwood East Special School - BURWOOD EAST - 3151"
+ },
+ {
+   "id": 1164,
+   "hs_company_id": 6593338454,
+   "name": "Burwood Girls High School - CROYDON - 2132"
+ },
+ {
+   "id": 1165,
+   "hs_company_id": 6593350233,
+   "name": "Burwood Heights Primary School - EAST BURWOOD - 3151"
+ },
+ {
+   "id": 1166,
+   "hs_company_id": 6593501084,
+   "name": "Burwood Public School - BURWOOD - 2134"
+ },
+ {
+   "id": 1167,
+   "hs_company_id": 6593515948,
+   "name": "Busby Public School - BUSBY - 2168"
+ },
+ {
+   "id": 1168,
+   "hs_company_id": 6593350745,
+   "name": "Busby West Public School - GREEN VALLEY - 2168"
+ },
+ {
+   "id": 1169,
+   "hs_company_id": 6593354352,
+   "name": "Busselton Primary School - GEOGRAPHE - 6280"
+ },
+ {
+   "id": 1170,
+   "hs_company_id": 6593338645,
+   "name": "Busselton Senior High School - WEST BUSSELTON - 6280"
+ },
+ {
+   "id": 1171,
+   "hs_company_id": 6593338003,
+   "name": "Butchers Creek State School - MALANDA - 4885"
+ },
+ {
+   "id": 1172,
+   "hs_company_id": 6593350818,
+   "name": "Bute Primary School - BUTE - 5560"
+ },
+ {
+   "id": 1173,
+   "hs_company_id": 6593352071,
+   "name": "Butler College - QUINNS ROCKS - 6036"
+ },
+ {
+   "id": 1174,
+   "hs_company_id": 6593337258,
+   "name": "Butler Primary School - QUINNS ROCKS - 6036"
+ },
+ {
+   "id": 1175,
+   "hs_company_id": 6593352099,
+   "name": "Buxton Primary School - BUXTON - 3711"
+ },
+ {
+   "id": 1176,
+   "hs_company_id": 6593501088,
+   "name": "Buxton Public School - BUXTON - 2571"
+ },
+ {
+   "id": 1177,
+   "hs_company_id": 6593338520,
+   "name": "Bwgcolman Community School - PALM ISLAND - 4816"
+ },
+ {
+   "id": 1178,
+   "hs_company_id": 6593515947,
+   "name": "Byfield State School - YEPPOON - 4703"
+ },
+ {
+   "id": 1179,
+   "hs_company_id": 6593518887,
+   "name": "Byford John Calvin School - BYFORD - 6122"
+ },
+ {
+   "id": 1180,
+   "hs_company_id": 6593341513,
+   "name": "Byford Primary School - BYFORD - 6122"
+ },
+ {
+   "id": 1181,
+   "hs_company_id": 6593341820,
+   "name": "Bymount East State School - ROMA - 4455"
+ },
+ {
+   "id": 1182,
+   "hs_company_id": 6593506852,
+   "name": "Byron Bay High School - BYRON BAY - 2481"
+ },
+ {
+   "id": 1183,
+   "hs_company_id": 6593353532,
+   "name": "Byron Bay Public School - BYRON BAY - 2481"
+ },
+ {
+   "id": 1184,
+   "hs_company_id": 6593519494,
+   "name": "Byron Community Primary School - BYRON BAY - 2481"
+ },
+ {
+   "id": 1185,
+   "hs_company_id": 6593342356,
+   "name": "Cabbage Tree Island Public School - WARDELL - 2477"
+ },
+ {
+   "id": 1186,
+   "hs_company_id": 6593333869,
+   "name": "Cable Beach Primary School - BROOME - 6725"
+ },
+ {
+   "id": 1187,
+   "hs_company_id": 6593506742,
+   "name": "Caboolture East State School - CABOOLTURE - 4510"
+ },
+ {
+   "id": 1188,
+   "hs_company_id": 6593355666,
+   "name": "Caboolture Montessori School - CABOOLTURE - 4510"
+ },
+ {
+   "id": 1189,
+   "hs_company_id": 6593516198,
+   "name": "Caboolture Special School - MORAYFIELD - 4510"
+ },
+ {
+   "id": 1190,
+   "hs_company_id": 6593500929,
+   "name": "Caboolture State High School - CABOOLTURE - 4510"
+ },
+ {
+   "id": 1191,
+   "hs_company_id": 6593517429,
+   "name": "Caboolture State School - CABOOLTURE - 4510"
+ },
+ {
+   "id": 1192,
+   "hs_company_id": 6593316620,
+   "name": "Cabra Dominican College - MELROSE PARK DC - 5041"
+ },
+ {
+   "id": 1193,
+   "hs_company_id": 6593353649,
+   "name": "Cabramatta High School - CABRAMATTA - 2166"
+ },
+ {
+   "id": 1194,
+   "hs_company_id": 6593501000,
+   "name": "Cabramatta Public School - CABRAMATTA - 2166"
+ },
+ {
+   "id": 1195,
+   "hs_company_id": 6593353592,
+   "name": "Cabramatta West Public School - CABRAMATTA - 2166"
+ },
+ {
+   "id": 1196,
+   "hs_company_id": 6593342089,
+   "name": "Cabramurra Public School - CABRAMURRA - 2630"
+ },
+ {
+   "id": 1197,
+   "hs_company_id": 6593335208,
+   "name": "Caddies Creek Public School - GLENWOOD - 2768"
+ },
+ {
+   "id": 1198,
+   "hs_company_id": 6593343032,
+   "name": "Cadell Primary School - WAIKERIE - 5321"
+ },
+ {
+   "id": 1199,
+   "hs_company_id": 6593336691,
+   "name": "Cadoux Primary School - CADOUX - 6466"
+ },
+ {
+   "id": 1200,
+   "hs_company_id": 6593352993,
+   "name": "Cairnlea Park Primary School - CAIRNLEA - 3023"
+ },
+ {
+   "id": 1201,
+   "hs_company_id": 6593516158,
+   "name": "Cairns Adventist School - MANUNDA - 4870"
+ },
+ {
+   "id": 1202,
+   "hs_company_id": 6593506925,
+   "name": "Cairns School of Distance Education - CAIRNS - 4870"
+ },
+ {
+   "id": 1203,
+   "hs_company_id": 6593333828,
+   "name": "Cairns State High School - CAIRNS - 4870"
+ },
+ {
+   "id": 1204,
+   "hs_company_id": 6593350166,
+   "name": "Cairns West State School - MANUNDA - 4870"
+ },
+ {
+   "id": 1205,
+   "hs_company_id": 6593352312,
+   "name": "Cairnsfoot School - BRIGHTON-LE-SANDS - 2216"
+ },
+ {
+   "id": 1206,
+   "hs_company_id": 6593342509,
+   "name": "Caladenia Primary School - CANNING VALE - 6155"
+ },
+ {
+   "id": 1207,
+   "hs_company_id": 6593518939,
+   "name": "Calamvale Community College - SUNNYBANK HILLS - 4116"
+ },
+ {
+   "id": 1208,
+   "hs_company_id": 6593356445,
+   "name": "Calamvale Special School - CALAMVALE - 4116"
+ },
+ {
+   "id": 1209,
+   "hs_company_id": 6593517417,
+   "name": "Calare Public School - ORANGE - 2800"
+ },
+ {
+   "id": 1210,
+   "hs_company_id": 6593514797,
+   "name": "Caldera School - BANORA POINT - 2486"
+ },
+ {
+   "id": 1211,
+   "hs_company_id": 6593354410,
+   "name": "Calderwood Christian School - CALDERWOOD - 2527"
+ },
+ {
+   "id": 1212,
+   "hs_company_id": 6593338650,
+   "name": "Caledonian Primary School - BROWN HILL - 3350"
+ },
+ {
+   "id": 1213,
+   "hs_company_id": 6593350759,
+   "name": "Calen District State College - CALEN - 4798"
+ },
+ {
+   "id": 1214,
+   "hs_company_id": 6593333765,
+   "name": "California Gully Primary School - CALIFORNIA GULLY - 3556"
+ },
+ {
+   "id": 1215,
+   "hs_company_id": 6593350201,
+   "name": "Calingiri Primary School - CALINGIRI - 6569"
+ },
+ {
+   "id": 1216,
+   "hs_company_id": 6593476704,
+   "name": "Calista Primary School - CALISTA - 6167"
+ },
+ {
+   "id": 1217,
+   "hs_company_id": 6593476438,
+   "name": "Callaghan College Jesmond Campus - JESMOND - 2299"
+ },
+ {
+   "id": 1218,
+   "hs_company_id": 6593352291,
+   "name": "Callaghan College Wallsend Campus - WALLSEND - 2287"
+ },
+ {
+   "id": 1219,
+   "hs_company_id": 6593353523,
+   "name": "Callaghan College Waratah Technology Campus - WARATAH - 2298"
+ },
+ {
+   "id": 1220,
+   "hs_company_id": 6593317258,
+   "name": "Callala Public School - CALLALA BAY - 2540"
+ },
+ {
+   "id": 1221,
+   "hs_company_id": 6593351581,
+   "name": "Callington Primary School - CALLINGTON - 5254"
+ },
+ {
+   "id": 1222,
+   "hs_company_id": 6593514646,
+   "name": "Calliope State School - CALLIOPE - 4680"
+ },
+ {
+   "id": 1223,
+   "hs_company_id": 6593514139,
+   "name": "Caloundra Christian College - CALOUNDRA - 4551"
+ },
+ {
+   "id": 1224,
+   "hs_company_id": 6593514672,
+   "name": "Caloundra City School - GOLDEN BEACH - 4551"
+ },
+ {
+   "id": 1225,
+   "hs_company_id": 6593476457,
+   "name": "Caloundra State High School - CALOUNDRA - 4551"
+ },
+ {
+   "id": 1226,
+   "hs_company_id": 6593339399,
+   "name": "Caloundra State School - CALOUNDRA - 4551"
+ },
+ {
+   "id": 1227,
+   "hs_company_id": 6593336443,
+   "name": "Calrossy Anglican School - MOORE CREEK - 2340"
+ },
+ {
+   "id": 1228,
+   "hs_company_id": 6593341329,
+   "name": "Calrossy Anglican School Brisbane Street Campus - TAMWORTH - 2340"
+ },
+ {
+   "id": 1229,
+   "hs_company_id": 6593518375,
+   "name": "Calrossy Anglican School William Cowper Campus - MOORE CREEK - 2340"
+ },
+ {
+   "id": 1230,
+   "hs_company_id": 6593517595,
+   "name": "Calvary Chapel Christian School - GEORGES HALL - 2198"
+ },
+ {
+   "id": 1231,
+   "hs_company_id": 6593517676,
+   "name": "Calvary Christian College - AITKENVALE - 4814"
+ },
+ {
+   "id": 1232,
+   "hs_company_id": 6593518948,
+   "name": "Calvary Christian College - LOGANHOLME DC - 4127"
+ },
+ {
+   "id": 1233,
+   "hs_company_id": 6593342543,
+   "name": "Calvary Christian College - LOGANHOLME DC - 4130"
+ },
+ {
+   "id": 1234,
+   "hs_company_id": 6593355681,
+   "name": "Calvary Lutheran Primary School - MORPHETT VALE - 5162"
+ },
+ {
+   "id": 1235,
+   "hs_company_id": 6593518925,
+   "name": "Calvin Christian Primary School - KINGSTON - 7050"
+ },
+ {
+   "id": 1236,
+   "hs_company_id": 6593350258,
+   "name": "Calvin Secondary School - KINGSTON - 7050"
+ },
+ {
+   "id": 1237,
+   "hs_company_id": 6593322056,
+   "name": "Calwell High School - CALWELL - 2905"
+ },
+ {
+   "id": 1238,
+   "hs_company_id": 6593351037,
+   "name": "Calwell Primary School - CALWELL - 2905"
+ },
+ {
+   "id": 1239,
+   "hs_company_id": 6593341320,
+   "name": "Camberwell Boys Grammar School - BALWYN - 3126"
+ },
+ {
+   "id": 1240,
+   "hs_company_id": 6593335811,
+   "name": "Camberwell Girls Grammar School - CANTERBURY - 3126"
+ },
+ {
+   "id": 1241,
+   "hs_company_id": 6593317006,
+   "name": "Camberwell Girls Grammar School Ormiston House - CANTERBURY - 3126"
+ },
+ {
+   "id": 1242,
+   "hs_company_id": 6593351461,
+   "name": "Camberwell High School - CANTERBURY - 3126"
+ },
+ {
+   "id": 1243,
+   "hs_company_id": 6593476612,
+   "name": "Camberwell Primary School - CAMBERWELL - 3124"
+ },
+ {
+   "id": 1244,
+   "hs_company_id": 6593516868,
+   "name": "Camberwell South Primary School - GLEN IRIS - 3146"
+ },
+ {
+   "id": 1245,
+   "hs_company_id": 6593342346,
+   "name": "Cambewarra Public School - CAMBEWARRA - 2540"
+ },
+ {
+   "id": 1246,
+   "hs_company_id": 6593476611,
+   "name": "Camboon Primary School - NORANDA - 6062"
+ },
+ {
+   "id": 1247,
+   "hs_company_id": 6593337419,
+   "name": "Cambooya State School - CAMBOOYA - 4358"
+ },
+ {
+   "id": 1248,
+   "hs_company_id": 6593513880,
+   "name": "Cambrai Area School - CAMBRAI - 5353"
+ },
+ {
+   "id": 1249,
+   "hs_company_id": 6593317189,
+   "name": "Cambridge Gardens Public School - CAMBRIDGE PARK - 2747"
+ },
+ {
+   "id": 1250,
+   "hs_company_id": 6593336624,
+   "name": "Cambridge Park High School - CAMBRIDGE PARK - 2747"
+ },
+ {
+   "id": 1251,
+   "hs_company_id": 6593350151,
+   "name": "Cambridge Park Public School - CAMBRIDGE PARK - 2747"
+ },
+ {
+   "id": 1252,
+   "hs_company_id": 6593343112,
+   "name": "Cambridge Primary School - CAMBRIDGE - 7170"
+ },
+ {
+   "id": 1253,
+   "hs_company_id": 6593335313,
+   "name": "Cambridge Primary School - WERRIBEE - 3029"
+ },
+ {
+   "id": 1254,
+   "hs_company_id": 6593317213,
+   "name": "Camden Haven High School - LAURIETON - 2443"
+ },
+ {
+   "id": 1255,
+   "hs_company_id": 6593322076,
+   "name": "Camden High School - CAMDEN - 2570"
+ },
+ {
+   "id": 1256,
+   "hs_company_id": 6593352873,
+   "name": "Camden Public School - CAMDEN - 2570"
+ },
+ {
+   "id": 1257,
+   "hs_company_id": 6593342113,
+   "name": "Camden South Public School - CAMDEN - 2570"
+ },
+ {
+   "id": 1258,
+   "hs_company_id": 6593317247,
+   "name": "Camdenville Public School - NEWTOWN - 2042"
+ },
+ {
+   "id": 1259,
+   "hs_company_id": 6593514118,
+   "name": "Camelot Rise Primary School - GLEN WAVERLEY - 3150"
+ },
+ {
+   "id": 1260,
+   "hs_company_id": 6593354404,
+   "name": "Cameragal Montessori School - NORTH SYDNEY - 2060"
+ },
+ {
+   "id": 1261,
+   "hs_company_id": 6593352825,
+   "name": "Cameron Downs State School - HUGHENDEN - 4821"
+ },
+ {
+   "id": 1262,
+   "hs_company_id": 6593341590,
+   "name": "Camira State School - GAILES - 4300"
+ },
+ {
+   "id": 1263,
+   "hs_company_id": 6593354250,
+   "name": "Cammeray Public School - CAMMERAY - 2062"
+ },
+ {
+   "id": 1264,
+   "hs_company_id": 6593337907,
+   "name": "Cammeraygal High School - NORTH SYDNEY - 2060"
+ },
+ {
+   "id": 1265,
+   "hs_company_id": 6593518115,
+   "name": "Camooweal State School - CAMOOWEAL - 4828"
+ },
+ {
+   "id": 1266,
+   "hs_company_id": 6593338717,
+   "name": "Camp Hill Infants and Primary School - CAMP HILL - 4152"
+ },
+ {
+   "id": 1267,
+   "hs_company_id": 6593506892,
+   "name": "Camp Hill Primary School - BENDIGO - 3550"
+ },
+ {
+   "id": 1268,
+   "hs_company_id": 6593350152,
+   "name": "Campania District High School - CAMPANIA - 7026"
+ },
+ {
+   "id": 1269,
+   "hs_company_id": 6593336608,
+   "name": "Campbell High School - CAMPBELL - 2612"
+ },
+ {
+   "id": 1270,
+   "hs_company_id": 6593517642,
+   "name": "Campbell House School - GLENFIELD - 2167"
+ },
+ {
+   "id": 1271,
+   "hs_company_id": 6593516695,
+   "name": "Campbell Primary School - CAMPBELL - 2612"
+ },
+ {
+   "id": 1272,
+   "hs_company_id": 6593337979,
+   "name": "Campbell Primary School - CANNING VALE - 6155"
+ },
+ {
+   "id": 1273,
+   "hs_company_id": 6593342107,
+   "name": "Campbell Street Primary School - NORTH HOBART - 7000"
+ },
+ {
+   "id": 1274,
+   "hs_company_id": 6593515326,
+   "name": "Campbell Town District High School - CAMPBELL TOWN - 7210"
+ },
+ {
+   "id": 1275,
+   "hs_company_id": 6593337396,
+   "name": "Campbellfield Heights Primary School - CAMPBELLFIELD - 3061"
+ },
+ {
+   "id": 1276,
+   "hs_company_id": 6593334025,
+   "name": "Campbellfield Public School - MINTO - 2566"
+ },
+ {
+   "id": 1277,
+   "hs_company_id": 6593337951,
+   "name": "Campbells Creek Primary School - CAMPBELLS CREEK - 3451"
+ },
+ {
+   "id": 1278,
+   "hs_company_id": 6593335930,
+   "name": "Campbelltown East Public School - CAMPBELLTOWN - 2560"
+ },
+ {
+   "id": 1279,
+   "hs_company_id": 6593476534,
+   "name": "Campbelltown North Public School - CAMPBELLTOWN - 2560"
+ },
+ {
+   "id": 1280,
+   "hs_company_id": 6593341705,
+   "name": "Campbelltown Performing Arts High School - CAMPBELLTOWN - 2560"
+ },
+ {
+   "id": 1281,
+   "hs_company_id": 6593352989,
+   "name": "Campbelltown Public School - CAMPBELLTOWN - 2560"
+ },
+ {
+   "id": 1282,
+   "hs_company_id": 6593514100,
+   "name": "Camperdown College Wilson Street Campus - CAMPERDOWN - 3260"
+ },
+ {
+   "id": 1283,
+   "hs_company_id": 6593334639,
+   "name": "Campsie Public School - CAMPSIE - 2194"
+ },
+ {
+   "id": 1284,
+   "hs_company_id": 6593336502,
+   "name": "Cana Catholic Primary School - HILLSIDE - 3037"
+ },
+ {
+   "id": 1285,
+   "hs_company_id": 6593515960,
+   "name": "Canadian Lead Primary School Otway Street Campus - BALLARAT - 3350"
+ },
+ {
+   "id": 1286,
+   "hs_company_id": 6593514148,
+   "name": "Canberra Christian School - MAWSON - 2607"
+ },
+ {
+   "id": 1287,
+   "hs_company_id": 6593310625,
+   "name": "Canberra Girls Grammar School - DEAKIN - 2600"
+ },
+ {
+   "id": 1288,
+   "hs_company_id": 6593317007,
+   "name": "Canberra Girls Grammar School Junior School - DEAKIN - 2600"
+ },
+ {
+   "id": 1289,
+   "hs_company_id": 6593341829,
+   "name": "Canberra Grammar School - CAMPBELL - 2612"
+ },
+ {
+   "id": 1290,
+   "hs_company_id": 6593337685,
+   "name": "Canberra Grammar School - RED HILL - 2603"
+ },
+ {
+   "id": 1291,
+   "hs_company_id": 6593337681,
+   "name": "Canberra Grammar School Junior School (3-6) - RED HILL - 2603"
+ },
+ {
+   "id": 1292,
+   "hs_company_id": 6593350779,
+   "name": "Canberra High School - MACQUARIE - 2614"
+ },
+ {
+   "id": 1293,
+   "hs_company_id": 6593518265,
+   "name": "Canberra Montessori School - HOLDER - 2611"
+ },
+ {
+   "id": 1294,
+   "hs_company_id": 6593342274,
+   "name": "Candelo Public School - CANDELO - 2550"
+ },
+ {
+   "id": 1295,
+   "hs_company_id": 6593352269,
+   "name": "Candlebark School - ROMSEY - 3434"
+ },
+ {
+   "id": 1296,
+   "hs_company_id": 6593350297,
+   "name": "Candlenut Steiner School - KURANDA - 4881"
+ },
+ {
+   "id": 1297,
+   "hs_company_id": 6593317917,
+   "name": "Caniaba Public School - CANIABA - 2480"
+ },
+ {
+   "id": 1298,
+   "hs_company_id": 6593506688,
+   "name": "Caningeraba State School - BURLEIGH WATERS - 4220"
+ },
+ {
+   "id": 1299,
+   "hs_company_id": 6593506914,
+   "name": "Canley Heights Public School - CANLEY HEIGHTS - 2166"
+ },
+ {
+   "id": 1300,
+   "hs_company_id": 6593333885,
+   "name": "Canley Vale High School - CANLEY VALE - 2166"
+ },
+ {
+   "id": 1301,
+   "hs_company_id": 6593476667,
+   "name": "Canley Vale Public School - CANLEY VALE - 2166"
+ },
+ {
+   "id": 1302,
+   "hs_company_id": 6593349943,
+   "name": "Cann River P-12 College - CANN RIVER - 3890"
+ },
+ {
+   "id": 1303,
+   "hs_company_id": 6593338122,
+   "name": "Canning College - BENTLEY DC - 6102"
+ },
+ {
+   "id": 1304,
+   "hs_company_id": 6593518121,
+   "name": "Canning Vale College - CANNING VALE - 6155"
+ },
+ {
+   "id": 1305,
+   "hs_company_id": 6593516941,
+   "name": "Canning Vale Education Support Centre - CANNING VALE - 6155"
+ },
+ {
+   "id": 1306,
+   "hs_company_id": 6593342798,
+   "name": "Canning Vale Primary School - CANNING VALE - 6155"
+ },
+ {
+   "id": 1307,
+   "hs_company_id": 6593354387,
+   "name": "Cannington College Education Support Centre - CANNINGTON - 6107"
+ },
+ {
+   "id": 1308,
+   "hs_company_id": 6593341609,
+   "name": "Cannington Community College - CANNINGTON - 6107"
+ },
+ {
+   "id": 1309,
+   "hs_company_id": 6593351024,
+   "name": "Cannon Hill Anglican College - TINGALPA DC - 4170"
+ },
+ {
+   "id": 1310,
+   "hs_company_id": 6593341558,
+   "name": "Cannon Hill State School - CANNON HILL - 4170"
+ },
+ {
+   "id": 1311,
+   "hs_company_id": 6593350743,
+   "name": "Cannonvale State School - CANNONVALE - 4802"
+ },
+ {
+   "id": 1312,
+   "hs_company_id": 6593341746,
+   "name": "Canobolas Public School - ORANGE - 2800"
+ },
+ {
+   "id": 1313,
+   "hs_company_id": 6593341511,
+   "name": "Canobolas Rural Technology High School - ORANGE - 2800"
+ },
+ {
+   "id": 1314,
+   "hs_company_id": 6593350214,
+   "name": "Canowindra High School - CANOWINDRA - 2804"
+ },
+ {
+   "id": 1315,
+   "hs_company_id": 6593352996,
+   "name": "Canowindra Public School - CANOWINDRA - 2804"
+ },
+ {
+   "id": 1316,
+   "hs_company_id": 6593518217,
+   "name": "Canteen Creek School - ALICE SPRINGS - 870"
+ },
+ {
+   "id": 1317,
+   "hs_company_id": 6593310608,
+   "name": "Canterbury Boys High School - ASHBURY - 2193"
+ },
+ {
+   "id": 1318,
+   "hs_company_id": 6593352250,
+   "name": "Canterbury College - BEENLEIGH - 4133"
+ },
+ {
+   "id": 1319,
+   "hs_company_id": 6593337696,
+   "name": "Canterbury Girls High School - CANTERBURY - 2193"
+ },
+ {
+   "id": 1320,
+   "hs_company_id": 6593333615,
+   "name": "Canterbury Girls Secondary College - CANTERBURY - 3126"
+ },
+ {
+   "id": 1321,
+   "hs_company_id": 6593349950,
+   "name": "Canterbury Primary School - CANTERBURY - 3126"
+ },
+ {
+   "id": 1322,
+   "hs_company_id": 6593516174,
+   "name": "Canterbury Public School - CANTERBURY - 2193"
+ },
+ {
+   "id": 1323,
+   "hs_company_id": 6593322119,
+   "name": "Canterbury South Public School - CANTERBURY - 2193"
+ },
+ {
+   "id": 1324,
+   "hs_company_id": 6593514819,
+   "name": "Canterbury Vale School - LAKEMBA - 2195"
+ },
+ {
+   "id": 1325,
+   "hs_company_id": 6593342479,
+   "name": "Canungra State School - CANUNGRA - 4275"
+ },
+ {
+   "id": 1326,
+   "hs_company_id": 6593506891,
+   "name": "Capalaba State College - CAPALABA - 4157"
+ },
+ {
+   "id": 1327,
+   "hs_company_id": 6593343019,
+   "name": "Cape Barren Island School - CAPE BARREN ISLAND - 7257"
+ },
+ {
+   "id": 1328,
+   "hs_company_id": 6593516888,
+   "name": "Cape Byron Steiner School - BYRON BAY - 2481"
+ },
+ {
+   "id": 1329,
+   "hs_company_id": 6593317260,
+   "name": "Cape Clear Primary School - CAPE CLEAR - 3351"
+ },
+ {
+   "id": 1330,
+   "hs_company_id": 6593338552,
+   "name": "Cape Naturaliste College - VASSE - 6280"
+ },
+ {
+   "id": 1331,
+   "hs_company_id": 6593350785,
+   "name": "Cape York Aboriginal Australian Academy - AURUKUN - 4871"
+ },
+ {
+   "id": 1332,
+   "hs_company_id": 6593476411,
+   "name": "Cape York Aboriginal Australian Academy - CAIRNS - 4870"
+ },
+ {
+   "id": 1333,
+   "hs_company_id": 6593339228,
+   "name": "Cape York Aboriginal Australian Academy - COEN - 4871"
+ },
+ {
+   "id": 1334,
+   "hs_company_id": 6593350211,
+   "name": "Cape York Aboriginal Australian Academy - COOKTOWN - 4871"
+ },
+ {
+   "id": 1335,
+   "hs_company_id": 6593321393,
+   "name": "Capel Primary School - CAPEL - 6271"
+ },
+ {
+   "id": 1336,
+   "hs_company_id": 6593353579,
+   "name": "Capella State High School - CAPELLA - 4723"
+ },
+ {
+   "id": 1337,
+   "hs_company_id": 6593518178,
+   "name": "Capella State School - CAPELLA - 4723"
+ },
+ {
+   "id": 1338,
+   "hs_company_id": 6593341819,
+   "name": "Capertee Public School - CAPERTEE - 2846"
+ },
+ {
+   "id": 1339,
+   "hs_company_id": 6593343150,
+   "name": "Capricornia School of Distance Education - EMERALD - 4720"
+ },
+ {
+   "id": 1340,
+   "hs_company_id": 6593518867,
+   "name": "Capricornia School of Distance Education - KAWANA - 4701"
+ },
+ {
+   "id": 1341,
+   "hs_company_id": 6593342827,
+   "name": "Captains Flat Public School - CAPTAINS FLAT - 2623"
+ },
+ {
+   "id": 1342,
+   "hs_company_id": 6593516708,
+   "name": "Caragabal Public School - CARABAGAL - 2810"
+ },
+ {
+   "id": 1343,
+   "hs_company_id": 6593351428,
+   "name": "Caralee Community School - WILLAGEE - 6156"
+ },
+ {
+   "id": 1344,
+   "hs_company_id": 6593518164,
+   "name": "Caravonica State School - SMITHFIELD - 4878"
+ },
+ {
+   "id": 1345,
+   "hs_company_id": 6593501104,
+   "name": "Carbrook State School - CARBROOK - 4130"
+ },
+ {
+   "id": 1346,
+   "hs_company_id": 6593336590,
+   "name": "Carcoar Public School - CARCOAR - 2791"
+ },
+ {
+   "id": 1347,
+   "hs_company_id": 6593516872,
+   "name": "Carcoola Primary School - PINJARRA - 6208"
+ },
+ {
+   "id": 1348,
+   "hs_company_id": 6593341806,
+   "name": "Cardiff High School - CARDIFF - 2285"
+ },
+ {
+   "id": 1349,
+   "hs_company_id": 6593335393,
+   "name": "Cardiff North Public School - CARDIFF - 2285"
+ },
+ {
+   "id": 1350,
+   "hs_company_id": 6593334682,
+   "name": "Cardiff Public School - CARDIFF - 2285"
+ },
+ {
+   "id": 1351,
+   "hs_company_id": 6593322138,
+   "name": "Cardiff South Public School - CARDIFF SOUTH - 2285"
+ },
+ {
+   "id": 1352,
+   "hs_company_id": 6593337134,
+   "name": "Cardijn College - NOARLUNGA CENTRE - 5168"
+ },
+ {
+   "id": 1353,
+   "hs_company_id": 6593514420,
+   "name": "Cardinia Primary School - CARDINIA - 3978"
+ },
+ {
+   "id": 1354,
+   "hs_company_id": 6593342857,
+   "name": "Cardross Primary School - CARDROSS - 3496"
+ },
+ {
+   "id": 1355,
+   "hs_company_id": 6593343106,
+   "name": "Cardwell State School - CARDWELL - 4849"
+ },
+ {
+   "id": 1356,
+   "hs_company_id": 6593514599,
+   "name": "Career Enterprise Centre - MANDURAH DC - 6210"
+ },
+ {
+   "id": 1357,
+   "hs_company_id": 6593519501,
+   "name": "Carenne School - BATHURST - 2795"
+ },
+ {
+   "id": 1358,
+   "hs_company_id": 6593352268,
+   "name": "Carey Baptist College - CANNING VALE DC - 6112"
+ },
+ {
+   "id": 1359,
+   "hs_company_id": 6593350283,
+   "name": "Carey Baptist Grammar School - DONVALE - 3111"
+ },
+ {
+   "id": 1360,
+   "hs_company_id": 6593515533,
+   "name": "Carey Baptist Grammar School - KEW - 3101"
+ },
+ {
+   "id": 1361,
+   "hs_company_id": 6593342766,
+   "name": "Carey Park Primary School - CAREY PARK - 6230"
+ },
+ {
+   "id": 1362,
+   "hs_company_id": 6593476648,
+   "name": "Cargo Public School - CARGO - 2800"
+ },
+ {
+   "id": 1363,
+   "hs_company_id": 6593337785,
+   "name": "Carina State School - CARINA - 4152"
+ },
+ {
+   "id": 1364,
+   "hs_company_id": 6593334687,
+   "name": "Carinda Public School - CARINDA - 2831"
+ },
+ {
+   "id": 1365,
+   "hs_company_id": 6593350804,
+   "name": "Carine Primary School - CARINE - 6020"
+ },
+ {
+   "id": 1366,
+   "hs_company_id": 6593501249,
+   "name": "Carine Senior High School - CARINE - 6020"
+ },
+ {
+   "id": 1367,
+   "hs_company_id": 6593338032,
+   "name": "Caringbah High School - CARINGBAH - 2229"
+ },
+ {
+   "id": 1368,
+   "hs_company_id": 6593506840,
+   "name": "Caringbah North Public School - CARINGBAH - 2229"
+ },
+ {
+   "id": 1369,
+   "hs_company_id": 6593337932,
+   "name": "Caringbah Public School - CARINGBAH - 2229"
+ },
+ {
+   "id": 1370,
+   "hs_company_id": 6593507132,
+   "name": "Carinya Christian School - CALALA - 2340"
+ },
+ {
+   "id": 1371,
+   "hs_company_id": 6593516917,
+   "name": "Carinya Christian School - GUNNEDAH - 2380"
+ },
+ {
+   "id": 1372,
+   "hs_company_id": 6593354415,
+   "name": "Carinya Special School - MORTDALE - 2223"
+ },
+ {
+   "id": 1373,
+   "hs_company_id": 6593517492,
+   "name": "Carisbrook Primary School - CARISBROOK - 3464"
+ },
+ {
+   "id": 1374,
+   "hs_company_id": 6593341358,
+   "name": "Caritas College - PORT AUGUSTA - 5700"
+ },
+ {
+   "id": 1375,
+   "hs_company_id": 6593343088,
+   "name": "Carlingford High School - CARLINGFORD - 2118"
+ },
+ {
+   "id": 1376,
+   "hs_company_id": 6593353526,
+   "name": "Carlingford Public School - CARLINGFORD - 2118"
+ },
+ {
+   "id": 1377,
+   "hs_company_id": 6593351456,
+   "name": "Carlingford West Public School - CARLINGFORD - 2118"
+ },
+ {
+   "id": 1378,
+   "hs_company_id": 6593501264,
+   "name": "Carlisle Adventist Christian College - BEACONSFIELD - 4740"
+ },
+ {
+   "id": 1379,
+   "hs_company_id": 6593500822,
+   "name": "Carlisle Primary School - KEWDALE - 6105"
+ },
+ {
+   "id": 1380,
+   "hs_company_id": 6593341816,
+   "name": "Carlisle River Primary School - CARLISLE RIVER - 3239"
+ },
+ {
+   "id": 1381,
+   "hs_company_id": 6593518895,
+   "name": "Carlton Gardens Primary School - CARLTON - 3053"
+ },
+ {
+   "id": 1382,
+   "hs_company_id": 6593350004,
+   "name": "Carlton North Primary School - CARLTON NORTH - 3054"
+ },
+ {
+   "id": 1383,
+   "hs_company_id": 6593338002,
+   "name": "Carlton Primary School - CARLTON - 3053"
+ },
+ {
+   "id": 1384,
+   "hs_company_id": 6593342288,
+   "name": "Carlton Primary School - PORT AUGUSTA - 5700"
+ },
+ {
+   "id": 1385,
+   "hs_company_id": 6593352817,
+   "name": "Carlton Public School - BEXLEY - 2207"
+ },
+ {
+   "id": 1386,
+   "hs_company_id": 6593514029,
+   "name": "Carlton South Public School - CARLTON - 2218"
+ },
+ {
+   "id": 1387,
+   "hs_company_id": 6593342548,
+   "name": "Carmel Adventist College - CARMEL - 6076"
+ },
+ {
+   "id": 1388,
+   "hs_company_id": 6593351561,
+   "name": "Carmel Adventist College Primary - BICKLEY - 6076"
+ },
+ {
+   "id": 1389,
+   "hs_company_id": 6593337230,
+   "name": "Carmel College - THORNLANDS - 4164"
+ },
+ {
+   "id": 1390,
+   "hs_company_id": 6593343261,
+   "name": "Carmel School - DIANELLA - 6059"
+ },
+ {
+   "id": 1391,
+   "hs_company_id": 6593339266,
+   "name": "Carmila State School - CARMILA - 4739"
+ },
+ {
+   "id": 1392,
+   "hs_company_id": 6593518935,
+   "name": "Carnamah District High School - CARNAMAH - 6517"
+ },
+ {
+   "id": 1393,
+   "hs_company_id": 6593353639,
+   "name": "Carnarvon Christian School - CARNARVON - 6701"
+ },
+ {
+   "id": 1394,
+   "hs_company_id": 6593514667,
+   "name": "Carnarvon Community College Primary Campus - CARNARVON - 6701"
+ },
+ {
+   "id": 1395,
+   "hs_company_id": 6593321490,
+   "name": "Carnarvon Community College Primary Campus - CARNARVON - 6701"
+ },
+ {
+   "id": 1396,
+   "hs_company_id": 6593339237,
+   "name": "Carnarvon Community College Secondary Campus - CARNARVON - 6701"
+ },
+ {
+   "id": 1397,
+   "hs_company_id": 6593500814,
+   "name": "Carnarvon School of the Air - CARNARVON - 6701"
+ },
+ {
+   "id": 1398,
+   "hs_company_id": 6593353739,
+   "name": "Carnegie Education Centre - KEW - 3101"
+ },
+ {
+   "id": 1399,
+   "hs_company_id": 6593500944,
+   "name": "Carnegie Primary School - CARNEGIE - 3163"
+ },
+ {
+   "id": 1400,
+   "hs_company_id": 6593322097,
+   "name": "Carole Park State School - CAROLE PARK - 4300"
+ },
+ {
+   "id": 1401,
+   "hs_company_id": 6593335932,
+   "name": "Caroline Chisholm Catholic College - BRAYBROOK - 3019"
+ },
+ {
+   "id": 1402,
+   "hs_company_id": 6593316522,
+   "name": "Caroline Chisholm Catholic College Junior School - BRAYBROOK - 3019"
+ },
+ {
+   "id": 1403,
+   "hs_company_id": 6593336455,
+   "name": "Caroline Chisholm College - GLENMORE PARK - 2745"
+ },
+ {
+   "id": 1404,
+   "hs_company_id": 6593352210,
+   "name": "Caroline Chisholm High School - CHISHOLM - 2905"
+ },
+ {
+   "id": 1405,
+   "hs_company_id": 6593350728,
+   "name": "Caroline Chisholm School - CHISHOLM - 2905"
+ },
+ {
+   "id": 1406,
+   "hs_company_id": 6593514255,
+   "name": "Caroline Chisholm Special School - PADSTOW - 2211"
+ },
+ {
+   "id": 1407,
+   "hs_company_id": 6593513885,
+   "name": "Carool Public School - CAROOL - 2486"
+ },
+ {
+   "id": 1408,
+   "hs_company_id": 6593506985,
+   "name": "Carramar Primary School - CARRAMAR - 6031"
+ },
+ {
+   "id": 1409,
+   "hs_company_id": 6593335904,
+   "name": "Carramar Public School - VILLAWOOD - 2163"
+ },
+ {
+   "id": 1410,
+   "hs_company_id": 6593342295,
+   "name": "Carranballac College Boardwalk Campus - POINT COOK - 3030"
+ },
+ {
+   "id": 1411,
+   "hs_company_id": 6593337934,
+   "name": "Carranballac College Jamieson Way Campus - POINT COOK - 3030"
+ },
+ {
+   "id": 1412,
+   "hs_company_id": 6593349945,
+   "name": "Carraragarmungee Primary School - LONDRIGAN - 3678"
+ },
+ {
+   "id": 1413,
+   "hs_company_id": 6593353548,
+   "name": "Carrathool Public School - CARRATHOOL - 2711"
+ },
+ {
+   "id": 1414,
+   "hs_company_id": 6593501092,
+   "name": "Carrington Primary School - KNOXFIELD - 3180"
+ },
+ {
+   "id": 1415,
+   "hs_company_id": 6593354279,
+   "name": "Carrington Public School - CARRINGTON - 2294"
+ },
+ {
+   "id": 1416,
+   "hs_company_id": 6593341458,
+   "name": "Carroll College - BROULEE - 2537"
+ },
+ {
+   "id": 1417,
+   "hs_company_id": 6593353546,
+   "name": "Carroll Public School - CARROLL - 2340"
+ },
+ {
+   "id": 1418,
+   "hs_company_id": 6593476381,
+   "name": "Carrum Downs Primary School - CARRUM DOWNS - 3201"
+ },
+ {
+   "id": 1419,
+   "hs_company_id": 6593506969,
+   "name": "Carrum Downs Secondary College - CARRUM DOWNS - 3201"
+ },
+ {
+   "id": 1420,
+   "hs_company_id": 6593339231,
+   "name": "Carrum Primary School - CARRUM - 3197"
+ }
+]
